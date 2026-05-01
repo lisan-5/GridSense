@@ -1,31 +1,27 @@
 # Project Summary
 
-GridSense investigates electricity outage risk in Addis Ababa using community-reported data and a two-stage forecasting approach.
+GridSense studies electricity outage patterns in Addis Ababa using anonymous community reports and a two-stage modelling approach.
 
-## Project shift
+## Core question
 
-The project moved from report-level risk scoring to **time-location outage forecasting**.
+Can anonymous community outage reports be used to understand outage patterns in Addis Ababa and build a responsible early risk signal for local planning?
 
-New main question:
-Can community-reported data, time features, location, planning status, and weather conditions be used to estimate electricity outage risk in Addis Ababa?
+## Two-stage design
 
-## Two-stage model design
+1. **Stage 1: Community outage-report risk model**
+- Target: probability that an outage report is captured in a sub-city time window
+- Input (safe pre-report features): sub-city, day of week, hour block / time window
+- Interpretation: community-reported outage risk signal (not official utility outage truth)
 
-1. **Model 1: Outage forecasting**
-- Target: `outage_reported`
-- Input: time window, day of week, sub-city, weather, rainy indicator, planning status
-- Output: outage risk probability
+2. **Stage 2: Conditional impact model**
+- Scope: windows/events where an outage is reported
+- Outputs: likely severity and likely duration
+- Use: identify reports that may need higher local attention
 
-2. **Model 2: Conditional impact**
-- Scope: rows where outage occurs
-- Targets: `high_severity_outage` and `avg_duration_hours`
-- Output: likely disruption intensity if outage happens
+## Local value
 
-## Why this is useful locally
-
-This design supports planning decisions for students, households, and small businesses by estimating when/where risk is higher and how disruptive outages may be.
+The project supports planning for students, households, and small businesses by highlighting stronger reported-outage windows and likely disruption level.
 
 ## Limits
 
-The data is community-reported and not official utility telemetry. Results should be treated as local decision-support evidence, not operational outage control.
-
+The signal is based on community reporting coverage and participation. It is decision-support evidence, not official utility operations telemetry.

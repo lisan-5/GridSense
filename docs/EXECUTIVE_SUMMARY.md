@@ -1,19 +1,21 @@
 # Executive summary
 
 ## Project
-GridSense: A real-data-first analysis of electricity reliability in Addis Ababa.
+GridSense: a community-report-based analysis of electricity outage patterns in Addis Ababa.
 
-## Question
-To what extent can currently available public evidence and collected community reports explain electricity reliability in Addis Ababa, and support outage-risk prediction?
+## Core question
+Can anonymous community outage reports be used to understand outage patterns and produce a responsible early risk signal for local planning?
 
-## Findings
-- Addis Ababa has high electricity access, but reliability remains a challenge.
-- Official/public evidence reports 882 medium-voltage interruptions and 2,103 interruption hours in a 2019/20 baseline.
-- A later public report described more than 25,000 outage-related problems identified in Addis Ababa, with 54% resolved.
-- Ethiopia Enterprise Survey indicators show that outages have been a serious business constraint.
-- A real community dataset (`n=198`) was collected through a non-personal Streamlit workflow.
-- On a held-out test split, trained models outperformed baseline strongly (best: Random Forest, accuracy 0.80, F1-high-risk 0.7619, ROC-AUC 0.9221).
+## Dataset scope used in notebook
+- 198 community outage events
+- 1,584 sub-city / time-window records
+- 11 Addis Ababa sub-cities
+- 18 dates
+- 8 three-hour windows per day
 
-## Engineering decision
-The project avoids treating synthetic data as real. It now includes a real-data trained research model and transparent evaluation, while explicitly avoiding operational overclaiming.
+## Method
+1. Stage 1 estimates the probability that an outage report is captured in each sub-city time window.
+2. Stage 2 estimates likely outage impact (severity and duration) for reported outages.
 
+## Interpretation
+GridSense is a community-based outage report intelligence tool for local planning support. It is not an official electricity utility forecasting or dispatch system.

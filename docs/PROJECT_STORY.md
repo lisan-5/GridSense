@@ -1,8 +1,13 @@
 # Project story
 
-GridSense starts from a local everyday problem: electricity outages in Addis Ababa affect studying, work, small businesses, communication, food storage, and planning.
+GridSense starts from a local everyday problem: electricity interruptions in Addis Ababa affect studying, work, communication, small businesses, and daily planning.
 
-The project does not try to solve the entire grid. Instead, it asks a focused Kujenga-style question: what can public data tell us about electricity reliability in Addis Ababa, and what would be required to build a responsible outage-risk model?
+The project asks a focused question: can anonymous community outage reports be transformed into a useful time-window dataset that supports responsible local outage-risk insight?
 
-The main contribution is a real-data-first notebook that combines public reliability evidence, Enterprise Survey indicators, a transparent severity index, a privacy-safe community collection flow, and a trained/evaluated outage-risk model using collected non-synthetic event reports.
+Its main contribution is a privacy-aware, community-report-based workflow that:
+- cleans event-level reports,
+- builds sub-city time-window records,
+- estimates community outage-report risk (Stage 1), and
+- estimates conditional severity/duration when outages are reported (Stage 2).
 
+The output is intentionally interpreted as a community early-attention signal, not official utility outage truth.
