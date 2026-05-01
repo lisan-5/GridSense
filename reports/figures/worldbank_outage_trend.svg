@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="35" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Enterprise power outages in Ethiopia</text>
+<line x1="80" y1="440" x2="820" y2="440" stroke="#333"/>
+<line x1="80" y1="80" x2="80" y2="440" stroke="#333"/>
+<polyline points="80.0,440.0 491.1,248.0 820.0,120.0" fill="none" stroke="#4d6fb3" stroke-width="4"/>
+<circle cx="80.0" cy="440.0" r="6" fill="#243a73"/>
+<text x="80.0" y="428.0" text-anchor="middle" font-family="Arial" font-size="14">1.7</text>
+<text x="80.0" y="465" text-anchor="middle" font-family="Arial" font-size="13">2006</text>
+<circle cx="491.1" cy="248.0" r="6" fill="#243a73"/>
+<text x="491.1" y="236.0" text-anchor="middle" font-family="Arial" font-size="14">5.6</text>
+<text x="491.1" y="465" text-anchor="middle" font-family="Arial" font-size="13">2011</text>
+<circle cx="820.0" cy="120.0" r="6" fill="#243a73"/>
+<text x="820.0" y="108.0" text-anchor="middle" font-family="Arial" font-size="14">8.2</text>
+<text x="820.0" y="465" text-anchor="middle" font-family="Arial" font-size="13">2015</text>
+<text x="25" y="260.0" transform="rotate(-90 25,260.0)" text-anchor="middle" font-family="Arial" font-size="14">Outages/month</text>
+</svg>

@@ -1,0 +1,5 @@
+component,raw_value,higher_means,weight,source_id,normalized_score,weighted_score
+MV interruptions per year,882,more disruption,0.25,mowe_mv_interruptions_2019_20,0.0353,0.0088
+MV interruption hours per year,2103,more disruption,0.3,mowe_mv_interruption_hours_2019_20,0.0841,0.0252
+Identified outage-related issues,25000,more disruption,0.25,eeu_issues_identified_addis_2025,1.0,0.25
+Unresolved issue share,46,more remaining disruption,0.2,eeu_issues_resolved_addis_2025,0.0018,0.0004

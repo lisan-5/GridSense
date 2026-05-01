@@ -1,0 +1,199 @@
+report_id,date,sub_city,sefer_or_landmark,outage_start_time,outage_end_time,duration_hours,planned_notice,impact_level,weather_condition,source_type,confidence_score,notes_without_personal_data,high_risk_outage
+COMM-00001,2026-04-12,Bole,Rwanda,03:00,05:01,2.02,no,medium,clear,whatsapp_group,0.62,Power went off around 3 AM in Rwanda area. Lasted over 2 hours. Many residents complaining.,1
+COMM-00002,2026-04-13,Gulele,Shiro Meda,23:00,23:23,0.39,yes,low,cloudy,mobile_app,0.76,Short interruption announced earlier. Light came back quickly.,0
+COMM-00003,2026-04-14,Akaki Kality,Kality,16:00,16:39,0.65,no,low,cloudy,sms_hotline,0.56,Brief outage in Kality this afternoon. Not sure why.,0
+COMM-00004,2026-04-15,Lideta,Tor Hailoch,07:00,08:00,1.0,yes,low,rain,community_call,0.79,Morning outage during rain. Planned according to neighbors. No big issue.,0
+COMM-00005,2026-04-16,Arada,Arat Kilo,05:00,06:00,1.0,yes,low,clear,whatsapp_group,0.70,Early morning outage in Arat Kilo. Came back after 1 hour as announced.,0
+COMM-00006,2026-04-17,Arada,Piassa,02:00,03:00,1.0,no,low,clear,mobile_app,0.69,Very short night outage in Piassa. Most people were sleeping.,0
+COMM-00007,2026-04-18,Lideta,Mexico,23:00,00:00,1.0,no,low,windy,sms_hotline,0.47,No outage observed tonight in Mexico area.,0
+COMM-00008,2026-04-19,Akaki Kality,Gelane,20:00,22:34,2.58,no,high,cloudy,community_call,0.61,Long outage in Gelane during evening peak hours. Very frustrating.,1
+COMM-00009,2026-04-20,Kolfe Keranio,Winget,21:00,01:09,4.16,unknown,high,windy,whatsapp_group,0.61,Power out for over 4 hours in Winget. High demand time. People angry.,1
+COMM-00010,2026-04-21,Arada,Arat Kilo,03:00,04:00,1.0,unknown,low,cloudy,mobile_app,0.59,No significant outage reported.,0
+COMM-00011,2026-04-22,Lemi Kura,Figa,06:00,08:18,2.3,no,medium,rain,field_technician,0.70,Heavy rain and outage for more than 2 hours in Figa this morning.,1
+COMM-00012,2026-04-23,Gulele,Addisu Gebeya,05:00,06:36,1.6,no,medium,clear,sms_hotline,0.56,Anonymous report of morning outage in Addisu Gebeya.,0
+COMM-00013,2026-04-24,Gulele,Addisu Gebeya,22:00,23:00,1.0,unknown,low,rain,mobile_app,0.53,No outage tonight.,0
+COMM-00014,2026-04-25,Kirkos,Wollo Sefer,01:00,02:00,1.0,yes,low,clear,whatsapp_group,0.80,Scheduled short outage at night.,0
+COMM-00015,2026-04-26,Kirkos,Meskel Square,22:00,00:27,2.45,no,medium,rain,community_call,0.74,Rainy night outage around Meskel Square lasted about 2.5 hours.,1
+COMM-00016,2026-04-27,Addis Ketema,Autobus Tera,04:00,05:00,1.0,no,low,clear,sms_hotline,0.54,No outage reported.,0
+COMM-00017,2026-04-28,Akaki Kality,Saris Abo Side,13:00,14:00,1.0,unknown,low,clear,mobile_app,0.55,Quick check - no outage observed.,0
+COMM-00018,2026-04-29,Bole,Bole Medhanialem,02:00,03:00,1.0,yes,low,clear,whatsapp_group,0.71,Short planned outage at night.,0
+COMM-00019,2026-04-12,Arada,Sidist Kilo,02:00,03:00,1.0,no,low,cloudy,community_call,0.59,No outage.,0
+COMM-00020,2026-04-13,Lemi Kura,Ayat,00:00,03:24,3.41,no,high,rain,field_technician,0.75,Heavy rain caused long outage in Ayat area. Many houses affected.,1
+COMM-00021,2026-04-14,Yeka,Shola,10:00,11:39,1.66,no,medium,cloudy,sms_hotline,0.63,Anonymous report from Shola.,0
+COMM-00022,2026-04-15,Addis Ketema,Addisu Gebeya,23:00,01:54,2.91,no,medium,rain,whatsapp_group,0.63,Rain started and power went off for almost 3 hours.,1
+COMM-00023,2026-04-16,Lemi Kura,Summit,09:00,10:00,1.0,no,low,clear,mobile_app,0.49,No outage reported.,0
+COMM-00024,2026-04-17,Bole,Airport Area,16:00,17:00,1.0,yes,low,clear,community_call,0.74,Short scheduled outage near airport.,0
+COMM-00025,2026-04-18,Kolfe Keranio,Ayer Tena,09:00,10:00,1.0,no,low,clear,sms_hotline,0.56,No outage.,0
+COMM-00026,2026-04-19,Yeka,Hayahulet,15:00,16:21,1.36,yes,low,rain,mobile_app,0.82,Announced short outage during rain in Hayahulet.,0
+COMM-00027,2026-04-20,Addis Ketema,Addisu Gebeya,05:00,07:30,2.51,no,medium,storm,whatsapp_group,0.72,Storm hit early morning. Power out for 2.5 hours.,1
+COMM-00028,2026-04-21,Kolfe Keranio,Tor Hailoch,23:00,00:00,1.0,unknown,low,clear,community_call,0.51,No outage.,0
+COMM-00029,2026-04-22,Lideta,Mexico,16:00,17:00,1.0,yes,low,clear,sms_hotline,0.72,Scheduled outage.,0
+COMM-00030,2026-04-23,Akaki Kality,Tulu Dimtu,07:00,09:44,2.74,no,high,clear,field_technician,0.59,Long outage during morning rush in Tulu Dimtu.,1
+COMM-00031,2026-04-24,Yeka,Megenagna,07:00,09:42,2.71,yes,high,rain,mobile_app,0.86,Announced long outage in rain at Megenagna.,1
+COMM-00032,2026-04-25,Lemi Kura,Goro,08:00,10:04,2.07,yes,high,clear,whatsapp_group,0.75,Planned outage lasted over 2 hours in Goro.,1
+COMM-00033,2026-04-26,Akaki Kality,Saris Abo Side,18:00,20:25,2.43,no,high,clear,community_call,0.57,Evening high demand outage in Saris Abo Side.,1
+COMM-00034,2026-04-27,Yeka,Megenagna,06:00,10:01,4.02,no,high,rain,sms_hotline,0.63,Very long outage during heavy rain this morning.,1
+COMM-00035,2026-04-28,Bole,Rwanda,23:00,02:26,3.44,no,high,rain,whatsapp_group,0.68,Rainy night outage lasted over 3 hours in Rwanda area.,1
+COMM-00036,2026-04-29,Yeka,Kotebe,10:00,11:00,1.0,no,low,clear,mobile_app,0.51,No outage.,0
+COMM-00037,2026-04-12,Lideta,Lideta Condominiums,08:00,10:43,2.72,yes,high,storm,field_technician,0.84,Announced outage during storm in Lideta condos.,1
+COMM-00038,2026-04-13,Yeka,Megenagna,17:00,19:43,2.72,no,medium,rain,community_call,0.71,Evening rain and power cut for nearly 3 hours.,1
+COMM-00039,2026-04-14,Nifas Silk-Lafto,Gotera,07:00,09:24,2.41,yes,high,cloudy,sms_hotline,0.81,Planned outage in Gotera this morning.,1
+COMM-00040,2026-04-15,Nifas Silk-Lafto,Gotera,01:00,01:15,0.25,no,low,clear,whatsapp_group,0.66,Very short outage at night.,0
+COMM-00041,2026-04-16,Addis Ketema,Teklehaimanot,14:00,16:17,2.29,no,medium,rain,mobile_app,0.77,Rain caused outage in Teklehaimanot.,1
+COMM-00042,2026-04-17,Lideta,Lideta Condominiums,22:00,00:16,2.27,yes,medium,clear,community_call,0.73,Announced outage at night.,1
+COMM-00043,2026-04-18,Bole,Rwanda,17:00,18:00,1.0,yes,low,clear,sms_hotline,0.77,No outage observed.,0
+COMM-00044,2026-04-19,Nifas Silk-Lafto,Jemo 1,16:00,17:00,1.0,yes,low,windy,mobile_app,0.81,Scheduled short outage.,0
+COMM-00045,2026-04-20,Lemi Kura,Summit,02:00,03:00,1.0,unknown,low,clear,whatsapp_group,0.48,No outage.,0
+COMM-00046,2026-04-21,Bole,Airport Area,19:00,21:45,2.76,no,high,clear,field_technician,0.64,Long evening outage near airport.,1
+COMM-00047,2026-04-22,Kirkos,Bambis,16:00,18:31,2.53,no,medium,clear,community_call,0.63,Anonymous report of afternoon outage.,1
+COMM-00048,2026-04-23,Lemi Kura,Figa,04:00,05:00,1.0,unknown,low,cloudy,sms_hotline,0.52,No outage.,0
+COMM-00049,2026-04-24,Akaki Kality,Kality,14:00,17:50,3.84,yes,high,clear,mobile_app,0.78,Announced long outage in Kality.,1
+COMM-00050,2026-04-25,Yeka,Kotebe,11:00,12:00,1.0,yes,low,clear,whatsapp_group,0.67,No outage.,0
+COMM-00051,2026-04-26,Akaki Kality,Kality,09:00,12:06,3.1,no,high,rain,community_call,0.72,Rain and long outage this morning.,1
+COMM-00052,2026-04-27,Addis Ketema,Merkato,04:00,07:13,3.23,no,high,storm,sms_hotline,0.67,Storm caused extended outage in Merkato area.,1
+COMM-00053,2026-04-28,Kolfe Keranio,Tor Hailoch,19:00,22:40,3.68,no,high,clear,field_technician,0.57,Long evening outage in Tor Hailoch.,1
+COMM-00054,2026-04-29,Gulele,Piazza Side,08:00,09:00,1.0,unknown,low,clear,mobile_app,0.60,No outage.,0
+COMM-00055,2026-04-12,Lemi Kura,Goro,02:00,05:33,3.55,yes,high,rain,whatsapp_group,0.84,Announced long outage during rain in Goro.,1
+COMM-00056,2026-04-13,Addis Ketema,Autobus Tera,20:00,22:38,2.64,no,high,rain,community_call,0.65,Rainy evening outage.,1
+COMM-00057,2026-04-14,Bole,Bole Medhanialem,17:00,18:00,1.0,unknown,low,clear,sms_hotline,0.55,No outage.,0
+COMM-00058,2026-04-15,Kirkos,Mexico,01:00,03:05,2.09,no,medium,cloudy,mobile_app,0.65,Anonymous report.,1
+COMM-00059,2026-04-16,Kirkos,Meskel Square,01:00,03:42,2.7,no,medium,rain,whatsapp_group,0.64,Rain and outage around Meskel Square.,1
+COMM-00060,2026-04-17,Akaki Kality,Tulu Dimtu,13:00,17:13,4.23,no,high,storm,field_technician,0.64,Very long outage during storm.,1
+COMM-00061,2026-04-18,Arada,Piassa,05:00,06:00,1.0,unknown,low,clear,community_call,0.54,No outage.,0
+COMM-00062,2026-04-19,Kolfe Keranio,Winget,21:00,22:00,1.0,no,low,clear,sms_hotline,0.57,No outage.,0
+COMM-00063,2026-04-20,Lideta,Lideta Condominiums,01:00,03:21,2.35,unknown,medium,clear,mobile_app,0.61,Anonymous report of night outage.,1
+COMM-00064,2026-04-21,Kolfe Keranio,Ayer Tena,07:00,09:01,2.02,no,high,rain,whatsapp_group,0.65,Rain caused morning outage.,1
+COMM-00065,2026-04-22,Addis Ketema,Sebategna,02:00,03:00,1.0,no,low,cloudy,community_call,0.48,No outage.,0
+COMM-00066,2026-04-23,Bole,Bole Medhanialem,10:00,12:52,2.88,no,medium,storm,sms_hotline,0.69,Storm and outage during morning.,1
+COMM-00067,2026-04-24,Yeka,Hayahulet,01:00,02:00,1.0,no,low,cloudy,mobile_app,0.61,No outage.,0
+COMM-00068,2026-04-25,Yeka,Lamberet,16:00,18:04,2.07,yes,medium,storm,field_technician,0.89,Announced outage in Lamberet.,1
+COMM-00069,2026-04-26,Gulele,Addisu Gebeya,00:00,01:00,1.0,yes,low,clear,whatsapp_group,0.74,No outage.,0
+COMM-00070,2026-04-27,Kirkos,Stadium,19:00,22:04,3.08,no,high,rain,community_call,0.68,Rainy evening outage near stadium.,1
+COMM-00071,2026-04-28,Addis Ketema,Teklehaimanot,16:00,17:00,1.0,no,low,clear,sms_hotline,0.57,No outage.,0
+COMM-00072,2026-04-29,Lemi Kura,Goro,13:00,14:36,1.61,unknown,medium,rain,mobile_app,0.67,Rain and outage in Goro.,0
+COMM-00073,2026-04-12,Gulele,Shiro Meda,12:00,12:24,0.41,yes,low,clear,whatsapp_group,0.77,Very short announced outage.,0
+COMM-00074,2026-04-13,Kirkos,Wollo Sefer,20:00,21:00,1.0,no,low,cloudy,community_call,0.54,No outage.,0
+COMM-00075,2026-04-14,Nifas Silk-Lafto,Kera,15:00,16:00,1.0,no,low,clear,sms_hotline,0.52,No outage.,0
+COMM-00076,2026-04-15,Kolfe Keranio,Tor Hailoch,02:00,03:00,1.0,unknown,low,clear,mobile_app,0.52,No outage.,0
+COMM-00077,2026-04-16,Lideta,Mexico,07:00,08:00,1.0,unknown,low,cloudy,field_technician,0.60,No outage.,0
+COMM-00078,2026-04-17,Arada,Sidist Kilo,06:00,07:00,1.0,yes,low,clear,whatsapp_group,0.72,No outage.,0
+COMM-00079,2026-04-18,Arada,4 Kilo,03:00,04:00,1.0,unknown,low,clear,community_call,0.53,No outage.,0
+COMM-00080,2026-04-19,Kolfe Keranio,Ayer Tena,17:00,19:00,2.01,unknown,medium,cloudy,sms_hotline,0.68,Anonymous report.,1
+COMM-00081,2026-04-20,Kirkos,Wollo Sefer,19:00,20:00,1.0,no,low,cloudy,mobile_app,0.60,No outage.,0
+COMM-00082,2026-04-21,Gulele,Piazza Side,13:00,15:46,2.78,no,medium,storm,whatsapp_group,0.65,Storm caused outage in Piazza Side.,1
+COMM-00083,2026-04-22,Lemi Kura,Figa,07:00,09:52,2.87,no,high,rain,field_technician,0.67,Heavy rain and long outage.,1
+COMM-00084,2026-04-23,Addis Ketema,Teklehaimanot,07:00,11:19,4.32,no,high,clear,community_call,0.73,Very long morning outage.,1
+COMM-00085,2026-04-24,Kirkos,Mexico,10:00,11:00,1.0,yes,low,clear,sms_hotline,0.68,No outage.,0
+COMM-00086,2026-04-25,Kolfe Keranio,Ayer Tena,22:00,23:00,1.0,no,low,clear,mobile_app,0.49,No outage.,0
+COMM-00087,2026-04-26,Arada,Sidist Kilo,06:00,08:49,2.83,no,medium,storm,whatsapp_group,0.65,Storm and outage.,1
+COMM-00088,2026-04-27,Arada,Sidist Kilo,18:00,19:00,1.0,no,low,clear,community_call,0.67,No outage.,0
+COMM-00089,2026-04-28,Arada,Giorgis,12:00,13:00,1.0,no,low,rain,sms_hotline,0.62,No outage.,0
+COMM-00090,2026-04-29,Kolfe Keranio,Winget,15:00,16:01,1.02,yes,low,cloudy,mobile_app,0.83,Short announced outage.,0
+COMM-00091,2026-04-12,Nifas Silk-Lafto,Gotera,12:00,14:25,2.42,unknown,medium,storm,field_technician,0.74,Storm caused outage in Gotera.,1
+COMM-00092,2026-04-13,Akaki Kality,Kality,12:00,13:00,1.0,no,low,clear,whatsapp_group,0.53,No outage.,0
+COMM-00093,2026-04-14,Addis Ketema,Teklehaimanot,01:00,03:38,2.64,no,medium,clear,community_call,0.63,Anonymous report.,1
+COMM-00094,2026-04-15,Addis Ketema,Teklehaimanot,12:00,13:00,1.0,yes,low,clear,sms_hotline,0.75,No outage.,0
+COMM-00095,2026-04-16,Kirkos,Meskel Square,01:00,03:47,2.79,no,medium,rain,mobile_app,0.66,Rainy night outage.,1
+COMM-00096,2026-04-17,Kolfe Keranio,Asko,00:00,02:23,2.39,no,medium,rain,whatsapp_group,0.70,Rain and outage in Asko.,1
+COMM-00097,2026-04-18,Yeka,Hayahulet,21:00,00:59,3.99,no,high,windy,field_technician,0.61,Long high-demand outage.,1
+COMM-00098,2026-04-19,Nifas Silk-Lafto,Mekanisa,11:00,13:42,2.7,no,medium,cloudy,community_call,0.55,Anonymous report.,1
+COMM-00099,2026-04-20,Addis Ketema,Merkato,05:00,06:00,1.0,unknown,low,cloudy,sms_hotline,0.59,No outage.,0
+COMM-00100,2026-04-21,Arada,4 Kilo,12:00,13:00,1.0,no,low,clear,mobile_app,0.54,No outage.,0
+COMM-00101,2026-04-22,Addis Ketema,Addisu Gebeya,22:00,00:53,2.89,no,medium,rain,whatsapp_group,0.69,Rain and outage.,1
+COMM-00102,2026-04-23,Gulele,Piazza Side,11:00,12:00,1.0,yes,low,rain,community_call,0.79,No outage.,0
+COMM-00103,2026-04-24,Lideta,Mexico,13:00,14:00,1.0,no,low,cloudy,sms_hotline,0.52,No outage.,0
+COMM-00104,2026-04-25,Nifas Silk-Lafto,Gotera,22:00,02:18,4.3,no,high,clear,mobile_app,0.57,Long overnight outage.,1
+COMM-00105,2026-04-26,Lideta,Balcha Area,17:00,17:19,0.32,no,low,cloudy,field_technician,0.63,Very short outage.,0
+COMM-00106,2026-04-27,Yeka,Shola,07:00,09:17,2.29,no,high,storm,whatsapp_group,0.63,Storm caused morning outage.,1
+COMM-00107,2026-04-28,Akaki Kality,Saris Abo Side,18:00,20:29,2.49,no,high,clear,community_call,0.60,Evening outage.,1
+COMM-00108,2026-04-29,Lideta,Lideta Condominiums,05:00,06:14,1.24,no,low,clear,sms_hotline,0.63,Anonymous report.,0
+COMM-00109,2026-04-12,Addis Ketema,Addisu Gebeya,22:00,23:00,1.0,unknown,low,clear,mobile_app,0.63,No outage.,0
+COMM-00110,2026-04-13,Lideta,Lideta Condominiums,13:00,15:48,2.81,no,medium,rain,whatsapp_group,0.67,Rain and outage in condos.,1
+COMM-00111,2026-04-14,Yeka,Shola,00:00,01:00,1.0,no,low,clear,community_call,0.60,No outage.,0
+COMM-00112,2026-04-15,Lideta,Tor Hailoch,11:00,12:00,1.0,no,low,cloudy,sms_hotline,0.57,No outage.,0
+COMM-00113,2026-04-16,Addis Ketema,Sebategna,14:00,15:00,1.0,yes,low,clear,mobile_app,0.71,No outage.,0
+COMM-00114,2026-04-17,Gulele,Addisu Gebeya,23:00,23:58,0.98,no,low,clear,field_technician,0.55,Anonymous report.,0
+COMM-00115,2026-04-18,Akaki Kality,Gelane,16:00,18:40,2.67,unknown,medium,windy,whatsapp_group,0.57,Anonymous report.,1
+COMM-00116,2026-04-19,Addis Ketema,Merkato,05:00,07:09,2.15,yes,medium,rain,community_call,0.83,Announced outage.,1
+COMM-00117,2026-04-20,Addis Ketema,Autobus Tera,17:00,18:00,1.0,no,low,cloudy,sms_hotline,0.56,No outage.,0
+COMM-00118,2026-04-21,Addis Ketema,Teklehaimanot,18:00,20:40,2.68,no,high,cloudy,mobile_app,0.64,High demand outage.,1
+COMM-00119,2026-04-22,Addis Ketema,Teklehaimanot,01:00,02:00,1.0,yes,low,clear,whatsapp_group,0.71,No outage.,0
+COMM-00120,2026-04-23,Lemi Kura,Ayat,20:00,21:00,1.0,unknown,low,clear,community_call,0.58,No outage.,0
+COMM-00121,2026-04-24,Yeka,Kotebe,09:00,09:57,0.96,no,low,clear,sms_hotline,0.64,Anonymous report.,0
+COMM-00122,2026-04-25,Kolfe Keranio,Jemo Michael,19:00,20:00,1.0,unknown,low,clear,mobile_app,0.50,No outage.,0
+COMM-00123,2026-04-26,Arada,Arat Kilo,18:00,19:00,1.0,yes,low,cloudy,field_technician,0.74,No outage.,0
+COMM-00124,2026-04-27,Yeka,Kotebe,23:00,00:00,1.0,no,low,cloudy,whatsapp_group,0.61,No outage.,0
+COMM-00125,2026-04-28,Gulele,Shiro Meda,05:00,07:09,2.15,no,medium,clear,community_call,0.65,Anonymous report.,1
+COMM-00126,2026-04-29,Bole,CMC,09:00,10:46,1.78,no,medium,clear,sms_hotline,0.63,Anonymous report.,0
+COMM-00127,2026-04-12,Kolfe Keranio,Winget,21:00,00:14,3.24,no,high,rain,mobile_app,0.71,Rain and long outage.,1
+COMM-00128,2026-04-13,Arada,Piassa,06:00,06:15,0.25,no,low,cloudy,whatsapp_group,0.67,Very short outage.,0
+COMM-00129,2026-04-14,Yeka,Megenagna,04:00,05:00,1.0,no,low,clear,community_call,0.55,No outage.,0
+COMM-00130,2026-04-15,Lideta,Mexico,09:00,09:34,0.58,no,low,cloudy,sms_hotline,0.69,Anonymous report.,0
+COMM-00131,2026-04-16,Gulele,Piazza Side,16:00,17:00,1.0,no,low,cloudy,mobile_app,0.60,No outage.,0
+COMM-00132,2026-04-17,Akaki Kality,Gelane,10:00,12:44,2.74,no,medium,clear,field_technician,0.60,Anonymous report.,1
+COMM-00133,2026-04-18,Akaki Kality,Kality,18:00,21:12,3.2,no,high,windy,whatsapp_group,0.71,High demand outage.,1
+COMM-00134,2026-04-19,Bole,CMC,18:00,19:00,1.0,no,low,cloudy,community_call,0.50,No outage.,0
+COMM-00135,2026-04-20,Nifas Silk-Lafto,Mekanisa,08:00,12:12,4.2,unknown,high,cloudy,sms_hotline,0.59,Long high demand outage.,1
+COMM-00136,2026-04-21,Kirkos,Wollo Sefer,15:00,16:00,1.0,no,low,clear,mobile_app,0.61,No outage.,0
+COMM-00137,2026-04-22,Lideta,Tor Hailoch,13:00,14:19,1.32,no,low,rain,whatsapp_group,0.65,Rain and outage.,0
+COMM-00138,2026-04-23,Yeka,Shola,14:00,15:00,1.0,yes,low,clear,community_call,0.75,No outage.,0
+COMM-00139,2026-04-24,Bole,Rwanda,16:00,18:11,2.19,no,medium,rain,sms_hotline,0.69,Rain and outage.,1
+COMM-00140,2026-04-25,Akaki Kality,Saris Abo Side,11:00,14:01,3.02,no,high,cloudy,mobile_app,0.64,Anonymous report.,1
+COMM-00141,2026-04-26,Addis Ketema,Teklehaimanot,04:00,06:46,2.77,no,medium,storm,field_technician,0.69,Storm and outage.,1
+COMM-00142,2026-04-27,Kolfe Keranio,Tor Hailoch,19:00,21:07,2.13,no,high,clear,whatsapp_group,0.68,High demand outage.,1
+COMM-00143,2026-04-28,Yeka,Kotebe,13:00,14:00,1.0,unknown,low,windy,community_call,0.60,No outage.,0
+COMM-00144,2026-04-29,Nifas Silk-Lafto,Gotera,20:00,22:52,2.87,no,high,windy,sms_hotline,0.68,High demand outage.,1
+COMM-00145,2026-04-12,Arada,Sidist Kilo,08:00,11:51,3.86,no,high,windy,mobile_app,0.65,High demand outage.,1
+COMM-00146,2026-04-13,Arada,4 Kilo,04:00,07:04,3.08,no,high,storm,whatsapp_group,0.61,Storm and long outage.,1
+COMM-00147,2026-04-14,Addis Ketema,Teklehaimanot,02:00,03:00,1.0,no,low,clear,community_call,0.56,No outage.,0
+COMM-00148,2026-04-15,Addis Ketema,Addisu Gebeya,09:00,10:00,1.0,no,low,cloudy,sms_hotline,0.53,No outage.,0
+COMM-00149,2026-04-16,Lideta,Tor Hailoch,17:00,18:00,1.0,no,low,clear,mobile_app,0.51,No outage.,0
+COMM-00150,2026-04-17,Kolfe Keranio,Tor Hailoch,10:00,12:00,2.01,no,medium,clear,field_technician,0.63,Anonymous report.,1
+COMM-00151,2026-04-18,Kirkos,Stadium,01:00,02:03,1.06,unknown,low,cloudy,whatsapp_group,0.68,Anonymous report.,0
+COMM-00152,2026-04-19,Nifas Silk-Lafto,Gotera,20:00,21:00,1.0,yes,low,windy,community_call,0.82,No outage.,0
+COMM-00153,2026-04-20,Kirkos,Kazanchis,18:00,21:25,3.43,no,high,storm,sms_hotline,0.67,Storm and outage.,1
+COMM-00154,2026-04-21,Bole,Rwanda,14:00,15:00,1.0,unknown,low,clear,mobile_app,0.61,No outage.,0
+COMM-00155,2026-04-22,Addis Ketema,Sebategna,15:00,16:00,1.0,no,low,cloudy,whatsapp_group,0.58,No outage.,0
+COMM-00156,2026-04-23,Gulele,Piazza Side,21:00,00:11,3.19,no,high,windy,field_technician,0.60,High demand outage.,1
+COMM-00157,2026-04-24,Gulele,Shiro Meda,15:00,16:00,1.0,no,low,cloudy,community_call,0.52,No outage.,0
+COMM-00158,2026-04-25,Yeka,Lamberet,07:00,09:18,2.3,no,high,windy,sms_hotline,0.60,High demand outage.,1
+COMM-00159,2026-04-26,Lideta,Lideta Condominiums,03:00,04:00,1.0,unknown,low,rain,mobile_app,0.55,No outage.,0
+COMM-00160,2026-04-27,Addis Ketema,Sebategna,01:00,03:10,2.18,yes,medium,clear,whatsapp_group,0.80,Announced outage.,1
+COMM-00161,2026-04-28,Nifas Silk-Lafto,Saris,21:00,23:01,2.02,no,high,clear,community_call,0.58,High demand outage.,1
+COMM-00162,2026-04-29,Lemi Kura,Summit,19:00,20:42,1.71,no,medium,cloudy,sms_hotline,0.64,High demand outage.,0
+COMM-00163,2026-04-12,Lemi Kura,Figa,14:00,15:00,1.0,no,low,cloudy,mobile_app,0.58,No outage.,0
+COMM-00164,2026-04-13,Lemi Kura,Summit,09:00,10:00,1.0,unknown,low,clear,field_technician,0.57,No outage.,0
+COMM-00165,2026-04-14,Arada,Arat Kilo,20:00,21:00,1.0,no,low,cloudy,whatsapp_group,0.52,No outage.,0
+COMM-00166,2026-04-15,Yeka,Kotebe,15:00,15:31,0.53,no,low,clear,community_call,0.66,Anonymous report.,0
+COMM-00167,2026-04-16,Bole,Rwanda,09:00,10:00,1.0,yes,low,clear,sms_hotline,0.71,No outage.,0
+COMM-00168,2026-04-17,Bole,Airport Area,23:00,01:46,2.78,unknown,medium,rain,mobile_app,0.76,Rain and outage.,1
+COMM-00169,2026-04-18,Akaki Kality,Gelane,07:00,09:26,2.44,yes,high,clear,whatsapp_group,0.84,Announced outage.,1
+COMM-00170,2026-04-19,Lemi Kura,Summit,21:00,22:00,1.0,unknown,low,cloudy,community_call,0.57,No outage.,0
+COMM-00171,2026-04-20,Addis Ketema,Teklehaimanot,01:00,03:03,2.06,no,medium,clear,sms_hotline,0.68,Anonymous report.,1
+COMM-00172,2026-04-21,Kirkos,Stadium,09:00,10:00,1.0,yes,low,clear,mobile_app,0.67,No outage.,0
+COMM-00173,2026-04-22,Gulele,Entoto Road,11:00,12:54,1.91,no,medium,rain,field_technician,0.58,Rain and outage.,0
+COMM-00174,2026-04-23,Kirkos,Kazanchis,09:00,10:00,1.0,yes,low,cloudy,whatsapp_group,0.66,No outage.,0
+COMM-00175,2026-04-24,Lemi Kura,Goro,21:00,23:09,2.16,unknown,high,windy,community_call,0.65,High demand outage.,1
+COMM-00176,2026-04-25,Arada,Piassa,02:00,03:00,1.0,yes,low,clear,sms_hotline,0.73,No outage.,0
+COMM-00177,2026-04-26,Addis Ketema,Addisu Gebeya,21:00,23:39,2.65,no,high,clear,mobile_app,0.60,High demand outage.,1
+COMM-00178,2026-04-27,Lemi Kura,Summit,03:00,04:00,1.0,no,low,cloudy,whatsapp_group,0.60,No outage.,0
+COMM-00179,2026-04-28,Kolfe Keranio,Tor Hailoch,19:00,20:06,1.1,unknown,low,clear,field_technician,0.60,High demand outage.,0
+COMM-00180,2026-04-29,Addis Ketema,Teklehaimanot,22:00,23:00,1.0,yes,low,clear,community_call,0.74,No outage.,0
+COMM-00181,2026-04-12,Yeka,Kotebe,03:00,06:10,3.18,yes,high,storm,sms_hotline,0.92,Announced long outage during storm.,1
+COMM-00182,2026-04-13,Gulele,Piazza Side,23:00,01:16,2.27,no,medium,cloudy,mobile_app,0.68,Anonymous report.,1
+COMM-00183,2026-04-14,Lideta,Balcha Area,03:00,05:21,2.35,no,medium,windy,whatsapp_group,0.55,Anonymous report.,1
+COMM-00184,2026-04-15,Lideta,Lideta Condominiums,14:00,15:00,1.0,yes,low,rain,community_call,0.81,No outage.,0
+COMM-00185,2026-04-16,Kirkos,Kazanchis,20:00,21:00,1.0,yes,low,clear,sms_hotline,0.67,No outage.,0
+COMM-00186,2026-04-17,Yeka,Ayat Zone 2,14:00,15:00,1.0,no,low,clear,mobile_app,0.53,No outage.,0
+COMM-00187,2026-04-18,Kolfe Keranio,Asko,10:00,12:44,2.74,yes,medium,rain,field_technician,0.84,Announced outage.,1
+COMM-00188,2026-04-19,Akaki Kality,Tulu Dimtu,06:00,09:12,3.21,no,high,rain,whatsapp_group,0.80,Rain and long outage.,1
+COMM-00189,2026-04-20,Bole,Gerji,19:00,21:52,2.87,yes,high,rain,community_call,0.87,Announced outage during rain.,1
+COMM-00190,2026-04-21,Addis Ketema,Autobus Tera,17:00,18:00,1.0,unknown,low,clear,sms_hotline,0.51,No outage.,0
+COMM-00191,2026-04-22,Akaki Kality,Gelane,07:00,09:37,2.62,no,high,clear,mobile_app,0.71,High demand outage.,1
+COMM-00192,2026-04-23,Arada,Giorgis,23:00,00:00,1.0,yes,low,clear,whatsapp_group,0.72,No outage.,0
+COMM-00193,2026-04-24,Akaki Kality,Kality,16:00,20:24,4.41,no,high,cloudy,field_technician,0.65,Anonymous report of long outage.,1
+COMM-00194,2026-04-25,Gulele,Entoto Road,21:00,22:00,1.0,unknown,low,cloudy,community_call,0.56,No outage.,0
+COMM-00195,2026-04-26,Arada,Sidist Kilo,15:00,16:00,1.0,no,low,rain,sms_hotline,0.57,No outage.,0
+COMM-00196,2026-04-27,Kirkos,Mexico,02:00,02:18,0.3,yes,low,clear,mobile_app,0.85,Short announced outage.,0
+COMM-00197,2026-04-28,Kirkos,Wollo Sefer,17:00,20:28,3.47,no,high,windy,whatsapp_group,0.74,Anonymous report.,1
+COMM-00198,2026-04-29,Yeka,Ayat Zone 2,13:00,14:10,1.17,no,low,clear,community_call,0.62,Anonymous report.,0

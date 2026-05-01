@@ -1,0 +1,13 @@
+feature,type,example,why_it_matters
+timestamp,datetime,2026-05-01 18:30,"Outage risk can depend on hour, day, season, and peak demand."
+sub_city,category,Bole,Location is needed to learn spatial reliability patterns.
+sefer_or_landmark,category,Megenagna,Local place names make reports useful for Addis Ababa residents.
+outage_start_time,datetime,2026-05-01 18:20,Needed to compute duration and time features.
+outage_end_time,datetime,2026-05-01 20:05,Needed to compute duration; can be blank if ongoing.
+duration_hours,number,1.75,Target variable for duration regression.
+planned_notice,binary,0,Separates announced maintenance from unexpected outages.
+weather_condition,category,rain,Weather may affect faults and restoration time.
+rain_mm,number,4.2,Numerical weather feature for ML.
+wind_speed_kmh,number,18,Wind can affect overhead lines and service restoration.
+source_type,category,official_notice/user_report,Used for data honesty and confidence weighting.
+confidence_score,number_0_to_1,0.8,Multiple confirmations or official notices receive higher weight.
