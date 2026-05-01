@@ -4,12 +4,20 @@
     "target": "outage_reported",
     "features": [
       "hour_block_start",
+      "hour_sin",
+      "hour_cos",
       "day_of_week",
+      "is_weekend",
       "sub_city",
-      "weather_condition",
-      "is_rainy",
-      "planned_notice_mode"
+      "lag1_outage_reported",
+      "rolling3_report_rate"
     ],
+    "split": {
+      "type": "time_based",
+      "train_end_date": "2026-04-25",
+      "train_rows": 1232,
+      "test_rows": 352
+    },
     "class_balance": {
       "0": 1489,
       "1": 95
@@ -17,51 +25,54 @@
     "models": [
       {
         "model": "dummy_baseline",
-        "accuracy": 0.9394,
+        "accuracy": 0.9318,
         "balanced_accuracy": 0.5,
         "precision": 0.0,
         "recall": 0.0,
         "f1": 0.0,
         "roc_auc": 0.5,
-        "pr_auc": 0.0606,
+        "pr_auc": 0.0682,
         "confusion_matrix": {
-          "tn": 372,
+          "tn": 328,
           "fp": 0,
           "fn": 24,
           "tp": 0
-        }
+        },
+        "threshold": 0.5
       },
       {
         "model": "logistic_regression",
-        "accuracy": 0.9747,
-        "balanced_accuracy": 0.8891,
-        "precision": 0.7917,
-        "recall": 0.7917,
-        "f1": 0.7917,
-        "roc_auc": 0.9929,
-        "pr_auc": 0.9067,
+        "accuracy": 0.7301,
+        "balanced_accuracy": 0.5269,
+        "precision": 0.0824,
+        "recall": 0.2917,
+        "f1": 0.1284,
+        "roc_auc": 0.5182,
+        "pr_auc": 0.1536,
         "confusion_matrix": {
-          "tn": 367,
-          "fp": 5,
-          "fn": 5,
-          "tp": 19
-        }
+          "tn": 250,
+          "fp": 78,
+          "fn": 17,
+          "tp": 7
+        },
+        "threshold": 0.581
       },
       {
         "model": "random_forest",
-        "accuracy": 0.9621,
-        "balanced_accuracy": 0.9798,
-        "precision": 0.6154,
-        "recall": 1.0,
-        "f1": 0.7619,
-        "roc_auc": 0.9888,
-        "pr_auc": 0.8608,
+        "accuracy": 0.8665,
+        "balanced_accuracy": 0.5615,
+        "precision": 0.1515,
+        "recall": 0.2083,
+        "f1": 0.1754,
+        "roc_auc": 0.5563,
+        "pr_auc": 0.1599,
         "confusion_matrix": {
-          "tn": 357,
-          "fp": 15,
-          "fn": 0,
-          "tp": 24
-        }
+          "tn": 300,
+          "fp": 28,
+          "fn": 19,
+          "tp": 5
+        },
+        "threshold": 0.5017
       }
     ]
   },
@@ -77,24 +88,24 @@
     ],
     "severity_classifier": {
       "model": "random_forest_high_severity",
-      "accuracy": 0.6667,
-      "balanced_accuracy": 0.5938,
-      "precision": 0.7222,
-      "recall": 0.8125,
-      "f1": 0.7647,
-      "roc_auc": 0.7109,
-      "pr_auc": 0.859,
+      "accuracy": 0.625,
+      "balanced_accuracy": 0.5625,
+      "precision": 0.7059,
+      "recall": 0.75,
+      "f1": 0.7273,
+      "roc_auc": 0.6172,
+      "pr_auc": 0.7983,
       "confusion_matrix": {
         "tn": 3,
         "fp": 5,
-        "fn": 3,
-        "tp": 13
+        "fn": 4,
+        "tp": 12
       }
     },
     "duration_regressor": {
       "model": "random_forest_duration_regressor",
-      "mae": 0.6128,
-      "r2": 0.0333
+      "mae": 0.6327,
+      "r2": -0.0443
     }
   }
 }
