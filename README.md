@@ -1,81 +1,66 @@
 # GridSense
 
-**Learning electricity outage patterns from local public evidence and building a responsible path toward future outage-risk prediction.**
+GridSense is a Kujenga final project that studies electricity outage patterns in Addis Ababa using 198 anonymous community-reported outage records.
 
-This is a Kujenga final project by Lisan A. The project is local to Addis Ababa and focuses on electricity reliability: a problem that affects students, households, small businesses, and daily planning.
-
-## Why this project matters
-
-Addis Ababa has high electricity access, but reliability, quality, and availability remain challenges. GridSense asks what can be learned from public evidence today, and what data would be required to build a responsible prediction model tomorrow.
-
-## Important data choice
-
-The organisers advised avoiding synthetic datasets if possible. This version therefore avoids using synthetic data as the main dataset. The repository contains public, non-personal evidence files and a safe future report template.
-It also includes real collected community outage reports used for model training and evaluation.
-
-## Repository structure
-
-```text
-app/                       Optional Streamlit dashboard
-notebooks/                 Final Jupyter notebook
-src/                       Small reproducible analysis and formula scripts
-data/raw/                  Public, non-personal data files
-data/collected/            Real community reports collected via Streamlit form
-data/processed/            Combined local evidence dataset
-reports/figures/           SVG visualizations
-reports/cards/             Data card and model card
-```
+The project investigates:
+1. When outages are most commonly reported.
+2. Which sub-cities report higher outage burden.
+3. Whether rainy/stormy conditions are associated with longer duration.
+4. Whether time, weather, and location features can support a responsible high-risk outage model.
 
 ## Main notebook
 
 `notebooks/lisanegebriel_ethiopia_final_project.ipynb`
 
-## Reproducibility checklist
+## Dataset
 
-- Python version: `Python 3.10+` (tested with 3.10/3.11)
-- Create environment (recommended): `python -m venv .venv` then activate it
-- Install dependencies: `pip install -r requirements.txt`
-- Run order:
-  1. `python src/analyze_real_data.py`
-  2. `python src/regression_formula_demo.py`
-  3. `python src/train_and_evaluate_model.py`
-  4. Open and run all cells in `notebooks/lisanegebriel_ethiopia_final_project.ipynb`
-- Expected outputs after step 1:
-  - `reports/tables/derived_kpis.json`
-  - `reports/tables/outage_severity_index_components.csv`
-  - figures in `reports/figures/` used by the notebook
-- Expected outputs after step 3:
-  - `reports/tables/model_metrics.json` with baseline vs trained model metrics
-- Expected outputs in the notebook:
-  - reliability context figures render
-  - severity index component table prints
-  - one-sample proportion test output (z-statistic, one-sided p-value, 95% CI)
+The main dataset is `data/processed/community_outage_reports_clean.csv`.
 
-## How to run quickly
+It contains anonymous community outage reports collected from Addis Ababa residents. The public dataset does not include names, phone numbers, emails, exact addresses, GPS coordinates, or free-text comments.
 
+## Reproducibility
+
+1. Install dependencies:
 ```bash
-python src/analyze_real_data.py
-python src/regression_formula_demo.py
+pip install -r requirements.txt
+```
+2. Open and run:
+```text
+notebooks/lisanegebriel_ethiopia_final_project.ipynb
 ```
 
-Optional dashboard:
+## Optional dashboard
 
+The Streamlit app is a prototype for collecting anonymous outage reports and exploring the dataset. It is not required to reproduce the notebook analysis.
+
+Run:
 ```bash
 streamlit run app/streamlit_app.py
 ```
 
-The Streamlit app includes a privacy-safe form that appends real reports to:
+## Repository layout
 
-`data/collected/community_outage_reports.csv`
-
-## What this project does not claim
-
-It does not claim to operate an official outage prediction system. The current real event-level dataset is sufficient for research training/evaluation, but still limited for production deployment.
-
-## Current model status
-
-- Trained on real collected data: `data/collected/community_outage_reports.csv` (`n=198`).
-- Evaluation script: `src/train_and_evaluate_model.py`.
-- Metrics output: `reports/tables/model_metrics.json`.
-- Best current model (by F1-high-risk): Random Forest.
-
+```text
+GridSense/
+├── README.md
+├── PROJECT_SUMMARY.md
+├── requirements.txt
+├── .gitignore
+├── notebooks/
+│   └── lisanegebriel_ethiopia_final_project.ipynb
+├── data/
+│   ├── DATASET.md
+│   ├── collected/
+│   │   └── community_outage_reports.csv
+│   └── processed/
+│       ├── community_outage_reports_clean.csv
+│       └── local_evidence_dataset.csv
+├── reports/
+│   ├── figures/
+│   └── cards/
+├── src/
+│   ├── analyze_real_data.py
+│   └── train_and_evaluate_model.py
+└── app/
+    └── streamlit_app.py
+```

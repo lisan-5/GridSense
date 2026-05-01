@@ -23,7 +23,7 @@ FIELDNAMES = [
     "weather_condition",
     "source_type",
     "confidence_score",
-    "notes_without_personal_data",
+    "high_risk_outage",
 ]
 
 SUB_CITIES = [
@@ -140,38 +140,32 @@ with st.form("community_report_form", clear_on_submit=True):
     )
 
     c10, c11 = st.columns(2)
-    source_type = c10.selectbox(
-        "Source type",
-        options=["community_report", "official_notice", "news_report", "field_observation"],
-    )
+    source_type = c10.selectbox("Source type", options=["streamlit_form"], index=0)
     confidence_score = c11.slider("Confidence score", min_value=0.0, max_value=1.0, value=0.8, step=0.05)
 
-    notes = st.text_area("Notes (non-personal only)", max_chars=240)
+    high_risk_outage = st.selectbox("High-risk outage label", options=[0, 1], index=0)
     submitted = st.form_submit_button("Save report")
 
 if submitted:
-    if "@" in notes or any(token in notes.lower() for token in ["phone", "tel", "name:", "id:", "house number"]):
-        st.error("Possible personal data detected in notes. Remove personal details and submit again.")
-    else:
-        final_duration = round(duration_hours, 2) if duration_hours > 0 else to_duration_hours(start_time, end_time)
-        row = {
-            "report_id": generated_report_id,
-            "date": report_date.isoformat(),
-            "sub_city": sub_city,
-            "sefer_or_landmark": sefer.strip(),
-            "outage_start_time": start_time.strftime("%H:%M"),
-            "outage_end_time": end_time.strftime("%H:%M"),
-            "duration_hours": f"{final_duration:.2f}",
-            "planned_notice": planned_notice,
-            "impact_level": impact_level,
-            "weather_condition": weather_condition,
-            "source_type": source_type,
-            "confidence_score": f"{confidence_score:.2f}",
-            "notes_without_personal_data": notes.strip(),
-        }
-        append_row(row)
-        st.success(f"Saved report {generated_report_id} to data/collected/community_outage_reports.csv")
-        st.rerun()
+    final_duration = round(duration_hours, 2) if duration_hours > 0 else to_duration_hours(start_time, end_time)
+    row = {
+        "report_id": generated_report_id,
+        "date": report_date.isoformat(),
+        "sub_city": sub_city,
+        "sefer_or_landmark": sefer.strip(),
+        "outage_start_time": start_time.strftime("%H:%M"),
+        "outage_end_time": end_time.strftime("%H:%M"),
+        "duration_hours": f"{final_duration:.2f}",
+        "planned_notice": planned_notice,
+        "impact_level": impact_level,
+        "weather_condition": weather_condition,
+        "source_type": source_type,
+        "confidence_score": f"{confidence_score:.2f}",
+        "high_risk_outage": int(high_risk_outage),
+    }
+    append_row(row)
+    st.success(f"Saved report {generated_report_id} to data/collected/community_outage_reports.csv")
+    st.rerun()
 
 st.subheader("Collected dataset preview")
 rows = read_csv_rows(COLLECTED_PATH)
