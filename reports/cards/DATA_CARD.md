@@ -8,7 +8,8 @@ To investigate electricity reliability in Addis Ababa using public, non-personal
 - Public evidence about outage-related issues and infrastructure upgrades.
 - Ethiopia Enterprise Survey outage indicators.
 - A non-personal future community report template.
-- Real collected community outage reports: `data/collected/community_outage_reports.csv` (current n=198).
+- Processed analysis dataset: `data/processed/community_outage_reports_clean.csv` (current n=198).
+- Raw intake dataset: `data/collected/community_outage_reports.csv`.
 
 ## Privacy
 No personal data is included. The future report template avoids names, phone numbers, exact household addresses, and private identifiers.

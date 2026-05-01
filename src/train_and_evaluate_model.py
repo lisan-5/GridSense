@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, precisio
 from sklearn.model_selection import train_test_split
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = ROOT / "data/collected/community_outage_reports.csv"
+DATA_PATH = ROOT / "data/processed/community_outage_reports_clean.csv"
 OUT_PATH = ROOT / "reports/tables/model_metrics.json"
 
 
@@ -129,4 +129,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

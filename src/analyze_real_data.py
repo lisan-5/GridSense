@@ -21,10 +21,12 @@ outage_months = sorted(outage_months, key=lambda r: int(r['year']))
 results['enterprise_outage_monthly_increase_2006_to_2015'] = round(float(outage_months[-1]['value']) - float(outage_months[0]['value']), 2)
 results['enterprise_outage_monthly_pct_increase_2006_to_2015'] = round((float(outage_months[-1]['value']) - float(outage_months[0]['value'])) / float(outage_months[0]['value']) * 100, 1)
 
-# Optional: incorporate real collected community reports when available.
+# Optional: incorporate real community reports (processed clean file preferred).
+processed_path = ROOT / 'data/processed/community_outage_reports_clean.csv'
 collected_path = ROOT / 'data/collected/community_outage_reports.csv'
-if collected_path.exists():
-    reports = read_csv(collected_path)
+data_path = processed_path if processed_path.exists() else collected_path
+if data_path.exists():
+    reports = read_csv(data_path)
     reports = [r for r in reports if r.get('duration_hours', '').strip()]
 
     if reports:

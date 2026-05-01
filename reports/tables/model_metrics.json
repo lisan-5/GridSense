@@ -5,7 +5,7 @@
     "test_size": 50,
     "positive_rate_train": 0.4324,
     "positive_rate_test": 0.44,
-    "feature_count_after_encoding": 26
+    "feature_count_after_encoding": 22
   },
   "models": [
     {
@@ -28,7 +28,7 @@
       "precision_high_risk": 0.7619,
       "recall_high_risk": 0.7273,
       "f1_high_risk": 0.7442,
-      "roc_auc": 0.8961,
+      "roc_auc": 0.9107,
       "confusion_matrix": {
         "tn": 23,
         "fp": 5,
@@ -38,16 +38,16 @@
     },
     {
       "model": "random_forest",
-      "accuracy": 0.8,
-      "precision_high_risk": 0.8,
-      "recall_high_risk": 0.7273,
-      "f1_high_risk": 0.7619,
-      "roc_auc": 0.9221,
+      "accuracy": 0.88,
+      "precision_high_risk": 0.9444,
+      "recall_high_risk": 0.7727,
+      "f1_high_risk": 0.85,
+      "roc_auc": 0.9497,
       "confusion_matrix": {
-        "tn": 24,
-        "fp": 4,
-        "fn": 6,
-        "tp": 16
+        "tn": 27,
+        "fp": 1,
+        "fn": 5,
+        "tp": 17
       }
     }
   ],

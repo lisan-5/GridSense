@@ -11,5 +11,6 @@
 - [x] No personal data is included
 - [x] Synthetic data is not used as the main dataset
 - [x] Real community outage dataset collected via Streamlit (`data/collected/community_outage_reports.csv`)
+- [x] Cleaned analysis dataset prepared (`data/processed/community_outage_reports_clean.csv`)
 - [x] Model trained and evaluated on real collected data (`src/train_and_evaluate_model.py`)
 - [x] Baseline vs trained-model metrics saved (`reports/tables/model_metrics.json`)

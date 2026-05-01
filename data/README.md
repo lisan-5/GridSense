@@ -9,9 +9,10 @@ Included public and collected CSV files:
 - `raw/verified_public_outage_evidence.csv` - a small public evidence log with source URLs.
 - `raw/model_ready_event_schema.csv` - the event-level schema used by the project.
 - `raw/community_report_template_no_personal_data.csv` - safe report template with no names, phone numbers, exact household addresses, or personal identifiers.
-- `collected/community_outage_reports.csv` - real community-collected outage reports captured via the Streamlit form.
+- `collected/community_outage_reports.csv` - raw community-collected outage reports captured via the Streamlit form.
+- `processed/community_outage_reports_clean.csv` - cleaned analysis dataset used by the notebook.
 
-Model training/evaluation now uses the real collected file in `collected/` via:
+Model training/evaluation uses the cleaned processed file via:
 
 - `src/train_and_evaluate_model.py`
 - Output metrics: `reports/tables/model_metrics.json`

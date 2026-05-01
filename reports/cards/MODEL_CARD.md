@@ -4,7 +4,8 @@
 Research model trained and evaluated on real collected community reports; not production.
 
 ## Training data
-- File: `data/collected/community_outage_reports.csv`
+- File: `data/processed/community_outage_reports_clean.csv` (primary)
+- Source intake: `data/collected/community_outage_reports.csv`
 - Records used: 198
 - Target: `high_risk_outage` (0/1), from collected labels/rules
 
