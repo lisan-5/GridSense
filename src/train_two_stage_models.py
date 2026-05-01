@@ -12,6 +12,8 @@ from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import (
     accuracy_score,
+    average_precision_score,
+    balanced_accuracy_score,
     confusion_matrix,
     f1_score,
     mean_absolute_error,
@@ -34,10 +36,12 @@ def classification_metrics(name: str, y_true, y_pred, y_prob) -> dict:
     return {
         "model": name,
         "accuracy": round(accuracy_score(y_true, y_pred), 4),
+        "balanced_accuracy": round(balanced_accuracy_score(y_true, y_pred), 4),
         "precision": round(precision_score(y_true, y_pred, zero_division=0), 4),
         "recall": round(recall_score(y_true, y_pred, zero_division=0), 4),
         "f1": round(f1_score(y_true, y_pred, zero_division=0), 4),
         "roc_auc": round(roc_auc_score(y_true, y_prob), 4),
+        "pr_auc": round(average_precision_score(y_true, y_prob), 4),
         "confusion_matrix": {"tn": int(tn), "fp": int(fp), "fn": int(fn), "tp": int(tp)},
     }
 
@@ -45,7 +49,7 @@ def classification_metrics(name: str, y_true, y_pred, y_prob) -> dict:
 def main() -> None:
     df = pd.read_csv(DATA_PATH)
 
-    # Stage 1: outage_occurred forecasting
+    # Stage 1: outage_reported forecasting
     stage1_features = [
         "hour_block_start",
         "day_of_week",
@@ -55,7 +59,7 @@ def main() -> None:
         "planned_notice_mode",
     ]
     X1 = df[stage1_features].copy()
-    y1 = df["outage_occurred"].astype(int)
+    y1 = df["outage_reported"].astype(int)
 
     num1 = ["hour_block_start", "is_rainy"]
     cat1 = ["day_of_week", "sub_city", "weather_condition", "planned_notice_mode"]
@@ -92,7 +96,7 @@ def main() -> None:
         stage1_results.append(classification_metrics(name, y1_test, y_pred, y_prob))
 
     # Stage 2: conditional models on outage rows only
-    outage_df = df[df["outage_occurred"] == 1].copy()
+    outage_df = df[df["outage_reported"] == 1].copy()
     stage2_features = [
         "hour_block_start",
         "sub_city",
@@ -153,13 +157,13 @@ def main() -> None:
     results = {
         "dataset_rows": int(len(df)),
         "stage1_outage_forecasting": {
-            "target": "outage_occurred",
+            "target": "outage_reported",
             "features": stage1_features,
-            "class_balance": df["outage_occurred"].value_counts().to_dict(),
+            "class_balance": df["outage_reported"].value_counts().to_dict(),
             "models": stage1_results,
         },
         "stage2_conditional_models": {
-            "scope": "rows where outage_occurred == 1",
+            "scope": "rows where outage_reported == 1",
             "rows": int(len(outage_df)),
             "features": stage2_features,
             "severity_classifier": stage2_cls,

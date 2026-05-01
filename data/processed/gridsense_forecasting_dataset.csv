@@ -1,4 +1,4 @@
-date,sub_city,hour_block_start,time_window,day_of_week,reports_count,outage_occurred,avg_duration_hours,max_duration_hours,high_severity_outage,weather_condition,is_rainy,planned_notice_mode,representative_sefer,confidence_score_mean,respondents_count_proxy
+date,sub_city,hour_block_start,time_window,day_of_week,reports_count,outage_reported,avg_duration_hours,max_duration_hours,high_severity_outage,weather_condition,is_rainy,planned_notice_mode,representative_sefer,confidence_score_mean,respondents_count_proxy
 2026-04-12,addis ketema,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
 2026-04-12,addis ketema,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
 2026-04-12,addis ketema,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0

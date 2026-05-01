@@ -3,7 +3,6 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -62,7 +61,7 @@ def main() -> None:
         df.groupby(grp_cols, dropna=False)
         .agg(
             reports_count=("outage_proxy", "size"),
-            outage_occurred=("outage_proxy", "max"),
+            outage_reported=("outage_proxy", "max"),
             avg_duration_hours=("duration_hours", "mean"),
             max_duration_hours=("duration_hours", "max"),
             high_severity_outage=("high_severity_proxy", "max"),
@@ -92,7 +91,7 @@ def main() -> None:
     )
 
     merged["reports_count"] = merged["reports_count"].fillna(0).astype(int)
-    merged["outage_occurred"] = merged["outage_occurred"].fillna(0).astype(int)
+    merged["outage_reported"] = merged["outage_reported"].fillna(0).astype(int)
     merged["high_severity_outage"] = merged["high_severity_outage"].fillna(0).astype(int)
     merged["avg_duration_hours"] = merged["avg_duration_hours"].fillna(0.0)
     merged["max_duration_hours"] = merged["max_duration_hours"].fillna(0.0)
@@ -111,7 +110,7 @@ def main() -> None:
 
     summary = {
         "rows": int(len(merged)),
-        "outage_occurred_counts": merged["outage_occurred"].value_counts().to_dict(),
+        "outage_reported_counts": merged["outage_reported"].value_counts().to_dict(),
         "high_severity_outage_counts": merged["high_severity_outage"].value_counts().to_dict(),
         "sub_city_count": int(merged["sub_city"].nunique()),
         "date_count": int(merged["date"].nunique()),

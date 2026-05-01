@@ -12,7 +12,7 @@ Can community-reported data, time features, location, planning status, and weath
 ## Two-stage model design
 
 1. **Model 1: Outage forecasting**
-- Target: `outage_occurred`
+- Target: `outage_reported`
 - Input: time window, day of week, sub-city, weather, rainy indicator, planning status
 - Output: outage risk probability
 
@@ -28,3 +28,4 @@ This design supports planning decisions for students, households, and small busi
 ## Limits
 
 The data is community-reported and not official utility telemetry. Results should be treated as local decision-support evidence, not operational outage control.
+

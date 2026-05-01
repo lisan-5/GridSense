@@ -1,199 +1,199 @@
-date,time_window,sub_city,sefer_or_landmark,weather_condition,outage_occurred,duration_hours,impact_level
-2026-04-12,02:00-03:00,Arada,Sidist Kilo,cloudy,1,1.0,low
-2026-04-12,02:00-03:00,Lemi Kura,Goro,rain,1,3.55,high
-2026-04-12,03:00-04:00,Bole,Rwanda,clear,1,2.02,medium
-2026-04-12,03:00-04:00,Yeka,Kotebe,storm,1,3.18,high
-2026-04-12,08:00-09:00,Arada,Sidist Kilo,windy,1,3.86,high
-2026-04-12,08:00-09:00,Lideta,Lideta Condominiums,storm,1,2.72,high
-2026-04-12,12:00-13:00,Gulele,Shiro Meda,clear,1,0.41,low
-2026-04-12,12:00-13:00,Nifas Silk-Lafto,Gotera,storm,1,2.42,medium
-2026-04-12,14:00-15:00,Lemi Kura,Figa,cloudy,1,1.0,low
-2026-04-12,21:00-22:00,Kolfe Keranio,Winget,rain,1,3.24,high
-2026-04-12,22:00-23:00,Addis Ketema,Addisu Gebeya,clear,1,1.0,low
-2026-04-13,00:00-01:00,Lemi Kura,Ayat,rain,1,3.41,high
-2026-04-13,04:00-05:00,Arada,4 Kilo,storm,1,3.08,high
-2026-04-13,06:00-07:00,Arada,Piassa,cloudy,1,0.25,low
-2026-04-13,09:00-10:00,Lemi Kura,Summit,clear,1,1.0,low
-2026-04-13,12:00-13:00,Akaki Kality,Kality,clear,1,1.0,low
-2026-04-13,13:00-14:00,Lideta,Lideta Condominiums,rain,1,2.81,medium
-2026-04-13,17:00-18:00,Yeka,Megenagna,rain,1,2.72,medium
-2026-04-13,20:00-21:00,Addis Ketema,Autobus Tera,rain,1,2.64,high
-2026-04-13,20:00-21:00,Kirkos,Wollo Sefer,cloudy,1,1.0,low
-2026-04-13,23:00-00:00,Gulele,Piazza Side,cloudy,1,2.27,medium
-2026-04-13,23:00-00:00,Gulele,Shiro Meda,cloudy,1,0.39,low
-2026-04-14,00:00-01:00,Yeka,Shola,clear,1,1.0,low
-2026-04-14,01:00-02:00,Addis Ketema,Teklehaimanot,clear,1,2.64,medium
-2026-04-14,02:00-03:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
-2026-04-14,03:00-04:00,Lideta,Balcha Area,windy,1,2.35,medium
-2026-04-14,04:00-05:00,Yeka,Megenagna,clear,1,1.0,low
-2026-04-14,07:00-08:00,Nifas Silk-Lafto,Gotera,cloudy,1,2.41,high
-2026-04-14,10:00-11:00,Yeka,Shola,cloudy,1,1.66,medium
-2026-04-14,15:00-16:00,Nifas Silk-Lafto,Kera,clear,1,1.0,low
-2026-04-14,16:00-17:00,Akaki Kality,Kality,cloudy,1,0.65,low
-2026-04-14,17:00-18:00,Bole,Bole Medhanialem,clear,1,1.0,low
-2026-04-14,20:00-21:00,Arada,Arat Kilo,cloudy,1,1.0,low
-2026-04-15,01:00-02:00,Kirkos,Mexico,cloudy,1,2.09,medium
-2026-04-15,01:00-02:00,Nifas Silk-Lafto,Gotera,clear,1,0.25,low
-2026-04-15,02:00-03:00,Kolfe Keranio,Tor Hailoch,clear,1,1.0,low
-2026-04-15,07:00-08:00,Lideta,Tor Hailoch,rain,1,1.0,low
-2026-04-15,09:00-10:00,Addis Ketema,Addisu Gebeya,cloudy,1,1.0,low
-2026-04-15,09:00-10:00,Lideta,Mexico,cloudy,1,0.58,low
-2026-04-15,11:00-12:00,Lideta,Tor Hailoch,cloudy,1,1.0,low
-2026-04-15,12:00-13:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
-2026-04-15,14:00-15:00,Lideta,Lideta Condominiums,rain,1,1.0,low
-2026-04-15,15:00-16:00,Yeka,Kotebe,clear,1,0.53,low
-2026-04-15,23:00-00:00,Addis Ketema,Addisu Gebeya,rain,1,2.91,medium
-2026-04-16,01:00-02:00,Kirkos,Meskel Square,rain,1,2.7,medium
-2026-04-16,01:00-02:00,Kirkos,Meskel Square,rain,1,2.79,medium
-2026-04-16,05:00-06:00,Arada,Arat Kilo,clear,1,1.0,low
-2026-04-16,07:00-08:00,Lideta,Mexico,cloudy,1,1.0,low
-2026-04-16,09:00-10:00,Bole,Rwanda,clear,1,1.0,low
-2026-04-16,09:00-10:00,Lemi Kura,Summit,clear,1,1.0,low
-2026-04-16,14:00-15:00,Addis Ketema,Sebategna,clear,1,1.0,low
-2026-04-16,14:00-15:00,Addis Ketema,Teklehaimanot,rain,1,2.29,medium
-2026-04-16,16:00-17:00,Gulele,Piazza Side,cloudy,1,1.0,low
-2026-04-16,17:00-18:00,Lideta,Tor Hailoch,clear,1,1.0,low
-2026-04-16,20:00-21:00,Kirkos,Kazanchis,clear,1,1.0,low
-2026-04-17,00:00-01:00,Kolfe Keranio,Asko,rain,1,2.39,medium
-2026-04-17,02:00-03:00,Arada,Piassa,clear,1,1.0,low
-2026-04-17,06:00-07:00,Arada,Sidist Kilo,clear,1,1.0,low
-2026-04-17,10:00-11:00,Akaki Kality,Gelane,clear,1,2.74,medium
-2026-04-17,10:00-11:00,Kolfe Keranio,Tor Hailoch,clear,1,2.01,medium
-2026-04-17,13:00-14:00,Akaki Kality,Tulu Dimtu,storm,1,4.23,high
-2026-04-17,14:00-15:00,Yeka,Ayat Zone 2,clear,1,1.0,low
-2026-04-17,16:00-17:00,Bole,Airport Area,clear,1,1.0,low
-2026-04-17,22:00-23:00,Lideta,Lideta Condominiums,clear,1,2.27,medium
-2026-04-17,23:00-00:00,Bole,Airport Area,rain,1,2.78,medium
-2026-04-17,23:00-00:00,Gulele,Addisu Gebeya,clear,1,0.98,low
-2026-04-18,01:00-02:00,Kirkos,Stadium,cloudy,1,1.06,low
-2026-04-18,03:00-04:00,Arada,4 Kilo,clear,1,1.0,low
-2026-04-18,05:00-06:00,Arada,Piassa,clear,1,1.0,low
-2026-04-18,07:00-08:00,Akaki Kality,Gelane,clear,1,2.44,high
-2026-04-18,09:00-10:00,Kolfe Keranio,Ayer Tena,clear,1,1.0,low
-2026-04-18,10:00-11:00,Kolfe Keranio,Asko,rain,1,2.74,medium
-2026-04-18,16:00-17:00,Akaki Kality,Gelane,windy,1,2.67,medium
-2026-04-18,17:00-18:00,Bole,Rwanda,clear,1,1.0,low
-2026-04-18,18:00-19:00,Akaki Kality,Kality,windy,1,3.2,high
-2026-04-18,21:00-22:00,Yeka,Hayahulet,windy,1,3.99,high
-2026-04-18,23:00-00:00,Lideta,Mexico,windy,1,1.0,low
-2026-04-19,05:00-06:00,Addis Ketema,Merkato,rain,1,2.15,medium
-2026-04-19,06:00-07:00,Akaki Kality,Tulu Dimtu,rain,1,3.21,high
-2026-04-19,11:00-12:00,Nifas Silk-Lafto,Mekanisa,cloudy,1,2.7,medium
-2026-04-19,15:00-16:00,Yeka,Hayahulet,rain,1,1.36,low
-2026-04-19,16:00-17:00,Nifas Silk-Lafto,Jemo 1,windy,1,1.0,low
-2026-04-19,17:00-18:00,Kolfe Keranio,Ayer Tena,cloudy,1,2.01,medium
-2026-04-19,18:00-19:00,Bole,CMC,cloudy,1,1.0,low
-2026-04-19,20:00-21:00,Akaki Kality,Gelane,cloudy,1,2.58,high
-2026-04-19,20:00-21:00,Nifas Silk-Lafto,Gotera,windy,1,1.0,low
-2026-04-19,21:00-22:00,Kolfe Keranio,Winget,clear,1,1.0,low
-2026-04-19,21:00-22:00,Lemi Kura,Summit,cloudy,1,1.0,low
-2026-04-20,01:00-02:00,Addis Ketema,Teklehaimanot,clear,1,2.06,medium
-2026-04-20,01:00-02:00,Lideta,Lideta Condominiums,clear,1,2.35,medium
-2026-04-20,02:00-03:00,Lemi Kura,Summit,clear,1,1.0,low
-2026-04-20,05:00-06:00,Addis Ketema,Addisu Gebeya,storm,1,2.51,medium
-2026-04-20,05:00-06:00,Addis Ketema,Merkato,cloudy,1,1.0,low
-2026-04-20,08:00-09:00,Nifas Silk-Lafto,Mekanisa,cloudy,1,4.2,high
-2026-04-20,17:00-18:00,Addis Ketema,Autobus Tera,cloudy,1,1.0,low
-2026-04-20,18:00-19:00,Kirkos,Kazanchis,storm,1,3.43,high
-2026-04-20,19:00-20:00,Bole,Gerji,rain,1,2.87,high
-2026-04-20,19:00-20:00,Kirkos,Wollo Sefer,cloudy,1,1.0,low
-2026-04-20,21:00-22:00,Kolfe Keranio,Winget,windy,1,4.16,high
-2026-04-21,03:00-04:00,Arada,Arat Kilo,cloudy,1,1.0,low
-2026-04-21,07:00-08:00,Kolfe Keranio,Ayer Tena,rain,1,2.02,high
-2026-04-21,09:00-10:00,Kirkos,Stadium,clear,1,1.0,low
-2026-04-21,12:00-13:00,Arada,4 Kilo,clear,1,1.0,low
-2026-04-21,13:00-14:00,Gulele,Piazza Side,storm,1,2.78,medium
-2026-04-21,14:00-15:00,Bole,Rwanda,clear,1,1.0,low
-2026-04-21,15:00-16:00,Kirkos,Wollo Sefer,clear,1,1.0,low
-2026-04-21,17:00-18:00,Addis Ketema,Autobus Tera,clear,1,1.0,low
-2026-04-21,18:00-19:00,Addis Ketema,Teklehaimanot,cloudy,1,2.68,high
-2026-04-21,19:00-20:00,Bole,Airport Area,clear,1,2.76,high
-2026-04-21,23:00-00:00,Kolfe Keranio,Tor Hailoch,clear,1,1.0,low
-2026-04-22,01:00-02:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
-2026-04-22,02:00-03:00,Addis Ketema,Sebategna,cloudy,1,1.0,low
-2026-04-22,06:00-07:00,Lemi Kura,Figa,rain,1,2.3,medium
-2026-04-22,07:00-08:00,Akaki Kality,Gelane,clear,1,2.62,high
-2026-04-22,07:00-08:00,Lemi Kura,Figa,rain,1,2.87,high
-2026-04-22,11:00-12:00,Gulele,Entoto Road,rain,1,1.91,medium
-2026-04-22,13:00-14:00,Lideta,Tor Hailoch,rain,1,1.32,low
-2026-04-22,15:00-16:00,Addis Ketema,Sebategna,cloudy,1,1.0,low
-2026-04-22,16:00-17:00,Kirkos,Bambis,clear,1,2.53,medium
-2026-04-22,16:00-17:00,Lideta,Mexico,clear,1,1.0,low
-2026-04-22,22:00-23:00,Addis Ketema,Addisu Gebeya,rain,1,2.89,medium
-2026-04-23,04:00-05:00,Lemi Kura,Figa,cloudy,1,1.0,low
-2026-04-23,05:00-06:00,Gulele,Addisu Gebeya,clear,1,1.6,medium
-2026-04-23,07:00-08:00,Addis Ketema,Teklehaimanot,clear,1,4.32,high
-2026-04-23,07:00-08:00,Akaki Kality,Tulu Dimtu,clear,1,2.74,high
-2026-04-23,09:00-10:00,Kirkos,Kazanchis,cloudy,1,1.0,low
-2026-04-23,10:00-11:00,Bole,Bole Medhanialem,storm,1,2.88,medium
-2026-04-23,11:00-12:00,Gulele,Piazza Side,rain,1,1.0,low
-2026-04-23,14:00-15:00,Yeka,Shola,clear,1,1.0,low
-2026-04-23,20:00-21:00,Lemi Kura,Ayat,clear,1,1.0,low
-2026-04-23,21:00-22:00,Gulele,Piazza Side,windy,1,3.19,high
-2026-04-23,23:00-00:00,Arada,Giorgis,clear,1,1.0,low
-2026-04-24,01:00-02:00,Yeka,Hayahulet,cloudy,1,1.0,low
-2026-04-24,07:00-08:00,Yeka,Megenagna,rain,1,2.71,high
-2026-04-24,09:00-10:00,Yeka,Kotebe,clear,1,0.96,low
-2026-04-24,10:00-11:00,Kirkos,Mexico,clear,1,1.0,low
-2026-04-24,13:00-14:00,Lideta,Mexico,cloudy,1,1.0,low
-2026-04-24,14:00-15:00,Akaki Kality,Kality,clear,1,3.84,high
-2026-04-24,15:00-16:00,Gulele,Shiro Meda,cloudy,1,1.0,low
-2026-04-24,16:00-17:00,Akaki Kality,Kality,cloudy,1,4.41,high
-2026-04-24,16:00-17:00,Bole,Rwanda,rain,1,2.19,medium
-2026-04-24,21:00-22:00,Lemi Kura,Goro,windy,1,2.16,high
-2026-04-24,22:00-23:00,Gulele,Addisu Gebeya,rain,1,1.0,low
-2026-04-25,01:00-02:00,Kirkos,Wollo Sefer,clear,1,1.0,low
-2026-04-25,02:00-03:00,Arada,Piassa,clear,1,1.0,low
-2026-04-25,07:00-08:00,Yeka,Lamberet,windy,1,2.3,high
-2026-04-25,08:00-09:00,Lemi Kura,Goro,clear,1,2.07,high
-2026-04-25,11:00-12:00,Akaki Kality,Saris Abo Side,cloudy,1,3.02,high
-2026-04-25,11:00-12:00,Yeka,Kotebe,clear,1,1.0,low
-2026-04-25,16:00-17:00,Yeka,Lamberet,storm,1,2.07,medium
-2026-04-25,19:00-20:00,Kolfe Keranio,Jemo Michael,clear,1,1.0,low
-2026-04-25,21:00-22:00,Gulele,Entoto Road,cloudy,1,1.0,low
-2026-04-25,22:00-23:00,Kolfe Keranio,Ayer Tena,clear,1,1.0,low
-2026-04-25,22:00-23:00,Nifas Silk-Lafto,Gotera,clear,1,4.3,high
-2026-04-26,00:00-01:00,Gulele,Addisu Gebeya,clear,1,1.0,low
-2026-04-26,03:00-04:00,Lideta,Lideta Condominiums,rain,1,1.0,low
-2026-04-26,04:00-05:00,Addis Ketema,Teklehaimanot,storm,1,2.77,medium
-2026-04-26,06:00-07:00,Arada,Sidist Kilo,storm,1,2.83,medium
-2026-04-26,09:00-10:00,Akaki Kality,Kality,rain,1,3.1,high
-2026-04-26,15:00-16:00,Arada,Sidist Kilo,rain,1,1.0,low
-2026-04-26,17:00-18:00,Lideta,Balcha Area,cloudy,1,0.32,low
-2026-04-26,18:00-19:00,Akaki Kality,Saris Abo Side,clear,1,2.43,high
-2026-04-26,18:00-19:00,Arada,Arat Kilo,cloudy,1,1.0,low
-2026-04-26,21:00-22:00,Addis Ketema,Addisu Gebeya,clear,1,2.65,high
-2026-04-26,22:00-23:00,Kirkos,Meskel Square,rain,1,2.45,medium
-2026-04-27,01:00-02:00,Addis Ketema,Sebategna,clear,1,2.18,medium
-2026-04-27,02:00-03:00,Kirkos,Mexico,clear,1,0.3,low
-2026-04-27,03:00-04:00,Lemi Kura,Summit,cloudy,1,1.0,low
-2026-04-27,04:00-05:00,Addis Ketema,Autobus Tera,clear,1,1.0,low
-2026-04-27,04:00-05:00,Addis Ketema,Merkato,storm,1,3.23,high
-2026-04-27,06:00-07:00,Yeka,Megenagna,rain,1,4.02,high
-2026-04-27,07:00-08:00,Yeka,Shola,storm,1,2.29,high
-2026-04-27,18:00-19:00,Arada,Sidist Kilo,clear,1,1.0,low
-2026-04-27,19:00-20:00,Kirkos,Stadium,rain,1,3.08,high
-2026-04-27,19:00-20:00,Kolfe Keranio,Tor Hailoch,clear,1,2.13,high
-2026-04-27,23:00-00:00,Yeka,Kotebe,cloudy,1,1.0,low
-2026-04-28,05:00-06:00,Gulele,Shiro Meda,clear,1,2.15,medium
-2026-04-28,12:00-13:00,Arada,Giorgis,rain,1,1.0,low
-2026-04-28,13:00-14:00,Akaki Kality,Saris Abo Side,clear,1,1.0,low
-2026-04-28,13:00-14:00,Yeka,Kotebe,windy,1,1.0,low
-2026-04-28,16:00-17:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
-2026-04-28,17:00-18:00,Kirkos,Wollo Sefer,windy,1,3.47,high
-2026-04-28,18:00-19:00,Akaki Kality,Saris Abo Side,clear,1,2.49,high
-2026-04-28,19:00-20:00,Kolfe Keranio,Tor Hailoch,clear,1,3.68,high
-2026-04-28,19:00-20:00,Kolfe Keranio,Tor Hailoch,clear,1,1.1,low
-2026-04-28,21:00-22:00,Nifas Silk-Lafto,Saris,clear,1,2.02,high
-2026-04-28,23:00-00:00,Bole,Rwanda,rain,1,3.44,high
-2026-04-29,02:00-03:00,Bole,Bole Medhanialem,clear,1,1.0,low
-2026-04-29,05:00-06:00,Lideta,Lideta Condominiums,clear,1,1.24,low
-2026-04-29,08:00-09:00,Gulele,Piazza Side,clear,1,1.0,low
-2026-04-29,09:00-10:00,Bole,CMC,clear,1,1.78,medium
-2026-04-29,10:00-11:00,Yeka,Kotebe,clear,1,1.0,low
-2026-04-29,13:00-14:00,Lemi Kura,Goro,rain,1,1.61,medium
-2026-04-29,13:00-14:00,Yeka,Ayat Zone 2,clear,1,1.17,low
-2026-04-29,15:00-16:00,Kolfe Keranio,Winget,cloudy,1,1.02,low
-2026-04-29,19:00-20:00,Lemi Kura,Summit,cloudy,1,1.71,medium
-2026-04-29,20:00-21:00,Nifas Silk-Lafto,Gotera,windy,1,2.87,high
-2026-04-29,22:00-23:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
+date,time_window,sub_city,sefer_or_landmark,weather_condition,duration_hours,impact_level
+2026-04-12,02:00-03:00,Arada,Sidist Kilo,cloudy,1.0,low
+2026-04-12,02:00-05:33,Lemi Kura,Goro,rain,3.55,high
+2026-04-12,03:00-05:01,Bole,Rwanda,clear,2.02,medium
+2026-04-12,03:00-06:10,Yeka,Kotebe,storm,3.18,high
+2026-04-12,08:00-11:51,Arada,Sidist Kilo,windy,3.86,high
+2026-04-12,08:00-10:43,Lideta,Lideta Condominiums,storm,2.72,high
+2026-04-12,12:00-12:24,Gulele,Shiro Meda,clear,0.41,low
+2026-04-12,12:00-14:25,Nifas Silk-Lafto,Gotera,storm,2.42,medium
+2026-04-12,14:00-15:00,Lemi Kura,Figa,cloudy,1.0,low
+2026-04-12,21:00-00:14,Kolfe Keranio,Winget,rain,3.24,high
+2026-04-12,22:00-23:00,Addis Ketema,Addisu Gebeya,clear,1.0,low
+2026-04-13,00:00-03:24,Lemi Kura,Ayat,rain,3.41,high
+2026-04-13,04:00-07:04,Arada,4 Kilo,storm,3.08,high
+2026-04-13,06:00-06:15,Arada,Piassa,cloudy,0.25,low
+2026-04-13,09:00-10:00,Lemi Kura,Summit,clear,1.0,low
+2026-04-13,12:00-13:00,Akaki Kality,Kality,clear,1.0,low
+2026-04-13,13:00-15:48,Lideta,Lideta Condominiums,rain,2.81,medium
+2026-04-13,17:00-19:43,Yeka,Megenagna,rain,2.72,medium
+2026-04-13,20:00-22:38,Addis Ketema,Autobus Tera,rain,2.64,high
+2026-04-13,20:00-21:00,Kirkos,Wollo Sefer,cloudy,1.0,low
+2026-04-13,23:00-01:16,Gulele,Piazza Side,cloudy,2.27,medium
+2026-04-13,23:00-23:23,Gulele,Shiro Meda,cloudy,0.39,low
+2026-04-14,00:00-01:00,Yeka,Shola,clear,1.0,low
+2026-04-14,01:00-03:38,Addis Ketema,Teklehaimanot,clear,2.64,medium
+2026-04-14,02:00-03:00,Addis Ketema,Teklehaimanot,clear,1.0,low
+2026-04-14,03:00-05:21,Lideta,Balcha Area,windy,2.35,medium
+2026-04-14,04:00-05:00,Yeka,Megenagna,clear,1.0,low
+2026-04-14,07:00-09:24,Nifas Silk-Lafto,Gotera,cloudy,2.41,high
+2026-04-14,10:00-11:39,Yeka,Shola,cloudy,1.66,medium
+2026-04-14,15:00-16:00,Nifas Silk-Lafto,Kera,clear,1.0,low
+2026-04-14,16:00-16:39,Akaki Kality,Kality,cloudy,0.65,low
+2026-04-14,17:00-18:00,Bole,Bole Medhanialem,clear,1.0,low
+2026-04-14,20:00-21:00,Arada,Arat Kilo,cloudy,1.0,low
+2026-04-15,01:00-03:05,Kirkos,Mexico,cloudy,2.09,medium
+2026-04-15,01:00-01:15,Nifas Silk-Lafto,Gotera,clear,0.25,low
+2026-04-15,02:00-03:00,Kolfe Keranio,Tor Hailoch,clear,1.0,low
+2026-04-15,07:00-08:00,Lideta,Tor Hailoch,rain,1.0,low
+2026-04-15,09:00-10:00,Addis Ketema,Addisu Gebeya,cloudy,1.0,low
+2026-04-15,09:00-09:34,Lideta,Mexico,cloudy,0.58,low
+2026-04-15,11:00-12:00,Lideta,Tor Hailoch,cloudy,1.0,low
+2026-04-15,12:00-13:00,Addis Ketema,Teklehaimanot,clear,1.0,low
+2026-04-15,14:00-15:00,Lideta,Lideta Condominiums,rain,1.0,low
+2026-04-15,15:00-15:31,Yeka,Kotebe,clear,0.53,low
+2026-04-15,23:00-01:54,Addis Ketema,Addisu Gebeya,rain,2.91,medium
+2026-04-16,01:00-03:42,Kirkos,Meskel Square,rain,2.7,medium
+2026-04-16,01:00-03:47,Kirkos,Meskel Square,rain,2.79,medium
+2026-04-16,05:00-06:00,Arada,Arat Kilo,clear,1.0,low
+2026-04-16,07:00-08:00,Lideta,Mexico,cloudy,1.0,low
+2026-04-16,09:00-10:00,Bole,Rwanda,clear,1.0,low
+2026-04-16,09:00-10:00,Lemi Kura,Summit,clear,1.0,low
+2026-04-16,14:00-15:00,Addis Ketema,Sebategna,clear,1.0,low
+2026-04-16,14:00-16:17,Addis Ketema,Teklehaimanot,rain,2.29,medium
+2026-04-16,16:00-17:00,Gulele,Piazza Side,cloudy,1.0,low
+2026-04-16,17:00-18:00,Lideta,Tor Hailoch,clear,1.0,low
+2026-04-16,20:00-21:00,Kirkos,Kazanchis,clear,1.0,low
+2026-04-17,00:00-02:23,Kolfe Keranio,Asko,rain,2.39,medium
+2026-04-17,02:00-03:00,Arada,Piassa,clear,1.0,low
+2026-04-17,06:00-07:00,Arada,Sidist Kilo,clear,1.0,low
+2026-04-17,10:00-12:44,Akaki Kality,Gelane,clear,2.74,medium
+2026-04-17,10:00-12:00,Kolfe Keranio,Tor Hailoch,clear,2.01,medium
+2026-04-17,13:00-17:13,Akaki Kality,Tulu Dimtu,storm,4.23,high
+2026-04-17,14:00-15:00,Yeka,Ayat Zone 2,clear,1.0,low
+2026-04-17,16:00-17:00,Bole,Airport Area,clear,1.0,low
+2026-04-17,22:00-00:16,Lideta,Lideta Condominiums,clear,2.27,medium
+2026-04-17,23:00-01:46,Bole,Airport Area,rain,2.78,medium
+2026-04-17,23:00-23:58,Gulele,Addisu Gebeya,clear,0.98,low
+2026-04-18,01:00-02:03,Kirkos,Stadium,cloudy,1.06,low
+2026-04-18,03:00-04:00,Arada,4 Kilo,clear,1.0,low
+2026-04-18,05:00-06:00,Arada,Piassa,clear,1.0,low
+2026-04-18,07:00-09:26,Akaki Kality,Gelane,clear,2.44,high
+2026-04-18,09:00-10:00,Kolfe Keranio,Ayer Tena,clear,1.0,low
+2026-04-18,10:00-12:44,Kolfe Keranio,Asko,rain,2.74,medium
+2026-04-18,16:00-18:40,Akaki Kality,Gelane,windy,2.67,medium
+2026-04-18,17:00-18:00,Bole,Rwanda,clear,1.0,low
+2026-04-18,18:00-21:12,Akaki Kality,Kality,windy,3.2,high
+2026-04-18,21:00-00:59,Yeka,Hayahulet,windy,3.99,high
+2026-04-18,23:00-00:00,Lideta,Mexico,windy,1.0,low
+2026-04-19,05:00-07:09,Addis Ketema,Merkato,rain,2.15,medium
+2026-04-19,06:00-09:12,Akaki Kality,Tulu Dimtu,rain,3.21,high
+2026-04-19,11:00-13:42,Nifas Silk-Lafto,Mekanisa,cloudy,2.7,medium
+2026-04-19,15:00-16:21,Yeka,Hayahulet,rain,1.36,low
+2026-04-19,16:00-17:00,Nifas Silk-Lafto,Jemo 1,windy,1.0,low
+2026-04-19,17:00-19:00,Kolfe Keranio,Ayer Tena,cloudy,2.01,medium
+2026-04-19,18:00-19:00,Bole,CMC,cloudy,1.0,low
+2026-04-19,20:00-22:34,Akaki Kality,Gelane,cloudy,2.58,high
+2026-04-19,20:00-21:00,Nifas Silk-Lafto,Gotera,windy,1.0,low
+2026-04-19,21:00-22:00,Kolfe Keranio,Winget,clear,1.0,low
+2026-04-19,21:00-22:00,Lemi Kura,Summit,cloudy,1.0,low
+2026-04-20,01:00-03:03,Addis Ketema,Teklehaimanot,clear,2.06,medium
+2026-04-20,01:00-03:21,Lideta,Lideta Condominiums,clear,2.35,medium
+2026-04-20,02:00-03:00,Lemi Kura,Summit,clear,1.0,low
+2026-04-20,05:00-07:30,Addis Ketema,Addisu Gebeya,storm,2.51,medium
+2026-04-20,05:00-06:00,Addis Ketema,Merkato,cloudy,1.0,low
+2026-04-20,08:00-12:12,Nifas Silk-Lafto,Mekanisa,cloudy,4.2,high
+2026-04-20,17:00-18:00,Addis Ketema,Autobus Tera,cloudy,1.0,low
+2026-04-20,18:00-21:25,Kirkos,Kazanchis,storm,3.43,high
+2026-04-20,19:00-21:52,Bole,Gerji,rain,2.87,high
+2026-04-20,19:00-20:00,Kirkos,Wollo Sefer,cloudy,1.0,low
+2026-04-20,21:00-01:09,Kolfe Keranio,Winget,windy,4.16,high
+2026-04-21,03:00-04:00,Arada,Arat Kilo,cloudy,1.0,low
+2026-04-21,07:00-09:01,Kolfe Keranio,Ayer Tena,rain,2.02,high
+2026-04-21,09:00-10:00,Kirkos,Stadium,clear,1.0,low
+2026-04-21,12:00-13:00,Arada,4 Kilo,clear,1.0,low
+2026-04-21,13:00-15:46,Gulele,Piazza Side,storm,2.78,medium
+2026-04-21,14:00-15:00,Bole,Rwanda,clear,1.0,low
+2026-04-21,15:00-16:00,Kirkos,Wollo Sefer,clear,1.0,low
+2026-04-21,17:00-18:00,Addis Ketema,Autobus Tera,clear,1.0,low
+2026-04-21,18:00-20:40,Addis Ketema,Teklehaimanot,cloudy,2.68,high
+2026-04-21,19:00-21:45,Bole,Airport Area,clear,2.76,high
+2026-04-21,23:00-00:00,Kolfe Keranio,Tor Hailoch,clear,1.0,low
+2026-04-22,01:00-02:00,Addis Ketema,Teklehaimanot,clear,1.0,low
+2026-04-22,02:00-03:00,Addis Ketema,Sebategna,cloudy,1.0,low
+2026-04-22,06:00-08:18,Lemi Kura,Figa,rain,2.3,medium
+2026-04-22,07:00-09:37,Akaki Kality,Gelane,clear,2.62,high
+2026-04-22,07:00-09:52,Lemi Kura,Figa,rain,2.87,high
+2026-04-22,11:00-12:54,Gulele,Entoto Road,rain,1.91,medium
+2026-04-22,13:00-14:19,Lideta,Tor Hailoch,rain,1.32,low
+2026-04-22,15:00-16:00,Addis Ketema,Sebategna,cloudy,1.0,low
+2026-04-22,16:00-18:31,Kirkos,Bambis,clear,2.53,medium
+2026-04-22,16:00-17:00,Lideta,Mexico,clear,1.0,low
+2026-04-22,22:00-00:53,Addis Ketema,Addisu Gebeya,rain,2.89,medium
+2026-04-23,04:00-05:00,Lemi Kura,Figa,cloudy,1.0,low
+2026-04-23,05:00-06:36,Gulele,Addisu Gebeya,clear,1.6,medium
+2026-04-23,07:00-11:19,Addis Ketema,Teklehaimanot,clear,4.32,high
+2026-04-23,07:00-09:44,Akaki Kality,Tulu Dimtu,clear,2.74,high
+2026-04-23,09:00-10:00,Kirkos,Kazanchis,cloudy,1.0,low
+2026-04-23,10:00-12:52,Bole,Bole Medhanialem,storm,2.88,medium
+2026-04-23,11:00-12:00,Gulele,Piazza Side,rain,1.0,low
+2026-04-23,14:00-15:00,Yeka,Shola,clear,1.0,low
+2026-04-23,20:00-21:00,Lemi Kura,Ayat,clear,1.0,low
+2026-04-23,21:00-00:11,Gulele,Piazza Side,windy,3.19,high
+2026-04-23,23:00-00:00,Arada,Giorgis,clear,1.0,low
+2026-04-24,01:00-02:00,Yeka,Hayahulet,cloudy,1.0,low
+2026-04-24,07:00-09:42,Yeka,Megenagna,rain,2.71,high
+2026-04-24,09:00-09:57,Yeka,Kotebe,clear,0.96,low
+2026-04-24,10:00-11:00,Kirkos,Mexico,clear,1.0,low
+2026-04-24,13:00-14:00,Lideta,Mexico,cloudy,1.0,low
+2026-04-24,14:00-17:50,Akaki Kality,Kality,clear,3.84,high
+2026-04-24,15:00-16:00,Gulele,Shiro Meda,cloudy,1.0,low
+2026-04-24,16:00-20:24,Akaki Kality,Kality,cloudy,4.41,high
+2026-04-24,16:00-18:11,Bole,Rwanda,rain,2.19,medium
+2026-04-24,21:00-23:09,Lemi Kura,Goro,windy,2.16,high
+2026-04-24,22:00-23:00,Gulele,Addisu Gebeya,rain,1.0,low
+2026-04-25,01:00-02:00,Kirkos,Wollo Sefer,clear,1.0,low
+2026-04-25,02:00-03:00,Arada,Piassa,clear,1.0,low
+2026-04-25,07:00-09:18,Yeka,Lamberet,windy,2.3,high
+2026-04-25,08:00-10:04,Lemi Kura,Goro,clear,2.07,high
+2026-04-25,11:00-14:01,Akaki Kality,Saris Abo Side,cloudy,3.02,high
+2026-04-25,11:00-12:00,Yeka,Kotebe,clear,1.0,low
+2026-04-25,16:00-18:04,Yeka,Lamberet,storm,2.07,medium
+2026-04-25,19:00-20:00,Kolfe Keranio,Jemo Michael,clear,1.0,low
+2026-04-25,21:00-22:00,Gulele,Entoto Road,cloudy,1.0,low
+2026-04-25,22:00-23:00,Kolfe Keranio,Ayer Tena,clear,1.0,low
+2026-04-25,22:00-02:18,Nifas Silk-Lafto,Gotera,clear,4.3,high
+2026-04-26,00:00-01:00,Gulele,Addisu Gebeya,clear,1.0,low
+2026-04-26,03:00-04:00,Lideta,Lideta Condominiums,rain,1.0,low
+2026-04-26,04:00-06:46,Addis Ketema,Teklehaimanot,storm,2.77,medium
+2026-04-26,06:00-08:49,Arada,Sidist Kilo,storm,2.83,medium
+2026-04-26,09:00-12:06,Akaki Kality,Kality,rain,3.1,high
+2026-04-26,15:00-16:00,Arada,Sidist Kilo,rain,1.0,low
+2026-04-26,17:00-17:19,Lideta,Balcha Area,cloudy,0.32,low
+2026-04-26,18:00-20:25,Akaki Kality,Saris Abo Side,clear,2.43,high
+2026-04-26,18:00-19:00,Arada,Arat Kilo,cloudy,1.0,low
+2026-04-26,21:00-23:39,Addis Ketema,Addisu Gebeya,clear,2.65,high
+2026-04-26,22:00-00:27,Kirkos,Meskel Square,rain,2.45,medium
+2026-04-27,01:00-03:10,Addis Ketema,Sebategna,clear,2.18,medium
+2026-04-27,02:00-02:18,Kirkos,Mexico,clear,0.3,low
+2026-04-27,03:00-04:00,Lemi Kura,Summit,cloudy,1.0,low
+2026-04-27,04:00-05:00,Addis Ketema,Autobus Tera,clear,1.0,low
+2026-04-27,04:00-07:13,Addis Ketema,Merkato,storm,3.23,high
+2026-04-27,06:00-10:01,Yeka,Megenagna,rain,4.02,high
+2026-04-27,07:00-09:17,Yeka,Shola,storm,2.29,high
+2026-04-27,18:00-19:00,Arada,Sidist Kilo,clear,1.0,low
+2026-04-27,19:00-22:04,Kirkos,Stadium,rain,3.08,high
+2026-04-27,19:00-21:07,Kolfe Keranio,Tor Hailoch,clear,2.13,high
+2026-04-27,23:00-00:00,Yeka,Kotebe,cloudy,1.0,low
+2026-04-28,05:00-07:09,Gulele,Shiro Meda,clear,2.15,medium
+2026-04-28,12:00-13:00,Arada,Giorgis,rain,1.0,low
+2026-04-28,13:00-14:00,Akaki Kality,Saris Abo Side,clear,1.0,low
+2026-04-28,13:00-14:00,Yeka,Kotebe,windy,1.0,low
+2026-04-28,16:00-17:00,Addis Ketema,Teklehaimanot,clear,1.0,low
+2026-04-28,17:00-20:28,Kirkos,Wollo Sefer,windy,3.47,high
+2026-04-28,18:00-20:29,Akaki Kality,Saris Abo Side,clear,2.49,high
+2026-04-28,19:00-22:40,Kolfe Keranio,Tor Hailoch,clear,3.68,high
+2026-04-28,19:00-20:06,Kolfe Keranio,Tor Hailoch,clear,1.1,low
+2026-04-28,21:00-23:01,Nifas Silk-Lafto,Saris,clear,2.02,high
+2026-04-28,23:00-02:26,Bole,Rwanda,rain,3.44,high
+2026-04-29,02:00-03:00,Bole,Bole Medhanialem,clear,1.0,low
+2026-04-29,05:00-06:14,Lideta,Lideta Condominiums,clear,1.24,low
+2026-04-29,08:00-09:00,Gulele,Piazza Side,clear,1.0,low
+2026-04-29,09:00-10:46,Bole,CMC,clear,1.78,medium
+2026-04-29,10:00-11:00,Yeka,Kotebe,clear,1.0,low
+2026-04-29,13:00-14:36,Lemi Kura,Goro,rain,1.61,medium
+2026-04-29,13:00-14:10,Yeka,Ayat Zone 2,clear,1.17,low
+2026-04-29,15:00-16:01,Kolfe Keranio,Winget,cloudy,1.02,low
+2026-04-29,19:00-20:42,Lemi Kura,Summit,cloudy,1.71,medium
+2026-04-29,20:00-22:52,Nifas Silk-Lafto,Gotera,windy,2.87,high
+2026-04-29,22:00-23:00,Addis Ketema,Teklehaimanot,clear,1.0,low

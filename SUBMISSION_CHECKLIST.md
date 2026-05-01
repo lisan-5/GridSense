@@ -12,5 +12,6 @@
 - [x] Synthetic data is not used as the main dataset
 - [x] Real community outage dataset collected via Streamlit (`data/collected/community_outage_reports.csv`)
 - [x] Cleaned analysis dataset prepared (`data/processed/community_outage_reports_clean.csv`)
-- [x] Model trained and evaluated on real collected data (`src/train_and_evaluate_model.py`)
-- [x] Baseline vs trained-model metrics saved (`reports/tables/model_metrics.json`)
+- [x] Forecasting dataset built from real collected data (`src/build_forecasting_dataset.py`)
+- [x] Two-stage models trained and evaluated (`src/train_two_stage_models.py`)
+- [x] Metrics saved (`reports/tables/two_stage_model_metrics.json`)

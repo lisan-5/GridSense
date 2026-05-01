@@ -29,7 +29,7 @@ Public datasets exclude:
 | day_of_week | Day name |
 | reports_count | Community report count in window |
 | respondents_count_proxy | Proxy participation count |
-| outage_occurred | Forecasting target (0/1) |
+| outage_reported | Forecasting target (0/1) |
 | avg_duration_hours | Mean duration in window |
 | max_duration_hours | Maximum duration in window |
 | high_severity_outage | Conditional severity target (0/1) |
@@ -41,4 +41,5 @@ Public datasets exclude:
 
 ## Labeling note
 
-`outage_occurred` is constructed from aggregated community report evidence at the time-window level. This enables first-step local forecasting but should not be interpreted as official utility outage telemetry.
+`outage_reported` is constructed from aggregated community report evidence at the time-window level. This enables first-step local forecasting but should not be interpreted as official utility outage telemetry.
+

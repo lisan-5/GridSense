@@ -1,6 +1,6 @@
 {
   "rows": 1584,
-  "outage_occurred_counts": {
+  "outage_reported_counts": {
     "0": 1489,
     "1": 95
   },

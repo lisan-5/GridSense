@@ -35,7 +35,11 @@ if data_path.exists():
         results['community_mean_duration_hours'] = round(sum(durations) / len(durations), 2)
         results['community_max_duration_hours'] = round(max(durations), 2)
 
-        rainy = [float(r['duration_hours']) for r in reports if r.get('weather_condition') in {'light_rain', 'heavy_rain', 'storm'}]
+        rainy = [
+            float(r['duration_hours'])
+            for r in reports
+            if str(r.get('weather_condition', '')).strip().lower() in {'rain', 'light_rain', 'heavy_rain', 'storm'}
+        ]
         clear = [float(r['duration_hours']) for r in reports if r.get('weather_condition') == 'clear']
         results['community_rainy_n'] = len(rainy)
         results['community_clear_n'] = len(clear)

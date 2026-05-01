@@ -3,7 +3,7 @@
 GridSense is a Kujenga final project focused on **forecasting electricity outage risk in Addis Ababa** using community reports, time, location, planning status, and weather conditions.
 
 The project now uses a two-stage modeling system:
-1. **Outage risk forecasting model** (`outage_occurred`).
+1. **Outage risk forecasting model** (`outage_reported`).
 2. **Conditional impact model** (severity/duration if outage occurs).
 
 ## Main notebook
@@ -52,28 +52,29 @@ streamlit run app/streamlit_app.py
 
 ```text
 GridSense/
-+-- README.md
-+-- PROJECT_SUMMARY.md
-+-- requirements.txt
-+-- .gitignore
-+-- notebooks/
-¦   +-- lisanegebriel_ethiopia_final_project.ipynb
-+-- data/
-¦   +-- DATASET.md
-¦   +-- collected/
-¦   ¦   +-- community_outage_reports.csv
-¦   +-- processed/
-¦       +-- community_outage_reports_clean.csv
-¦       +-- gridsense_forecasting_dataset.csv
-¦       +-- local_evidence_dataset.csv
-+-- reports/
-¦   +-- cards/
-¦   +-- tables/
-+-- src/
-¦   +-- build_forecasting_dataset.py
-¦   +-- train_two_stage_models.py
-¦   +-- analyze_real_data.py
-¦   +-- train_and_evaluate_model.py
-+-- app/
-    +-- streamlit_app.py
-```
+|-- README.md
+|-- PROJECT_SUMMARY.md
+|-- requirements.txt
+|-- .gitignore
+|-- notebooks/
+Â¦   |-- lisanegebriel_ethiopia_final_project.ipynb
+|-- data/
+Â¦   |-- DATASET.md
+Â¦   |-- collected/
+Â¦   Â¦   |-- community_outage_reports.csv
+Â¦   |-- processed/
+Â¦       |-- community_outage_reports_clean.csv
+Â¦       |-- gridsense_forecasting_dataset.csv
+Â¦       |-- local_evidence_dataset.csv
+|-- reports/
+Â¦   |-- cards/
+Â¦   |-- tables/
+|-- src/
+Â¦   |-- build_forecasting_dataset.py
+Â¦   |-- train_two_stage_models.py
+Â¦   |-- analyze_real_data.py
+Â¦   |-- train_and_evaluate_model.py
+|-- app/
+    |-- streamlit_app.py
+```
+
