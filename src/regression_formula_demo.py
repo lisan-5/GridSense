@@ -8,7 +8,6 @@ with open(ROOT / 'data/raw/ethiopia_enterprise_outage_indicators.csv', newline='
         if r['indicator_code'] == 'IC.ELC.OUTG':
             rows.append((int(r['year']), float(r['value'])))
 
-# Kujenga-style ordinary least squares by hand:
 # m = sum((x - xbar)(y - ybar)) / sum((x - xbar)^2)
 # k = ybar - m*xbar
 xs = [x for x, y in rows]

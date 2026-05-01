@@ -1,0 +1,92 @@
+{
+  "dataset_rows": 1584,
+  "stage1_outage_forecasting": {
+    "target": "outage_occurred",
+    "features": [
+      "hour_block_start",
+      "day_of_week",
+      "sub_city",
+      "weather_condition",
+      "is_rainy",
+      "planned_notice_mode"
+    ],
+    "class_balance": {
+      "0": 1489,
+      "1": 95
+    },
+    "models": [
+      {
+        "model": "dummy_baseline",
+        "accuracy": 0.9394,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "roc_auc": 0.5,
+        "confusion_matrix": {
+          "tn": 372,
+          "fp": 0,
+          "fn": 24,
+          "tp": 0
+        }
+      },
+      {
+        "model": "logistic_regression",
+        "accuracy": 0.9747,
+        "precision": 0.7917,
+        "recall": 0.7917,
+        "f1": 0.7917,
+        "roc_auc": 0.9929,
+        "confusion_matrix": {
+          "tn": 367,
+          "fp": 5,
+          "fn": 5,
+          "tp": 19
+        }
+      },
+      {
+        "model": "random_forest",
+        "accuracy": 0.9621,
+        "precision": 0.6154,
+        "recall": 1.0,
+        "f1": 0.7619,
+        "roc_auc": 0.9888,
+        "confusion_matrix": {
+          "tn": 357,
+          "fp": 15,
+          "fn": 0,
+          "tp": 24
+        }
+      }
+    ]
+  },
+  "stage2_conditional_models": {
+    "scope": "rows where outage_occurred == 1",
+    "rows": 95,
+    "features": [
+      "hour_block_start",
+      "sub_city",
+      "weather_condition",
+      "planned_notice_mode",
+      "confidence_score_mean"
+    ],
+    "severity_classifier": {
+      "model": "random_forest_high_severity",
+      "accuracy": 0.6667,
+      "precision": 0.7222,
+      "recall": 0.8125,
+      "f1": 0.7647,
+      "roc_auc": 0.7109,
+      "confusion_matrix": {
+        "tn": 3,
+        "fp": 5,
+        "fn": 3,
+        "tp": 13
+      }
+    },
+    "duration_regressor": {
+      "model": "random_forest_duration_regressor",
+      "mae": 0.6128,
+      "r2": 0.0333
+    }
+  }
+}

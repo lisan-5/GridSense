@@ -1,16 +1,30 @@
 # Project Summary
 
-GridSense investigates electricity outage patterns in Addis Ababa using anonymous community reports.
+GridSense investigates electricity outage risk in Addis Ababa using community-reported data and a two-stage forecasting approach.
 
-The project follows the Kujenga spirit: choose a local problem, collect real data, clean it, analyze it, apply mathematical/statistical methods, and tell a careful story.
+## Project shift
 
-Main methods:
-- Exploratory data analysis
-- Outage Severity Index
-- Welch's t-test
-- Linear regression
-- Logistic regression / random forest proof-of-concept
-- Responsible AI model card
+The project moved from report-level risk scoring to **time-location outage forecasting**.
 
-Main conclusion:
-The collected reports show useful early signals about outage timing, duration, severity, and weather association. However, the dataset is still small and community-reported, so results should be interpreted as research evidence, not official outage forecasting.
+New main question:
+Can community-reported data, time features, location, planning status, and weather conditions be used to estimate electricity outage risk in Addis Ababa?
+
+## Two-stage model design
+
+1. **Model 1: Outage forecasting**
+- Target: `outage_occurred`
+- Input: time window, day of week, sub-city, weather, rainy indicator, planning status
+- Output: outage risk probability
+
+2. **Model 2: Conditional impact**
+- Scope: rows where outage occurs
+- Targets: `high_severity_outage` and `avg_duration_hours`
+- Output: likely disruption intensity if outage happens
+
+## Why this is useful locally
+
+This design supports planning decisions for students, households, and small businesses by estimating when/where risk is higher and how disruptive outages may be.
+
+## Limits
+
+The data is community-reported and not official utility telemetry. Results should be treated as local decision-support evidence, not operational outage control.

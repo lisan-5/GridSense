@@ -1,199 +1,199 @@
-report_id,date,sub_city,sefer_or_landmark,outage_start_time,outage_end_time,duration_hours,planned_notice,impact_level,weather_condition,source_type,confidence_score,high_risk_outage
-COMM-00001,2026-04-12,Bole,Rwanda,03:00,05:01,2.02,no,medium,clear,streamlit_form,0.62,1
-COMM-00002,2026-04-13,Gulele,Shiro Meda,23:00,23:23,0.39,yes,low,cloudy,streamlit_form,0.76,0
-COMM-00003,2026-04-14,Akaki Kality,Kality,16:00,16:39,0.65,no,low,cloudy,streamlit_form,0.56,0
-COMM-00004,2026-04-15,Lideta,Tor Hailoch,07:00,08:00,1.0,yes,low,rain,streamlit_form,0.79,0
-COMM-00005,2026-04-16,Arada,Arat Kilo,05:00,06:00,1.0,yes,low,clear,streamlit_form,0.7,0
-COMM-00006,2026-04-17,Arada,Piassa,02:00,03:00,1.0,no,low,clear,streamlit_form,0.69,0
-COMM-00007,2026-04-18,Lideta,Mexico,23:00,00:00,1.0,no,low,windy,streamlit_form,0.47,0
-COMM-00008,2026-04-19,Akaki Kality,Gelane,20:00,22:34,2.58,no,high,cloudy,streamlit_form,0.61,1
-COMM-00009,2026-04-20,Kolfe Keranio,Winget,21:00,01:09,4.16,unknown,high,windy,streamlit_form,0.61,1
-COMM-00010,2026-04-21,Arada,Arat Kilo,03:00,04:00,1.0,unknown,low,cloudy,streamlit_form,0.59,0
-COMM-00011,2026-04-22,Lemi Kura,Figa,06:00,08:18,2.3,no,medium,rain,streamlit_form,0.7,1
-COMM-00012,2026-04-23,Gulele,Addisu Gebeya,05:00,06:36,1.6,no,medium,clear,streamlit_form,0.56,0
-COMM-00013,2026-04-24,Gulele,Addisu Gebeya,22:00,23:00,1.0,unknown,low,rain,streamlit_form,0.53,0
-COMM-00014,2026-04-25,Kirkos,Wollo Sefer,01:00,02:00,1.0,yes,low,clear,streamlit_form,0.8,0
-COMM-00015,2026-04-26,Kirkos,Meskel Square,22:00,00:27,2.45,no,medium,rain,streamlit_form,0.74,1
-COMM-00016,2026-04-27,Addis Ketema,Autobus Tera,04:00,05:00,1.0,no,low,clear,streamlit_form,0.54,0
-COMM-00017,2026-04-28,Akaki Kality,Saris Abo Side,13:00,14:00,1.0,unknown,low,clear,streamlit_form,0.55,0
-COMM-00018,2026-04-29,Bole,Bole Medhanialem,02:00,03:00,1.0,yes,low,clear,streamlit_form,0.71,0
-COMM-00019,2026-04-12,Arada,Sidist Kilo,02:00,03:00,1.0,no,low,cloudy,streamlit_form,0.59,0
-COMM-00020,2026-04-13,Lemi Kura,Ayat,00:00,03:24,3.41,no,high,rain,streamlit_form,0.75,1
-COMM-00021,2026-04-14,Yeka,Shola,10:00,11:39,1.66,no,medium,cloudy,streamlit_form,0.63,0
-COMM-00022,2026-04-15,Addis Ketema,Addisu Gebeya,23:00,01:54,2.91,no,medium,rain,streamlit_form,0.63,1
-COMM-00023,2026-04-16,Lemi Kura,Summit,09:00,10:00,1.0,no,low,clear,streamlit_form,0.49,0
-COMM-00024,2026-04-17,Bole,Airport Area,16:00,17:00,1.0,yes,low,clear,streamlit_form,0.74,0
-COMM-00025,2026-04-18,Kolfe Keranio,Ayer Tena,09:00,10:00,1.0,no,low,clear,streamlit_form,0.56,0
-COMM-00026,2026-04-19,Yeka,Hayahulet,15:00,16:21,1.36,yes,low,rain,streamlit_form,0.82,0
-COMM-00027,2026-04-20,Addis Ketema,Addisu Gebeya,05:00,07:30,2.51,no,medium,storm,streamlit_form,0.72,1
-COMM-00028,2026-04-21,Kolfe Keranio,Tor Hailoch,23:00,00:00,1.0,unknown,low,clear,streamlit_form,0.51,0
-COMM-00029,2026-04-22,Lideta,Mexico,16:00,17:00,1.0,yes,low,clear,streamlit_form,0.72,0
-COMM-00030,2026-04-23,Akaki Kality,Tulu Dimtu,07:00,09:44,2.74,no,high,clear,streamlit_form,0.59,1
-COMM-00031,2026-04-24,Yeka,Megenagna,07:00,09:42,2.71,yes,high,rain,streamlit_form,0.86,1
-COMM-00032,2026-04-25,Lemi Kura,Goro,08:00,10:04,2.07,yes,high,clear,streamlit_form,0.75,1
-COMM-00033,2026-04-26,Akaki Kality,Saris Abo Side,18:00,20:25,2.43,no,high,clear,streamlit_form,0.57,1
-COMM-00034,2026-04-27,Yeka,Megenagna,06:00,10:01,4.02,no,high,rain,streamlit_form,0.63,1
-COMM-00035,2026-04-28,Bole,Rwanda,23:00,02:26,3.44,no,high,rain,streamlit_form,0.68,1
-COMM-00036,2026-04-29,Yeka,Kotebe,10:00,11:00,1.0,no,low,clear,streamlit_form,0.51,0
-COMM-00037,2026-04-12,Lideta,Lideta Condominiums,08:00,10:43,2.72,yes,high,storm,streamlit_form,0.84,1
-COMM-00038,2026-04-13,Yeka,Megenagna,17:00,19:43,2.72,no,medium,rain,streamlit_form,0.71,1
-COMM-00039,2026-04-14,Nifas Silk-Lafto,Gotera,07:00,09:24,2.41,yes,high,cloudy,streamlit_form,0.81,1
-COMM-00040,2026-04-15,Nifas Silk-Lafto,Gotera,01:00,01:15,0.25,no,low,clear,streamlit_form,0.66,0
-COMM-00041,2026-04-16,Addis Ketema,Teklehaimanot,14:00,16:17,2.29,no,medium,rain,streamlit_form,0.77,1
-COMM-00042,2026-04-17,Lideta,Lideta Condominiums,22:00,00:16,2.27,yes,medium,clear,streamlit_form,0.73,1
-COMM-00043,2026-04-18,Bole,Rwanda,17:00,18:00,1.0,yes,low,clear,streamlit_form,0.77,0
-COMM-00044,2026-04-19,Nifas Silk-Lafto,Jemo 1,16:00,17:00,1.0,yes,low,windy,streamlit_form,0.81,0
-COMM-00045,2026-04-20,Lemi Kura,Summit,02:00,03:00,1.0,unknown,low,clear,streamlit_form,0.48,0
-COMM-00046,2026-04-21,Bole,Airport Area,19:00,21:45,2.76,no,high,clear,streamlit_form,0.64,1
-COMM-00047,2026-04-22,Kirkos,Bambis,16:00,18:31,2.53,no,medium,clear,streamlit_form,0.63,1
-COMM-00048,2026-04-23,Lemi Kura,Figa,04:00,05:00,1.0,unknown,low,cloudy,streamlit_form,0.52,0
-COMM-00049,2026-04-24,Akaki Kality,Kality,14:00,17:50,3.84,yes,high,clear,streamlit_form,0.78,1
-COMM-00050,2026-04-25,Yeka,Kotebe,11:00,12:00,1.0,yes,low,clear,streamlit_form,0.67,0
-COMM-00051,2026-04-26,Akaki Kality,Kality,09:00,12:06,3.1,no,high,rain,streamlit_form,0.72,1
-COMM-00052,2026-04-27,Addis Ketema,Merkato,04:00,07:13,3.23,no,high,storm,streamlit_form,0.67,1
-COMM-00053,2026-04-28,Kolfe Keranio,Tor Hailoch,19:00,22:40,3.68,no,high,clear,streamlit_form,0.57,1
-COMM-00054,2026-04-29,Gulele,Piazza Side,08:00,09:00,1.0,unknown,low,clear,streamlit_form,0.6,0
-COMM-00055,2026-04-12,Lemi Kura,Goro,02:00,05:33,3.55,yes,high,rain,streamlit_form,0.84,1
-COMM-00056,2026-04-13,Addis Ketema,Autobus Tera,20:00,22:38,2.64,no,high,rain,streamlit_form,0.65,1
-COMM-00057,2026-04-14,Bole,Bole Medhanialem,17:00,18:00,1.0,unknown,low,clear,streamlit_form,0.55,0
-COMM-00058,2026-04-15,Kirkos,Mexico,01:00,03:05,2.09,no,medium,cloudy,streamlit_form,0.65,1
-COMM-00059,2026-04-16,Kirkos,Meskel Square,01:00,03:42,2.7,no,medium,rain,streamlit_form,0.64,1
-COMM-00060,2026-04-17,Akaki Kality,Tulu Dimtu,13:00,17:13,4.23,no,high,storm,streamlit_form,0.64,1
-COMM-00061,2026-04-18,Arada,Piassa,05:00,06:00,1.0,unknown,low,clear,streamlit_form,0.54,0
-COMM-00062,2026-04-19,Kolfe Keranio,Winget,21:00,22:00,1.0,no,low,clear,streamlit_form,0.57,0
-COMM-00063,2026-04-20,Lideta,Lideta Condominiums,01:00,03:21,2.35,unknown,medium,clear,streamlit_form,0.61,1
-COMM-00064,2026-04-21,Kolfe Keranio,Ayer Tena,07:00,09:01,2.02,no,high,rain,streamlit_form,0.65,1
-COMM-00065,2026-04-22,Addis Ketema,Sebategna,02:00,03:00,1.0,no,low,cloudy,streamlit_form,0.48,0
-COMM-00066,2026-04-23,Bole,Bole Medhanialem,10:00,12:52,2.88,no,medium,storm,streamlit_form,0.69,1
-COMM-00067,2026-04-24,Yeka,Hayahulet,01:00,02:00,1.0,no,low,cloudy,streamlit_form,0.61,0
-COMM-00068,2026-04-25,Yeka,Lamberet,16:00,18:04,2.07,yes,medium,storm,streamlit_form,0.89,1
-COMM-00069,2026-04-26,Gulele,Addisu Gebeya,00:00,01:00,1.0,yes,low,clear,streamlit_form,0.74,0
-COMM-00070,2026-04-27,Kirkos,Stadium,19:00,22:04,3.08,no,high,rain,streamlit_form,0.68,1
-COMM-00071,2026-04-28,Addis Ketema,Teklehaimanot,16:00,17:00,1.0,no,low,clear,streamlit_form,0.57,0
-COMM-00072,2026-04-29,Lemi Kura,Goro,13:00,14:36,1.61,unknown,medium,rain,streamlit_form,0.67,0
-COMM-00073,2026-04-12,Gulele,Shiro Meda,12:00,12:24,0.41,yes,low,clear,streamlit_form,0.77,0
-COMM-00074,2026-04-13,Kirkos,Wollo Sefer,20:00,21:00,1.0,no,low,cloudy,streamlit_form,0.54,0
-COMM-00075,2026-04-14,Nifas Silk-Lafto,Kera,15:00,16:00,1.0,no,low,clear,streamlit_form,0.52,0
-COMM-00076,2026-04-15,Kolfe Keranio,Tor Hailoch,02:00,03:00,1.0,unknown,low,clear,streamlit_form,0.52,0
-COMM-00077,2026-04-16,Lideta,Mexico,07:00,08:00,1.0,unknown,low,cloudy,streamlit_form,0.6,0
-COMM-00078,2026-04-17,Arada,Sidist Kilo,06:00,07:00,1.0,yes,low,clear,streamlit_form,0.72,0
-COMM-00079,2026-04-18,Arada,4 Kilo,03:00,04:00,1.0,unknown,low,clear,streamlit_form,0.53,0
-COMM-00080,2026-04-19,Kolfe Keranio,Ayer Tena,17:00,19:00,2.01,unknown,medium,cloudy,streamlit_form,0.68,1
-COMM-00081,2026-04-20,Kirkos,Wollo Sefer,19:00,20:00,1.0,no,low,cloudy,streamlit_form,0.6,0
-COMM-00082,2026-04-21,Gulele,Piazza Side,13:00,15:46,2.78,no,medium,storm,streamlit_form,0.65,1
-COMM-00083,2026-04-22,Lemi Kura,Figa,07:00,09:52,2.87,no,high,rain,streamlit_form,0.67,1
-COMM-00084,2026-04-23,Addis Ketema,Teklehaimanot,07:00,11:19,4.32,no,high,clear,streamlit_form,0.73,1
-COMM-00085,2026-04-24,Kirkos,Mexico,10:00,11:00,1.0,yes,low,clear,streamlit_form,0.68,0
-COMM-00086,2026-04-25,Kolfe Keranio,Ayer Tena,22:00,23:00,1.0,no,low,clear,streamlit_form,0.49,0
-COMM-00087,2026-04-26,Arada,Sidist Kilo,06:00,08:49,2.83,no,medium,storm,streamlit_form,0.65,1
-COMM-00088,2026-04-27,Arada,Sidist Kilo,18:00,19:00,1.0,no,low,clear,streamlit_form,0.67,0
-COMM-00089,2026-04-28,Arada,Giorgis,12:00,13:00,1.0,no,low,rain,streamlit_form,0.62,0
-COMM-00090,2026-04-29,Kolfe Keranio,Winget,15:00,16:01,1.02,yes,low,cloudy,streamlit_form,0.83,0
-COMM-00091,2026-04-12,Nifas Silk-Lafto,Gotera,12:00,14:25,2.42,unknown,medium,storm,streamlit_form,0.74,1
-COMM-00092,2026-04-13,Akaki Kality,Kality,12:00,13:00,1.0,no,low,clear,streamlit_form,0.53,0
-COMM-00093,2026-04-14,Addis Ketema,Teklehaimanot,01:00,03:38,2.64,no,medium,clear,streamlit_form,0.63,1
-COMM-00094,2026-04-15,Addis Ketema,Teklehaimanot,12:00,13:00,1.0,yes,low,clear,streamlit_form,0.75,0
-COMM-00095,2026-04-16,Kirkos,Meskel Square,01:00,03:47,2.79,no,medium,rain,streamlit_form,0.66,1
-COMM-00096,2026-04-17,Kolfe Keranio,Asko,00:00,02:23,2.39,no,medium,rain,streamlit_form,0.7,1
-COMM-00097,2026-04-18,Yeka,Hayahulet,21:00,00:59,3.99,no,high,windy,streamlit_form,0.61,1
-COMM-00098,2026-04-19,Nifas Silk-Lafto,Mekanisa,11:00,13:42,2.7,no,medium,cloudy,streamlit_form,0.55,1
-COMM-00099,2026-04-20,Addis Ketema,Merkato,05:00,06:00,1.0,unknown,low,cloudy,streamlit_form,0.59,0
-COMM-00100,2026-04-21,Arada,4 Kilo,12:00,13:00,1.0,no,low,clear,streamlit_form,0.54,0
-COMM-00101,2026-04-22,Addis Ketema,Addisu Gebeya,22:00,00:53,2.89,no,medium,rain,streamlit_form,0.69,1
-COMM-00102,2026-04-23,Gulele,Piazza Side,11:00,12:00,1.0,yes,low,rain,streamlit_form,0.79,0
-COMM-00103,2026-04-24,Lideta,Mexico,13:00,14:00,1.0,no,low,cloudy,streamlit_form,0.52,0
-COMM-00104,2026-04-25,Nifas Silk-Lafto,Gotera,22:00,02:18,4.3,no,high,clear,streamlit_form,0.57,1
-COMM-00105,2026-04-26,Lideta,Balcha Area,17:00,17:19,0.32,no,low,cloudy,streamlit_form,0.63,0
-COMM-00106,2026-04-27,Yeka,Shola,07:00,09:17,2.29,no,high,storm,streamlit_form,0.63,1
-COMM-00107,2026-04-28,Akaki Kality,Saris Abo Side,18:00,20:29,2.49,no,high,clear,streamlit_form,0.6,1
-COMM-00108,2026-04-29,Lideta,Lideta Condominiums,05:00,06:14,1.24,no,low,clear,streamlit_form,0.63,0
-COMM-00109,2026-04-12,Addis Ketema,Addisu Gebeya,22:00,23:00,1.0,unknown,low,clear,streamlit_form,0.63,0
-COMM-00110,2026-04-13,Lideta,Lideta Condominiums,13:00,15:48,2.81,no,medium,rain,streamlit_form,0.67,1
-COMM-00111,2026-04-14,Yeka,Shola,00:00,01:00,1.0,no,low,clear,streamlit_form,0.6,0
-COMM-00112,2026-04-15,Lideta,Tor Hailoch,11:00,12:00,1.0,no,low,cloudy,streamlit_form,0.57,0
-COMM-00113,2026-04-16,Addis Ketema,Sebategna,14:00,15:00,1.0,yes,low,clear,streamlit_form,0.71,0
-COMM-00114,2026-04-17,Gulele,Addisu Gebeya,23:00,23:58,0.98,no,low,clear,streamlit_form,0.55,0
-COMM-00115,2026-04-18,Akaki Kality,Gelane,16:00,18:40,2.67,unknown,medium,windy,streamlit_form,0.57,1
-COMM-00116,2026-04-19,Addis Ketema,Merkato,05:00,07:09,2.15,yes,medium,rain,streamlit_form,0.83,1
-COMM-00117,2026-04-20,Addis Ketema,Autobus Tera,17:00,18:00,1.0,no,low,cloudy,streamlit_form,0.56,0
-COMM-00118,2026-04-21,Addis Ketema,Teklehaimanot,18:00,20:40,2.68,no,high,cloudy,streamlit_form,0.64,1
-COMM-00119,2026-04-22,Addis Ketema,Teklehaimanot,01:00,02:00,1.0,yes,low,clear,streamlit_form,0.71,0
-COMM-00120,2026-04-23,Lemi Kura,Ayat,20:00,21:00,1.0,unknown,low,clear,streamlit_form,0.58,0
-COMM-00121,2026-04-24,Yeka,Kotebe,09:00,09:57,0.96,no,low,clear,streamlit_form,0.64,0
-COMM-00122,2026-04-25,Kolfe Keranio,Jemo Michael,19:00,20:00,1.0,unknown,low,clear,streamlit_form,0.5,0
-COMM-00123,2026-04-26,Arada,Arat Kilo,18:00,19:00,1.0,yes,low,cloudy,streamlit_form,0.74,0
-COMM-00124,2026-04-27,Yeka,Kotebe,23:00,00:00,1.0,no,low,cloudy,streamlit_form,0.61,0
-COMM-00125,2026-04-28,Gulele,Shiro Meda,05:00,07:09,2.15,no,medium,clear,streamlit_form,0.65,1
-COMM-00126,2026-04-29,Bole,CMC,09:00,10:46,1.78,no,medium,clear,streamlit_form,0.63,0
-COMM-00127,2026-04-12,Kolfe Keranio,Winget,21:00,00:14,3.24,no,high,rain,streamlit_form,0.71,1
-COMM-00128,2026-04-13,Arada,Piassa,06:00,06:15,0.25,no,low,cloudy,streamlit_form,0.67,0
-COMM-00129,2026-04-14,Yeka,Megenagna,04:00,05:00,1.0,no,low,clear,streamlit_form,0.55,0
-COMM-00130,2026-04-15,Lideta,Mexico,09:00,09:34,0.58,no,low,cloudy,streamlit_form,0.69,0
-COMM-00131,2026-04-16,Gulele,Piazza Side,16:00,17:00,1.0,no,low,cloudy,streamlit_form,0.6,0
-COMM-00132,2026-04-17,Akaki Kality,Gelane,10:00,12:44,2.74,no,medium,clear,streamlit_form,0.6,1
-COMM-00133,2026-04-18,Akaki Kality,Kality,18:00,21:12,3.2,no,high,windy,streamlit_form,0.71,1
-COMM-00134,2026-04-19,Bole,CMC,18:00,19:00,1.0,no,low,cloudy,streamlit_form,0.5,0
-COMM-00135,2026-04-20,Nifas Silk-Lafto,Mekanisa,08:00,12:12,4.2,unknown,high,cloudy,streamlit_form,0.59,1
-COMM-00136,2026-04-21,Kirkos,Wollo Sefer,15:00,16:00,1.0,no,low,clear,streamlit_form,0.61,0
-COMM-00137,2026-04-22,Lideta,Tor Hailoch,13:00,14:19,1.32,no,low,rain,streamlit_form,0.65,0
-COMM-00138,2026-04-23,Yeka,Shola,14:00,15:00,1.0,yes,low,clear,streamlit_form,0.75,0
-COMM-00139,2026-04-24,Bole,Rwanda,16:00,18:11,2.19,no,medium,rain,streamlit_form,0.69,1
-COMM-00140,2026-04-25,Akaki Kality,Saris Abo Side,11:00,14:01,3.02,no,high,cloudy,streamlit_form,0.64,1
-COMM-00141,2026-04-26,Addis Ketema,Teklehaimanot,04:00,06:46,2.77,no,medium,storm,streamlit_form,0.69,1
-COMM-00142,2026-04-27,Kolfe Keranio,Tor Hailoch,19:00,21:07,2.13,no,high,clear,streamlit_form,0.68,1
-COMM-00143,2026-04-28,Yeka,Kotebe,13:00,14:00,1.0,unknown,low,windy,streamlit_form,0.6,0
-COMM-00144,2026-04-29,Nifas Silk-Lafto,Gotera,20:00,22:52,2.87,no,high,windy,streamlit_form,0.68,1
-COMM-00145,2026-04-12,Arada,Sidist Kilo,08:00,11:51,3.86,no,high,windy,streamlit_form,0.65,1
-COMM-00146,2026-04-13,Arada,4 Kilo,04:00,07:04,3.08,no,high,storm,streamlit_form,0.61,1
-COMM-00147,2026-04-14,Addis Ketema,Teklehaimanot,02:00,03:00,1.0,no,low,clear,streamlit_form,0.56,0
-COMM-00148,2026-04-15,Addis Ketema,Addisu Gebeya,09:00,10:00,1.0,no,low,cloudy,streamlit_form,0.53,0
-COMM-00149,2026-04-16,Lideta,Tor Hailoch,17:00,18:00,1.0,no,low,clear,streamlit_form,0.51,0
-COMM-00150,2026-04-17,Kolfe Keranio,Tor Hailoch,10:00,12:00,2.01,no,medium,clear,streamlit_form,0.63,1
-COMM-00151,2026-04-18,Kirkos,Stadium,01:00,02:03,1.06,unknown,low,cloudy,streamlit_form,0.68,0
-COMM-00152,2026-04-19,Nifas Silk-Lafto,Gotera,20:00,21:00,1.0,yes,low,windy,streamlit_form,0.82,0
-COMM-00153,2026-04-20,Kirkos,Kazanchis,18:00,21:25,3.43,no,high,storm,streamlit_form,0.67,1
-COMM-00154,2026-04-21,Bole,Rwanda,14:00,15:00,1.0,unknown,low,clear,streamlit_form,0.61,0
-COMM-00155,2026-04-22,Addis Ketema,Sebategna,15:00,16:00,1.0,no,low,cloudy,streamlit_form,0.58,0
-COMM-00156,2026-04-23,Gulele,Piazza Side,21:00,00:11,3.19,no,high,windy,streamlit_form,0.6,1
-COMM-00157,2026-04-24,Gulele,Shiro Meda,15:00,16:00,1.0,no,low,cloudy,streamlit_form,0.52,0
-COMM-00158,2026-04-25,Yeka,Lamberet,07:00,09:18,2.3,no,high,windy,streamlit_form,0.6,1
-COMM-00159,2026-04-26,Lideta,Lideta Condominiums,03:00,04:00,1.0,unknown,low,rain,streamlit_form,0.55,0
-COMM-00160,2026-04-27,Addis Ketema,Sebategna,01:00,03:10,2.18,yes,medium,clear,streamlit_form,0.8,1
-COMM-00161,2026-04-28,Nifas Silk-Lafto,Saris,21:00,23:01,2.02,no,high,clear,streamlit_form,0.58,1
-COMM-00162,2026-04-29,Lemi Kura,Summit,19:00,20:42,1.71,no,medium,cloudy,streamlit_form,0.64,0
-COMM-00163,2026-04-12,Lemi Kura,Figa,14:00,15:00,1.0,no,low,cloudy,streamlit_form,0.58,0
-COMM-00164,2026-04-13,Lemi Kura,Summit,09:00,10:00,1.0,unknown,low,clear,streamlit_form,0.57,0
-COMM-00165,2026-04-14,Arada,Arat Kilo,20:00,21:00,1.0,no,low,cloudy,streamlit_form,0.52,0
-COMM-00166,2026-04-15,Yeka,Kotebe,15:00,15:31,0.53,no,low,clear,streamlit_form,0.66,0
-COMM-00167,2026-04-16,Bole,Rwanda,09:00,10:00,1.0,yes,low,clear,streamlit_form,0.71,0
-COMM-00168,2026-04-17,Bole,Airport Area,23:00,01:46,2.78,unknown,medium,rain,streamlit_form,0.76,1
-COMM-00169,2026-04-18,Akaki Kality,Gelane,07:00,09:26,2.44,yes,high,clear,streamlit_form,0.84,1
-COMM-00170,2026-04-19,Lemi Kura,Summit,21:00,22:00,1.0,unknown,low,cloudy,streamlit_form,0.57,0
-COMM-00171,2026-04-20,Addis Ketema,Teklehaimanot,01:00,03:03,2.06,no,medium,clear,streamlit_form,0.68,1
-COMM-00172,2026-04-21,Kirkos,Stadium,09:00,10:00,1.0,yes,low,clear,streamlit_form,0.67,0
-COMM-00173,2026-04-22,Gulele,Entoto Road,11:00,12:54,1.91,no,medium,rain,streamlit_form,0.58,0
-COMM-00174,2026-04-23,Kirkos,Kazanchis,09:00,10:00,1.0,yes,low,cloudy,streamlit_form,0.66,0
-COMM-00175,2026-04-24,Lemi Kura,Goro,21:00,23:09,2.16,unknown,high,windy,streamlit_form,0.65,1
-COMM-00176,2026-04-25,Arada,Piassa,02:00,03:00,1.0,yes,low,clear,streamlit_form,0.73,0
-COMM-00177,2026-04-26,Addis Ketema,Addisu Gebeya,21:00,23:39,2.65,no,high,clear,streamlit_form,0.6,1
-COMM-00178,2026-04-27,Lemi Kura,Summit,03:00,04:00,1.0,no,low,cloudy,streamlit_form,0.6,0
-COMM-00179,2026-04-28,Kolfe Keranio,Tor Hailoch,19:00,20:06,1.1,unknown,low,clear,streamlit_form,0.6,0
-COMM-00180,2026-04-29,Addis Ketema,Teklehaimanot,22:00,23:00,1.0,yes,low,clear,streamlit_form,0.74,0
-COMM-00181,2026-04-12,Yeka,Kotebe,03:00,06:10,3.18,yes,high,storm,streamlit_form,0.92,1
-COMM-00182,2026-04-13,Gulele,Piazza Side,23:00,01:16,2.27,no,medium,cloudy,streamlit_form,0.68,1
-COMM-00183,2026-04-14,Lideta,Balcha Area,03:00,05:21,2.35,no,medium,windy,streamlit_form,0.55,1
-COMM-00184,2026-04-15,Lideta,Lideta Condominiums,14:00,15:00,1.0,yes,low,rain,streamlit_form,0.81,0
-COMM-00185,2026-04-16,Kirkos,Kazanchis,20:00,21:00,1.0,yes,low,clear,streamlit_form,0.67,0
-COMM-00186,2026-04-17,Yeka,Ayat Zone 2,14:00,15:00,1.0,no,low,clear,streamlit_form,0.53,0
-COMM-00187,2026-04-18,Kolfe Keranio,Asko,10:00,12:44,2.74,yes,medium,rain,streamlit_form,0.84,1
-COMM-00188,2026-04-19,Akaki Kality,Tulu Dimtu,06:00,09:12,3.21,no,high,rain,streamlit_form,0.8,1
-COMM-00189,2026-04-20,Bole,Gerji,19:00,21:52,2.87,yes,high,rain,streamlit_form,0.87,1
-COMM-00190,2026-04-21,Addis Ketema,Autobus Tera,17:00,18:00,1.0,unknown,low,clear,streamlit_form,0.51,0
-COMM-00191,2026-04-22,Akaki Kality,Gelane,07:00,09:37,2.62,no,high,clear,streamlit_form,0.71,1
-COMM-00192,2026-04-23,Arada,Giorgis,23:00,00:00,1.0,yes,low,clear,streamlit_form,0.72,0
-COMM-00193,2026-04-24,Akaki Kality,Kality,16:00,20:24,4.41,no,high,cloudy,streamlit_form,0.65,1
-COMM-00194,2026-04-25,Gulele,Entoto Road,21:00,22:00,1.0,unknown,low,cloudy,streamlit_form,0.56,0
-COMM-00195,2026-04-26,Arada,Sidist Kilo,15:00,16:00,1.0,no,low,rain,streamlit_form,0.57,0
-COMM-00196,2026-04-27,Kirkos,Mexico,02:00,02:18,0.3,yes,low,clear,streamlit_form,0.85,0
-COMM-00197,2026-04-28,Kirkos,Wollo Sefer,17:00,20:28,3.47,no,high,windy,streamlit_form,0.74,1
-COMM-00198,2026-04-29,Yeka,Ayat Zone 2,13:00,14:10,1.17,no,low,clear,streamlit_form,0.62,0
+date,time_window,sub_city,sefer_or_landmark,weather_condition,outage_occurred,duration_hours,impact_level
+2026-04-12,02:00-03:00,Arada,Sidist Kilo,cloudy,1,1.0,low
+2026-04-12,02:00-03:00,Lemi Kura,Goro,rain,1,3.55,high
+2026-04-12,03:00-04:00,Bole,Rwanda,clear,1,2.02,medium
+2026-04-12,03:00-04:00,Yeka,Kotebe,storm,1,3.18,high
+2026-04-12,08:00-09:00,Arada,Sidist Kilo,windy,1,3.86,high
+2026-04-12,08:00-09:00,Lideta,Lideta Condominiums,storm,1,2.72,high
+2026-04-12,12:00-13:00,Gulele,Shiro Meda,clear,1,0.41,low
+2026-04-12,12:00-13:00,Nifas Silk-Lafto,Gotera,storm,1,2.42,medium
+2026-04-12,14:00-15:00,Lemi Kura,Figa,cloudy,1,1.0,low
+2026-04-12,21:00-22:00,Kolfe Keranio,Winget,rain,1,3.24,high
+2026-04-12,22:00-23:00,Addis Ketema,Addisu Gebeya,clear,1,1.0,low
+2026-04-13,00:00-01:00,Lemi Kura,Ayat,rain,1,3.41,high
+2026-04-13,04:00-05:00,Arada,4 Kilo,storm,1,3.08,high
+2026-04-13,06:00-07:00,Arada,Piassa,cloudy,1,0.25,low
+2026-04-13,09:00-10:00,Lemi Kura,Summit,clear,1,1.0,low
+2026-04-13,12:00-13:00,Akaki Kality,Kality,clear,1,1.0,low
+2026-04-13,13:00-14:00,Lideta,Lideta Condominiums,rain,1,2.81,medium
+2026-04-13,17:00-18:00,Yeka,Megenagna,rain,1,2.72,medium
+2026-04-13,20:00-21:00,Addis Ketema,Autobus Tera,rain,1,2.64,high
+2026-04-13,20:00-21:00,Kirkos,Wollo Sefer,cloudy,1,1.0,low
+2026-04-13,23:00-00:00,Gulele,Piazza Side,cloudy,1,2.27,medium
+2026-04-13,23:00-00:00,Gulele,Shiro Meda,cloudy,1,0.39,low
+2026-04-14,00:00-01:00,Yeka,Shola,clear,1,1.0,low
+2026-04-14,01:00-02:00,Addis Ketema,Teklehaimanot,clear,1,2.64,medium
+2026-04-14,02:00-03:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
+2026-04-14,03:00-04:00,Lideta,Balcha Area,windy,1,2.35,medium
+2026-04-14,04:00-05:00,Yeka,Megenagna,clear,1,1.0,low
+2026-04-14,07:00-08:00,Nifas Silk-Lafto,Gotera,cloudy,1,2.41,high
+2026-04-14,10:00-11:00,Yeka,Shola,cloudy,1,1.66,medium
+2026-04-14,15:00-16:00,Nifas Silk-Lafto,Kera,clear,1,1.0,low
+2026-04-14,16:00-17:00,Akaki Kality,Kality,cloudy,1,0.65,low
+2026-04-14,17:00-18:00,Bole,Bole Medhanialem,clear,1,1.0,low
+2026-04-14,20:00-21:00,Arada,Arat Kilo,cloudy,1,1.0,low
+2026-04-15,01:00-02:00,Kirkos,Mexico,cloudy,1,2.09,medium
+2026-04-15,01:00-02:00,Nifas Silk-Lafto,Gotera,clear,1,0.25,low
+2026-04-15,02:00-03:00,Kolfe Keranio,Tor Hailoch,clear,1,1.0,low
+2026-04-15,07:00-08:00,Lideta,Tor Hailoch,rain,1,1.0,low
+2026-04-15,09:00-10:00,Addis Ketema,Addisu Gebeya,cloudy,1,1.0,low
+2026-04-15,09:00-10:00,Lideta,Mexico,cloudy,1,0.58,low
+2026-04-15,11:00-12:00,Lideta,Tor Hailoch,cloudy,1,1.0,low
+2026-04-15,12:00-13:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
+2026-04-15,14:00-15:00,Lideta,Lideta Condominiums,rain,1,1.0,low
+2026-04-15,15:00-16:00,Yeka,Kotebe,clear,1,0.53,low
+2026-04-15,23:00-00:00,Addis Ketema,Addisu Gebeya,rain,1,2.91,medium
+2026-04-16,01:00-02:00,Kirkos,Meskel Square,rain,1,2.7,medium
+2026-04-16,01:00-02:00,Kirkos,Meskel Square,rain,1,2.79,medium
+2026-04-16,05:00-06:00,Arada,Arat Kilo,clear,1,1.0,low
+2026-04-16,07:00-08:00,Lideta,Mexico,cloudy,1,1.0,low
+2026-04-16,09:00-10:00,Bole,Rwanda,clear,1,1.0,low
+2026-04-16,09:00-10:00,Lemi Kura,Summit,clear,1,1.0,low
+2026-04-16,14:00-15:00,Addis Ketema,Sebategna,clear,1,1.0,low
+2026-04-16,14:00-15:00,Addis Ketema,Teklehaimanot,rain,1,2.29,medium
+2026-04-16,16:00-17:00,Gulele,Piazza Side,cloudy,1,1.0,low
+2026-04-16,17:00-18:00,Lideta,Tor Hailoch,clear,1,1.0,low
+2026-04-16,20:00-21:00,Kirkos,Kazanchis,clear,1,1.0,low
+2026-04-17,00:00-01:00,Kolfe Keranio,Asko,rain,1,2.39,medium
+2026-04-17,02:00-03:00,Arada,Piassa,clear,1,1.0,low
+2026-04-17,06:00-07:00,Arada,Sidist Kilo,clear,1,1.0,low
+2026-04-17,10:00-11:00,Akaki Kality,Gelane,clear,1,2.74,medium
+2026-04-17,10:00-11:00,Kolfe Keranio,Tor Hailoch,clear,1,2.01,medium
+2026-04-17,13:00-14:00,Akaki Kality,Tulu Dimtu,storm,1,4.23,high
+2026-04-17,14:00-15:00,Yeka,Ayat Zone 2,clear,1,1.0,low
+2026-04-17,16:00-17:00,Bole,Airport Area,clear,1,1.0,low
+2026-04-17,22:00-23:00,Lideta,Lideta Condominiums,clear,1,2.27,medium
+2026-04-17,23:00-00:00,Bole,Airport Area,rain,1,2.78,medium
+2026-04-17,23:00-00:00,Gulele,Addisu Gebeya,clear,1,0.98,low
+2026-04-18,01:00-02:00,Kirkos,Stadium,cloudy,1,1.06,low
+2026-04-18,03:00-04:00,Arada,4 Kilo,clear,1,1.0,low
+2026-04-18,05:00-06:00,Arada,Piassa,clear,1,1.0,low
+2026-04-18,07:00-08:00,Akaki Kality,Gelane,clear,1,2.44,high
+2026-04-18,09:00-10:00,Kolfe Keranio,Ayer Tena,clear,1,1.0,low
+2026-04-18,10:00-11:00,Kolfe Keranio,Asko,rain,1,2.74,medium
+2026-04-18,16:00-17:00,Akaki Kality,Gelane,windy,1,2.67,medium
+2026-04-18,17:00-18:00,Bole,Rwanda,clear,1,1.0,low
+2026-04-18,18:00-19:00,Akaki Kality,Kality,windy,1,3.2,high
+2026-04-18,21:00-22:00,Yeka,Hayahulet,windy,1,3.99,high
+2026-04-18,23:00-00:00,Lideta,Mexico,windy,1,1.0,low
+2026-04-19,05:00-06:00,Addis Ketema,Merkato,rain,1,2.15,medium
+2026-04-19,06:00-07:00,Akaki Kality,Tulu Dimtu,rain,1,3.21,high
+2026-04-19,11:00-12:00,Nifas Silk-Lafto,Mekanisa,cloudy,1,2.7,medium
+2026-04-19,15:00-16:00,Yeka,Hayahulet,rain,1,1.36,low
+2026-04-19,16:00-17:00,Nifas Silk-Lafto,Jemo 1,windy,1,1.0,low
+2026-04-19,17:00-18:00,Kolfe Keranio,Ayer Tena,cloudy,1,2.01,medium
+2026-04-19,18:00-19:00,Bole,CMC,cloudy,1,1.0,low
+2026-04-19,20:00-21:00,Akaki Kality,Gelane,cloudy,1,2.58,high
+2026-04-19,20:00-21:00,Nifas Silk-Lafto,Gotera,windy,1,1.0,low
+2026-04-19,21:00-22:00,Kolfe Keranio,Winget,clear,1,1.0,low
+2026-04-19,21:00-22:00,Lemi Kura,Summit,cloudy,1,1.0,low
+2026-04-20,01:00-02:00,Addis Ketema,Teklehaimanot,clear,1,2.06,medium
+2026-04-20,01:00-02:00,Lideta,Lideta Condominiums,clear,1,2.35,medium
+2026-04-20,02:00-03:00,Lemi Kura,Summit,clear,1,1.0,low
+2026-04-20,05:00-06:00,Addis Ketema,Addisu Gebeya,storm,1,2.51,medium
+2026-04-20,05:00-06:00,Addis Ketema,Merkato,cloudy,1,1.0,low
+2026-04-20,08:00-09:00,Nifas Silk-Lafto,Mekanisa,cloudy,1,4.2,high
+2026-04-20,17:00-18:00,Addis Ketema,Autobus Tera,cloudy,1,1.0,low
+2026-04-20,18:00-19:00,Kirkos,Kazanchis,storm,1,3.43,high
+2026-04-20,19:00-20:00,Bole,Gerji,rain,1,2.87,high
+2026-04-20,19:00-20:00,Kirkos,Wollo Sefer,cloudy,1,1.0,low
+2026-04-20,21:00-22:00,Kolfe Keranio,Winget,windy,1,4.16,high
+2026-04-21,03:00-04:00,Arada,Arat Kilo,cloudy,1,1.0,low
+2026-04-21,07:00-08:00,Kolfe Keranio,Ayer Tena,rain,1,2.02,high
+2026-04-21,09:00-10:00,Kirkos,Stadium,clear,1,1.0,low
+2026-04-21,12:00-13:00,Arada,4 Kilo,clear,1,1.0,low
+2026-04-21,13:00-14:00,Gulele,Piazza Side,storm,1,2.78,medium
+2026-04-21,14:00-15:00,Bole,Rwanda,clear,1,1.0,low
+2026-04-21,15:00-16:00,Kirkos,Wollo Sefer,clear,1,1.0,low
+2026-04-21,17:00-18:00,Addis Ketema,Autobus Tera,clear,1,1.0,low
+2026-04-21,18:00-19:00,Addis Ketema,Teklehaimanot,cloudy,1,2.68,high
+2026-04-21,19:00-20:00,Bole,Airport Area,clear,1,2.76,high
+2026-04-21,23:00-00:00,Kolfe Keranio,Tor Hailoch,clear,1,1.0,low
+2026-04-22,01:00-02:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
+2026-04-22,02:00-03:00,Addis Ketema,Sebategna,cloudy,1,1.0,low
+2026-04-22,06:00-07:00,Lemi Kura,Figa,rain,1,2.3,medium
+2026-04-22,07:00-08:00,Akaki Kality,Gelane,clear,1,2.62,high
+2026-04-22,07:00-08:00,Lemi Kura,Figa,rain,1,2.87,high
+2026-04-22,11:00-12:00,Gulele,Entoto Road,rain,1,1.91,medium
+2026-04-22,13:00-14:00,Lideta,Tor Hailoch,rain,1,1.32,low
+2026-04-22,15:00-16:00,Addis Ketema,Sebategna,cloudy,1,1.0,low
+2026-04-22,16:00-17:00,Kirkos,Bambis,clear,1,2.53,medium
+2026-04-22,16:00-17:00,Lideta,Mexico,clear,1,1.0,low
+2026-04-22,22:00-23:00,Addis Ketema,Addisu Gebeya,rain,1,2.89,medium
+2026-04-23,04:00-05:00,Lemi Kura,Figa,cloudy,1,1.0,low
+2026-04-23,05:00-06:00,Gulele,Addisu Gebeya,clear,1,1.6,medium
+2026-04-23,07:00-08:00,Addis Ketema,Teklehaimanot,clear,1,4.32,high
+2026-04-23,07:00-08:00,Akaki Kality,Tulu Dimtu,clear,1,2.74,high
+2026-04-23,09:00-10:00,Kirkos,Kazanchis,cloudy,1,1.0,low
+2026-04-23,10:00-11:00,Bole,Bole Medhanialem,storm,1,2.88,medium
+2026-04-23,11:00-12:00,Gulele,Piazza Side,rain,1,1.0,low
+2026-04-23,14:00-15:00,Yeka,Shola,clear,1,1.0,low
+2026-04-23,20:00-21:00,Lemi Kura,Ayat,clear,1,1.0,low
+2026-04-23,21:00-22:00,Gulele,Piazza Side,windy,1,3.19,high
+2026-04-23,23:00-00:00,Arada,Giorgis,clear,1,1.0,low
+2026-04-24,01:00-02:00,Yeka,Hayahulet,cloudy,1,1.0,low
+2026-04-24,07:00-08:00,Yeka,Megenagna,rain,1,2.71,high
+2026-04-24,09:00-10:00,Yeka,Kotebe,clear,1,0.96,low
+2026-04-24,10:00-11:00,Kirkos,Mexico,clear,1,1.0,low
+2026-04-24,13:00-14:00,Lideta,Mexico,cloudy,1,1.0,low
+2026-04-24,14:00-15:00,Akaki Kality,Kality,clear,1,3.84,high
+2026-04-24,15:00-16:00,Gulele,Shiro Meda,cloudy,1,1.0,low
+2026-04-24,16:00-17:00,Akaki Kality,Kality,cloudy,1,4.41,high
+2026-04-24,16:00-17:00,Bole,Rwanda,rain,1,2.19,medium
+2026-04-24,21:00-22:00,Lemi Kura,Goro,windy,1,2.16,high
+2026-04-24,22:00-23:00,Gulele,Addisu Gebeya,rain,1,1.0,low
+2026-04-25,01:00-02:00,Kirkos,Wollo Sefer,clear,1,1.0,low
+2026-04-25,02:00-03:00,Arada,Piassa,clear,1,1.0,low
+2026-04-25,07:00-08:00,Yeka,Lamberet,windy,1,2.3,high
+2026-04-25,08:00-09:00,Lemi Kura,Goro,clear,1,2.07,high
+2026-04-25,11:00-12:00,Akaki Kality,Saris Abo Side,cloudy,1,3.02,high
+2026-04-25,11:00-12:00,Yeka,Kotebe,clear,1,1.0,low
+2026-04-25,16:00-17:00,Yeka,Lamberet,storm,1,2.07,medium
+2026-04-25,19:00-20:00,Kolfe Keranio,Jemo Michael,clear,1,1.0,low
+2026-04-25,21:00-22:00,Gulele,Entoto Road,cloudy,1,1.0,low
+2026-04-25,22:00-23:00,Kolfe Keranio,Ayer Tena,clear,1,1.0,low
+2026-04-25,22:00-23:00,Nifas Silk-Lafto,Gotera,clear,1,4.3,high
+2026-04-26,00:00-01:00,Gulele,Addisu Gebeya,clear,1,1.0,low
+2026-04-26,03:00-04:00,Lideta,Lideta Condominiums,rain,1,1.0,low
+2026-04-26,04:00-05:00,Addis Ketema,Teklehaimanot,storm,1,2.77,medium
+2026-04-26,06:00-07:00,Arada,Sidist Kilo,storm,1,2.83,medium
+2026-04-26,09:00-10:00,Akaki Kality,Kality,rain,1,3.1,high
+2026-04-26,15:00-16:00,Arada,Sidist Kilo,rain,1,1.0,low
+2026-04-26,17:00-18:00,Lideta,Balcha Area,cloudy,1,0.32,low
+2026-04-26,18:00-19:00,Akaki Kality,Saris Abo Side,clear,1,2.43,high
+2026-04-26,18:00-19:00,Arada,Arat Kilo,cloudy,1,1.0,low
+2026-04-26,21:00-22:00,Addis Ketema,Addisu Gebeya,clear,1,2.65,high
+2026-04-26,22:00-23:00,Kirkos,Meskel Square,rain,1,2.45,medium
+2026-04-27,01:00-02:00,Addis Ketema,Sebategna,clear,1,2.18,medium
+2026-04-27,02:00-03:00,Kirkos,Mexico,clear,1,0.3,low
+2026-04-27,03:00-04:00,Lemi Kura,Summit,cloudy,1,1.0,low
+2026-04-27,04:00-05:00,Addis Ketema,Autobus Tera,clear,1,1.0,low
+2026-04-27,04:00-05:00,Addis Ketema,Merkato,storm,1,3.23,high
+2026-04-27,06:00-07:00,Yeka,Megenagna,rain,1,4.02,high
+2026-04-27,07:00-08:00,Yeka,Shola,storm,1,2.29,high
+2026-04-27,18:00-19:00,Arada,Sidist Kilo,clear,1,1.0,low
+2026-04-27,19:00-20:00,Kirkos,Stadium,rain,1,3.08,high
+2026-04-27,19:00-20:00,Kolfe Keranio,Tor Hailoch,clear,1,2.13,high
+2026-04-27,23:00-00:00,Yeka,Kotebe,cloudy,1,1.0,low
+2026-04-28,05:00-06:00,Gulele,Shiro Meda,clear,1,2.15,medium
+2026-04-28,12:00-13:00,Arada,Giorgis,rain,1,1.0,low
+2026-04-28,13:00-14:00,Akaki Kality,Saris Abo Side,clear,1,1.0,low
+2026-04-28,13:00-14:00,Yeka,Kotebe,windy,1,1.0,low
+2026-04-28,16:00-17:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low
+2026-04-28,17:00-18:00,Kirkos,Wollo Sefer,windy,1,3.47,high
+2026-04-28,18:00-19:00,Akaki Kality,Saris Abo Side,clear,1,2.49,high
+2026-04-28,19:00-20:00,Kolfe Keranio,Tor Hailoch,clear,1,3.68,high
+2026-04-28,19:00-20:00,Kolfe Keranio,Tor Hailoch,clear,1,1.1,low
+2026-04-28,21:00-22:00,Nifas Silk-Lafto,Saris,clear,1,2.02,high
+2026-04-28,23:00-00:00,Bole,Rwanda,rain,1,3.44,high
+2026-04-29,02:00-03:00,Bole,Bole Medhanialem,clear,1,1.0,low
+2026-04-29,05:00-06:00,Lideta,Lideta Condominiums,clear,1,1.24,low
+2026-04-29,08:00-09:00,Gulele,Piazza Side,clear,1,1.0,low
+2026-04-29,09:00-10:00,Bole,CMC,clear,1,1.78,medium
+2026-04-29,10:00-11:00,Yeka,Kotebe,clear,1,1.0,low
+2026-04-29,13:00-14:00,Lemi Kura,Goro,rain,1,1.61,medium
+2026-04-29,13:00-14:00,Yeka,Ayat Zone 2,clear,1,1.17,low
+2026-04-29,15:00-16:00,Kolfe Keranio,Winget,cloudy,1,1.02,low
+2026-04-29,19:00-20:00,Lemi Kura,Summit,cloudy,1,1.71,medium
+2026-04-29,20:00-21:00,Nifas Silk-Lafto,Gotera,windy,1,2.87,high
+2026-04-29,22:00-23:00,Addis Ketema,Teklehaimanot,clear,1,1.0,low

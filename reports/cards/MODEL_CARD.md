@@ -1,27 +1,21 @@
 # Model Card: GridSense
 
 ## Status
-Research model trained and evaluated on real collected community reports; not production.
+Research-stage two-stage forecasting prototype for Addis Ababa outage risk.
 
-## Training data
-- File: `data/processed/community_outage_reports_clean.csv` (primary)
-- Source intake: `data/collected/community_outage_reports.csv`
-- Records used: 198
-- Target: `high_risk_outage` (0/1), from collected labels/rules
+## Stage 1 model
+- Target: `outage_occurred`
+- Dataset: `data/processed/gridsense_forecasting_dataset.csv`
+- Features: hour block, day of week, sub-city, weather, rainy flag, planning-status mode
+- Models: dummy baseline, logistic regression, random forest
 
-## Current task
-- Classification: `high_risk_outage`.
-- Features: start hour, sub-city, planned notice, weather, source type, confidence score.
-
-## Evaluation summary
-- Baseline (`most_frequent`): accuracy 0.56, F1-high-risk 0.00.
-- Logistic Regression: accuracy 0.78, F1-high-risk 0.7442, ROC-AUC 0.8961.
-- Random Forest (best by F1): accuracy 0.80, F1-high-risk 0.7619, ROC-AUC 0.9221.
-- Full metrics: `reports/tables/model_metrics.json`.
+## Stage 2 model
+- Scope: rows with `outage_occurred = 1`
+- Targets: `high_severity_outage` and `avg_duration_hours`
+- Features: hour block, sub-city, weather, planning-status mode, confidence score mean
 
 ## Intended use
-Planning, exploration, and decision-support research.
+Local planning and awareness support for residents, students, and small businesses.
 
 ## Not intended for
-Official outage announcements or emergency decisions.
-
+Official utility dispatching, emergency response, or regulatory reliability reporting.

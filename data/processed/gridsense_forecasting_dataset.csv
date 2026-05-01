@@ -1,0 +1,1585 @@
+date,sub_city,hour_block_start,time_window,day_of_week,reports_count,outage_occurred,avg_duration_hours,max_duration_hours,high_severity_outage,weather_condition,is_rainy,planned_notice_mode,representative_sefer,confidence_score_mean,respondents_count_proxy
+2026-04-12,addis ketema,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,addis ketema,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,addis ketema,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,addis ketema,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,addis ketema,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,addis ketema,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,addis ketema,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,addis ketema,21,21:00-00:00,Sunday,1,0,1.0,1.0,0,clear,0,unknown,addisu gebeya,0.63,1
+2026-04-12,akaki kality,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,akaki kality,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,akaki kality,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,akaki kality,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,akaki kality,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,akaki kality,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,akaki kality,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,akaki kality,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,arada,0,00:00-03:00,Sunday,1,0,1.0,1.0,0,cloudy,0,no,sidist kilo,0.59,1
+2026-04-12,arada,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,arada,6,06:00-09:00,Sunday,1,1,3.86,3.86,1,windy,0,no,sidist kilo,0.65,1
+2026-04-12,arada,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,arada,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,arada,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,arada,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,arada,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,bole,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,bole,3,03:00-06:00,Sunday,1,1,2.02,2.02,0,clear,0,no,rwanda,0.62,1
+2026-04-12,bole,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,bole,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,bole,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,bole,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,bole,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,bole,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,gulele,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,gulele,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,gulele,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,gulele,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,gulele,12,12:00-15:00,Sunday,1,0,0.41,0.41,0,clear,0,yes,shiro meda,0.77,1
+2026-04-12,gulele,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,gulele,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,gulele,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kirkos,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,kolfe keranio,21,21:00-00:00,Sunday,1,1,3.24,3.24,1,rain,1,no,winget,0.71,1
+2026-04-12,lemi kura,0,00:00-03:00,Sunday,1,1,3.55,3.55,1,rain,1,yes,goro,0.84,1
+2026-04-12,lemi kura,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lemi kura,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lemi kura,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lemi kura,12,12:00-15:00,Sunday,1,0,1.0,1.0,0,cloudy,0,no,figa,0.58,1
+2026-04-12,lemi kura,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lemi kura,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lemi kura,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lideta,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lideta,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lideta,6,06:00-09:00,Sunday,1,1,2.72,2.72,1,storm,1,yes,lideta condominiums,0.84,1
+2026-04-12,lideta,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lideta,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lideta,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lideta,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,lideta,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,nifas silk-lafto,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,nifas silk-lafto,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,nifas silk-lafto,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,nifas silk-lafto,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,nifas silk-lafto,12,12:00-15:00,Sunday,1,1,2.42,2.42,0,storm,1,unknown,gotera,0.74,1
+2026-04-12,nifas silk-lafto,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,nifas silk-lafto,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,nifas silk-lafto,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,yeka,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,yeka,3,03:00-06:00,Sunday,1,1,3.18,3.18,1,storm,1,yes,kotebe,0.92,1
+2026-04-12,yeka,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,yeka,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,yeka,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,yeka,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,yeka,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-12,yeka,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,addis ketema,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,addis ketema,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,addis ketema,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,addis ketema,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,addis ketema,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,addis ketema,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,addis ketema,18,18:00-21:00,Monday,1,1,2.64,2.64,1,rain,1,no,autobus tera,0.65,1
+2026-04-13,addis ketema,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,akaki kality,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,akaki kality,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,akaki kality,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,akaki kality,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,akaki kality,12,12:00-15:00,Monday,1,0,1.0,1.0,0,clear,0,no,kality,0.53,1
+2026-04-13,akaki kality,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,akaki kality,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,akaki kality,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,arada,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,arada,3,03:00-06:00,Monday,1,1,3.08,3.08,1,storm,1,no,4 kilo,0.61,1
+2026-04-13,arada,6,06:00-09:00,Monday,1,0,0.25,0.25,0,cloudy,0,no,piassa,0.67,1
+2026-04-13,arada,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,arada,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,arada,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,arada,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,arada,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,bole,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,gulele,21,21:00-00:00,Monday,2,1,1.33,2.27,0,cloudy,0,no,piazza side,0.72,2
+2026-04-13,kirkos,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kirkos,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kirkos,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kirkos,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kirkos,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kirkos,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kirkos,18,18:00-21:00,Monday,1,0,1.0,1.0,0,cloudy,0,no,wollo sefer,0.54,1
+2026-04-13,kirkos,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,kolfe keranio,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lemi kura,0,00:00-03:00,Monday,1,1,3.41,3.41,1,rain,1,no,ayat,0.75,1
+2026-04-13,lemi kura,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lemi kura,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lemi kura,9,09:00-12:00,Monday,1,0,1.0,1.0,0,clear,0,unknown,summit,0.57,1
+2026-04-13,lemi kura,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lemi kura,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lemi kura,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lemi kura,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lideta,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lideta,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lideta,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lideta,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lideta,12,12:00-15:00,Monday,1,1,2.81,2.81,1,rain,1,no,lideta condominiums,0.67,1
+2026-04-13,lideta,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lideta,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,lideta,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,nifas silk-lafto,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,yeka,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,yeka,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,yeka,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,yeka,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,yeka,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,yeka,15,15:00-18:00,Monday,1,1,2.72,2.72,1,rain,1,no,megenagna,0.71,1
+2026-04-13,yeka,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-13,yeka,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,addis ketema,0,00:00-03:00,Tuesday,2,1,1.82,2.64,1,clear,0,no,teklehaimanot,0.595,2
+2026-04-14,addis ketema,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,addis ketema,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,addis ketema,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,addis ketema,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,addis ketema,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,addis ketema,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,addis ketema,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,akaki kality,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,akaki kality,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,akaki kality,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,akaki kality,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,akaki kality,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,akaki kality,15,15:00-18:00,Tuesday,1,0,0.65,0.65,0,cloudy,0,no,kality,0.56,1
+2026-04-14,akaki kality,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,akaki kality,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,arada,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,arada,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,arada,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,arada,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,arada,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,arada,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,arada,18,18:00-21:00,Tuesday,1,0,1.0,1.0,0,cloudy,0,no,arat kilo,0.52,1
+2026-04-14,arada,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,bole,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,bole,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,bole,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,bole,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,bole,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,bole,15,15:00-18:00,Tuesday,1,0,1.0,1.0,0,clear,0,unknown,bole medhanialem,0.55,1
+2026-04-14,bole,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,bole,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,gulele,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kirkos,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,kolfe keranio,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lemi kura,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lideta,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lideta,3,03:00-06:00,Tuesday,1,1,2.35,2.35,0,windy,0,no,balcha area,0.55,1
+2026-04-14,lideta,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lideta,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lideta,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lideta,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lideta,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,lideta,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,nifas silk-lafto,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,nifas silk-lafto,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,nifas silk-lafto,6,06:00-09:00,Tuesday,1,1,2.41,2.41,1,cloudy,0,yes,gotera,0.81,1
+2026-04-14,nifas silk-lafto,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,nifas silk-lafto,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,nifas silk-lafto,15,15:00-18:00,Tuesday,1,0,1.0,1.0,0,clear,0,no,kera,0.52,1
+2026-04-14,nifas silk-lafto,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,nifas silk-lafto,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,yeka,0,00:00-03:00,Tuesday,1,0,1.0,1.0,0,clear,0,no,shola,0.6,1
+2026-04-14,yeka,3,03:00-06:00,Tuesday,1,0,1.0,1.0,0,clear,0,no,megenagna,0.55,1
+2026-04-14,yeka,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,yeka,9,09:00-12:00,Tuesday,1,1,1.66,1.66,0,cloudy,0,no,shola,0.63,1
+2026-04-14,yeka,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,yeka,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,yeka,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-14,yeka,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,addis ketema,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,addis ketema,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,addis ketema,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,addis ketema,9,09:00-12:00,Wednesday,1,0,1.0,1.0,0,cloudy,0,no,addisu gebeya,0.53,1
+2026-04-15,addis ketema,12,12:00-15:00,Wednesday,1,0,1.0,1.0,0,clear,0,yes,teklehaimanot,0.75,1
+2026-04-15,addis ketema,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,addis ketema,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,addis ketema,21,21:00-00:00,Wednesday,1,1,2.91,2.91,1,rain,1,no,addisu gebeya,0.63,1
+2026-04-15,akaki kality,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,akaki kality,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,akaki kality,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,akaki kality,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,akaki kality,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,akaki kality,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,akaki kality,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,akaki kality,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,arada,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,bole,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,gulele,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kirkos,0,00:00-03:00,Wednesday,1,1,2.09,2.09,0,cloudy,0,no,mexico,0.65,1
+2026-04-15,kirkos,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kirkos,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kirkos,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kirkos,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kirkos,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kirkos,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kirkos,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kolfe keranio,0,00:00-03:00,Wednesday,1,0,1.0,1.0,0,clear,0,unknown,tor hailoch,0.52,1
+2026-04-15,kolfe keranio,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kolfe keranio,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kolfe keranio,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kolfe keranio,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kolfe keranio,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kolfe keranio,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,kolfe keranio,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lemi kura,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lideta,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lideta,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lideta,6,06:00-09:00,Wednesday,1,0,1.0,1.0,0,rain,1,yes,tor hailoch,0.79,1
+2026-04-15,lideta,9,09:00-12:00,Wednesday,2,0,0.79,1.0,0,cloudy,0,no,mexico,0.6299999999999999,2
+2026-04-15,lideta,12,12:00-15:00,Wednesday,1,0,1.0,1.0,0,rain,1,yes,lideta condominiums,0.81,1
+2026-04-15,lideta,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lideta,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,lideta,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,nifas silk-lafto,0,00:00-03:00,Wednesday,1,0,0.25,0.25,0,clear,0,no,gotera,0.66,1
+2026-04-15,nifas silk-lafto,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,nifas silk-lafto,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,nifas silk-lafto,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,nifas silk-lafto,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,nifas silk-lafto,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,nifas silk-lafto,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,nifas silk-lafto,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,yeka,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,yeka,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,yeka,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,yeka,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,yeka,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,yeka,15,15:00-18:00,Wednesday,1,0,0.53,0.53,0,clear,0,no,kotebe,0.66,1
+2026-04-15,yeka,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-15,yeka,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,addis ketema,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,addis ketema,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,addis ketema,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,addis ketema,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,addis ketema,12,12:00-15:00,Thursday,2,1,1.645,2.29,0,clear,1,no,sebategna,0.74,2
+2026-04-16,addis ketema,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,addis ketema,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,addis ketema,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,akaki kality,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,arada,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,arada,3,03:00-06:00,Thursday,1,0,1.0,1.0,0,clear,0,yes,arat kilo,0.7,1
+2026-04-16,arada,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,arada,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,arada,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,arada,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,arada,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,arada,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,bole,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,bole,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,bole,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,bole,9,09:00-12:00,Thursday,1,0,1.0,1.0,0,clear,0,yes,rwanda,0.71,1
+2026-04-16,bole,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,bole,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,bole,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,bole,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,gulele,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,gulele,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,gulele,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,gulele,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,gulele,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,gulele,15,15:00-18:00,Thursday,1,0,1.0,1.0,0,cloudy,0,no,piazza side,0.6,1
+2026-04-16,gulele,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,gulele,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kirkos,0,00:00-03:00,Thursday,2,1,2.745,2.79,1,rain,1,no,meskel square,0.65,2
+2026-04-16,kirkos,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kirkos,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kirkos,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kirkos,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kirkos,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kirkos,18,18:00-21:00,Thursday,1,0,1.0,1.0,0,clear,0,yes,kazanchis,0.67,1
+2026-04-16,kirkos,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,kolfe keranio,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lemi kura,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lemi kura,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lemi kura,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lemi kura,9,09:00-12:00,Thursday,1,0,1.0,1.0,0,clear,0,no,summit,0.49,1
+2026-04-16,lemi kura,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lemi kura,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lemi kura,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lemi kura,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lideta,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lideta,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lideta,6,06:00-09:00,Thursday,1,0,1.0,1.0,0,cloudy,0,unknown,mexico,0.6,1
+2026-04-16,lideta,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lideta,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lideta,15,15:00-18:00,Thursday,1,0,1.0,1.0,0,clear,0,no,tor hailoch,0.51,1
+2026-04-16,lideta,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,lideta,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,nifas silk-lafto,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-16,yeka,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,addis ketema,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,akaki kality,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,akaki kality,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,akaki kality,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,akaki kality,9,09:00-12:00,Friday,1,1,2.74,2.74,1,clear,0,no,gelane,0.6,1
+2026-04-17,akaki kality,12,12:00-15:00,Friday,1,1,4.23,4.23,1,storm,1,no,tulu dimtu,0.64,1
+2026-04-17,akaki kality,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,akaki kality,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,akaki kality,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,arada,0,00:00-03:00,Friday,1,0,1.0,1.0,0,clear,0,no,piassa,0.69,1
+2026-04-17,arada,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,arada,6,06:00-09:00,Friday,1,0,1.0,1.0,0,clear,0,yes,sidist kilo,0.72,1
+2026-04-17,arada,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,arada,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,arada,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,arada,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,arada,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,bole,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,bole,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,bole,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,bole,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,bole,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,bole,15,15:00-18:00,Friday,1,0,1.0,1.0,0,clear,0,yes,airport area,0.74,1
+2026-04-17,bole,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,bole,21,21:00-00:00,Friday,1,1,2.78,2.78,1,rain,1,unknown,airport area,0.76,1
+2026-04-17,gulele,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,gulele,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,gulele,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,gulele,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,gulele,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,gulele,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,gulele,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,gulele,21,21:00-00:00,Friday,1,0,0.98,0.98,0,clear,0,no,addisu gebeya,0.55,1
+2026-04-17,kirkos,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kirkos,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kirkos,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kirkos,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kirkos,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kirkos,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kirkos,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kirkos,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kolfe keranio,0,00:00-03:00,Friday,1,1,2.39,2.39,0,rain,1,no,asko,0.7,1
+2026-04-17,kolfe keranio,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kolfe keranio,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kolfe keranio,9,09:00-12:00,Friday,1,1,2.01,2.01,0,clear,0,no,tor hailoch,0.63,1
+2026-04-17,kolfe keranio,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kolfe keranio,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kolfe keranio,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,kolfe keranio,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lemi kura,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,lideta,21,21:00-00:00,Friday,1,1,2.27,2.27,0,clear,0,yes,lideta condominiums,0.73,1
+2026-04-17,nifas silk-lafto,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,nifas silk-lafto,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,nifas silk-lafto,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,nifas silk-lafto,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,nifas silk-lafto,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,nifas silk-lafto,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,nifas silk-lafto,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,nifas silk-lafto,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,yeka,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,yeka,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,yeka,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,yeka,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,yeka,12,12:00-15:00,Friday,1,0,1.0,1.0,0,clear,0,no,ayat zone 2,0.53,1
+2026-04-17,yeka,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,yeka,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-17,yeka,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,addis ketema,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,akaki kality,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,akaki kality,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,akaki kality,6,06:00-09:00,Saturday,1,1,2.44,2.44,1,clear,0,yes,gelane,0.84,1
+2026-04-18,akaki kality,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,akaki kality,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,akaki kality,15,15:00-18:00,Saturday,1,1,2.67,2.67,1,windy,0,unknown,gelane,0.57,1
+2026-04-18,akaki kality,18,18:00-21:00,Saturday,1,1,3.2,3.2,1,windy,0,no,kality,0.71,1
+2026-04-18,akaki kality,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,arada,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,arada,3,03:00-06:00,Saturday,2,0,1.0,1.0,0,clear,0,unknown,4 kilo,0.535,2
+2026-04-18,arada,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,arada,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,arada,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,arada,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,arada,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,arada,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,bole,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,bole,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,bole,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,bole,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,bole,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,bole,15,15:00-18:00,Saturday,1,0,1.0,1.0,0,clear,0,yes,rwanda,0.77,1
+2026-04-18,bole,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,bole,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,gulele,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kirkos,0,00:00-03:00,Saturday,1,1,1.06,1.06,0,cloudy,0,unknown,stadium,0.68,1
+2026-04-18,kirkos,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kirkos,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kirkos,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kirkos,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kirkos,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kirkos,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kirkos,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kolfe keranio,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kolfe keranio,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kolfe keranio,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kolfe keranio,9,09:00-12:00,Saturday,2,1,1.87,2.74,1,clear,1,no,asko,0.7,2
+2026-04-18,kolfe keranio,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kolfe keranio,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kolfe keranio,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,kolfe keranio,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lemi kura,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,lideta,21,21:00-00:00,Saturday,1,0,1.0,1.0,0,windy,0,no,mexico,0.47,1
+2026-04-18,nifas silk-lafto,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,nifas silk-lafto,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,nifas silk-lafto,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,nifas silk-lafto,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,nifas silk-lafto,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,nifas silk-lafto,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,nifas silk-lafto,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,nifas silk-lafto,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-18,yeka,21,21:00-00:00,Saturday,1,1,3.99,3.99,1,windy,0,no,hayahulet,0.61,1
+2026-04-19,addis ketema,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,addis ketema,3,03:00-06:00,Sunday,1,1,2.15,2.15,0,rain,1,yes,merkato,0.83,1
+2026-04-19,addis ketema,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,addis ketema,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,addis ketema,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,addis ketema,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,addis ketema,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,addis ketema,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,akaki kality,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,akaki kality,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,akaki kality,6,06:00-09:00,Sunday,1,1,3.21,3.21,1,rain,1,no,tulu dimtu,0.8,1
+2026-04-19,akaki kality,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,akaki kality,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,akaki kality,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,akaki kality,18,18:00-21:00,Sunday,1,1,2.58,2.58,1,cloudy,0,no,gelane,0.61,1
+2026-04-19,akaki kality,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,arada,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,bole,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,bole,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,bole,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,bole,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,bole,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,bole,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,bole,18,18:00-21:00,Sunday,1,0,1.0,1.0,0,cloudy,0,no,cmc,0.5,1
+2026-04-19,bole,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,gulele,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kirkos,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kolfe keranio,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kolfe keranio,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kolfe keranio,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kolfe keranio,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kolfe keranio,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kolfe keranio,15,15:00-18:00,Sunday,1,1,2.01,2.01,0,cloudy,0,unknown,ayer tena,0.68,1
+2026-04-19,kolfe keranio,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,kolfe keranio,21,21:00-00:00,Sunday,1,0,1.0,1.0,0,clear,0,no,winget,0.57,1
+2026-04-19,lemi kura,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lemi kura,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lemi kura,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lemi kura,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lemi kura,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lemi kura,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lemi kura,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lemi kura,21,21:00-00:00,Sunday,1,0,1.0,1.0,0,cloudy,0,unknown,summit,0.57,1
+2026-04-19,lideta,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lideta,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lideta,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lideta,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lideta,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lideta,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lideta,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,lideta,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,nifas silk-lafto,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,nifas silk-lafto,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,nifas silk-lafto,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,nifas silk-lafto,9,09:00-12:00,Sunday,1,1,2.7,2.7,1,cloudy,0,no,mekanisa,0.55,1
+2026-04-19,nifas silk-lafto,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,nifas silk-lafto,15,15:00-18:00,Sunday,1,0,1.0,1.0,0,windy,0,yes,jemo 1,0.81,1
+2026-04-19,nifas silk-lafto,18,18:00-21:00,Sunday,1,0,1.0,1.0,0,windy,0,yes,gotera,0.82,1
+2026-04-19,nifas silk-lafto,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,yeka,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,yeka,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,yeka,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,yeka,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,yeka,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,yeka,15,15:00-18:00,Sunday,1,1,1.36,1.36,0,rain,1,yes,hayahulet,0.82,1
+2026-04-19,yeka,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-19,yeka,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,addis ketema,0,00:00-03:00,Monday,1,1,2.06,2.06,0,clear,0,no,teklehaimanot,0.68,1
+2026-04-20,addis ketema,3,03:00-06:00,Monday,2,1,1.755,2.51,1,cloudy,1,no,addisu gebeya,0.655,2
+2026-04-20,addis ketema,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,addis ketema,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,addis ketema,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,addis ketema,15,15:00-18:00,Monday,1,0,1.0,1.0,0,cloudy,0,no,autobus tera,0.56,1
+2026-04-20,addis ketema,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,addis ketema,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,akaki kality,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,arada,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,bole,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,bole,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,bole,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,bole,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,bole,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,bole,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,bole,18,18:00-21:00,Monday,1,1,2.87,2.87,1,rain,1,yes,gerji,0.87,1
+2026-04-20,bole,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,gulele,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kirkos,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kirkos,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kirkos,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kirkos,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kirkos,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kirkos,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kirkos,18,18:00-21:00,Monday,2,1,2.215,3.43,1,cloudy,1,no,kazanchis,0.635,2
+2026-04-20,kirkos,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,kolfe keranio,21,21:00-00:00,Monday,1,1,4.16,4.16,1,windy,0,unknown,winget,0.61,1
+2026-04-20,lemi kura,0,00:00-03:00,Monday,1,0,1.0,1.0,0,clear,0,unknown,summit,0.48,1
+2026-04-20,lemi kura,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lemi kura,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lemi kura,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lemi kura,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lemi kura,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lemi kura,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lemi kura,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lideta,0,00:00-03:00,Monday,1,1,2.35,2.35,0,clear,0,unknown,lideta condominiums,0.61,1
+2026-04-20,lideta,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lideta,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lideta,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lideta,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lideta,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lideta,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,lideta,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,nifas silk-lafto,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,nifas silk-lafto,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,nifas silk-lafto,6,06:00-09:00,Monday,1,1,4.2,4.2,1,cloudy,0,unknown,mekanisa,0.59,1
+2026-04-20,nifas silk-lafto,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,nifas silk-lafto,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,nifas silk-lafto,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,nifas silk-lafto,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,nifas silk-lafto,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-20,yeka,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,addis ketema,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,addis ketema,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,addis ketema,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,addis ketema,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,addis ketema,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,addis ketema,15,15:00-18:00,Tuesday,1,0,1.0,1.0,0,clear,0,unknown,autobus tera,0.51,1
+2026-04-21,addis ketema,18,18:00-21:00,Tuesday,1,1,2.68,2.68,1,cloudy,0,no,teklehaimanot,0.64,1
+2026-04-21,addis ketema,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,akaki kality,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,arada,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,arada,3,03:00-06:00,Tuesday,1,0,1.0,1.0,0,cloudy,0,unknown,arat kilo,0.59,1
+2026-04-21,arada,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,arada,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,arada,12,12:00-15:00,Tuesday,1,0,1.0,1.0,0,clear,0,no,4 kilo,0.54,1
+2026-04-21,arada,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,arada,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,arada,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,bole,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,bole,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,bole,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,bole,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,bole,12,12:00-15:00,Tuesday,1,0,1.0,1.0,0,clear,0,unknown,rwanda,0.61,1
+2026-04-21,bole,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,bole,18,18:00-21:00,Tuesday,1,1,2.76,2.76,1,clear,0,no,airport area,0.64,1
+2026-04-21,bole,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,gulele,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,gulele,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,gulele,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,gulele,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,gulele,12,12:00-15:00,Tuesday,1,1,2.78,2.78,1,storm,1,no,piazza side,0.65,1
+2026-04-21,gulele,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,gulele,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,gulele,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kirkos,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kirkos,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kirkos,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kirkos,9,09:00-12:00,Tuesday,1,0,1.0,1.0,0,clear,0,yes,stadium,0.67,1
+2026-04-21,kirkos,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kirkos,15,15:00-18:00,Tuesday,1,0,1.0,1.0,0,clear,0,no,wollo sefer,0.61,1
+2026-04-21,kirkos,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kirkos,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kolfe keranio,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kolfe keranio,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kolfe keranio,6,06:00-09:00,Tuesday,1,1,2.02,2.02,1,rain,1,no,ayer tena,0.65,1
+2026-04-21,kolfe keranio,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kolfe keranio,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kolfe keranio,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kolfe keranio,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,kolfe keranio,21,21:00-00:00,Tuesday,1,0,1.0,1.0,0,clear,0,unknown,tor hailoch,0.51,1
+2026-04-21,lemi kura,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lemi kura,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lemi kura,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lemi kura,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lemi kura,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lemi kura,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lemi kura,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lemi kura,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,lideta,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,nifas silk-lafto,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-21,yeka,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,addis ketema,0,00:00-03:00,Wednesday,2,0,1.0,1.0,0,clear,0,no,sebategna,0.595,2
+2026-04-22,addis ketema,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,addis ketema,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,addis ketema,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,addis ketema,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,addis ketema,15,15:00-18:00,Wednesday,1,0,1.0,1.0,0,cloudy,0,no,sebategna,0.58,1
+2026-04-22,addis ketema,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,addis ketema,21,21:00-00:00,Wednesday,1,1,2.89,2.89,1,rain,1,no,addisu gebeya,0.69,1
+2026-04-22,akaki kality,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,akaki kality,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,akaki kality,6,06:00-09:00,Wednesday,1,1,2.62,2.62,1,clear,0,no,gelane,0.71,1
+2026-04-22,akaki kality,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,akaki kality,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,akaki kality,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,akaki kality,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,akaki kality,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,arada,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,bole,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,gulele,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,gulele,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,gulele,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,gulele,9,09:00-12:00,Wednesday,1,1,1.91,1.91,0,rain,1,no,entoto road,0.58,1
+2026-04-22,gulele,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,gulele,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,gulele,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,gulele,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kirkos,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kirkos,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kirkos,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kirkos,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kirkos,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kirkos,15,15:00-18:00,Wednesday,1,1,2.53,2.53,1,clear,0,no,bambis,0.63,1
+2026-04-22,kirkos,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kirkos,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,kolfe keranio,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lemi kura,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lemi kura,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lemi kura,6,06:00-09:00,Wednesday,2,1,2.585,2.87,1,rain,1,no,figa,0.685,2
+2026-04-22,lemi kura,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lemi kura,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lemi kura,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lemi kura,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lemi kura,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lideta,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lideta,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lideta,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lideta,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lideta,12,12:00-15:00,Wednesday,1,1,1.32,1.32,0,rain,1,no,tor hailoch,0.65,1
+2026-04-22,lideta,15,15:00-18:00,Wednesday,1,0,1.0,1.0,0,clear,0,yes,mexico,0.72,1
+2026-04-22,lideta,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,lideta,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,nifas silk-lafto,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-22,yeka,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,addis ketema,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,addis ketema,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,addis ketema,6,06:00-09:00,Thursday,1,1,4.32,4.32,1,clear,0,no,teklehaimanot,0.73,1
+2026-04-23,addis ketema,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,addis ketema,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,addis ketema,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,addis ketema,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,addis ketema,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,akaki kality,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,akaki kality,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,akaki kality,6,06:00-09:00,Thursday,1,1,2.74,2.74,1,clear,0,no,tulu dimtu,0.59,1
+2026-04-23,akaki kality,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,akaki kality,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,akaki kality,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,akaki kality,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,akaki kality,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,arada,21,21:00-00:00,Thursday,1,0,1.0,1.0,0,clear,0,yes,giorgis,0.72,1
+2026-04-23,bole,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,bole,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,bole,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,bole,9,09:00-12:00,Thursday,1,1,2.88,2.88,1,storm,1,no,bole medhanialem,0.69,1
+2026-04-23,bole,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,bole,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,bole,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,bole,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,gulele,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,gulele,3,03:00-06:00,Thursday,1,1,1.6,1.6,0,clear,0,no,addisu gebeya,0.56,1
+2026-04-23,gulele,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,gulele,9,09:00-12:00,Thursday,1,0,1.0,1.0,0,rain,1,yes,piazza side,0.79,1
+2026-04-23,gulele,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,gulele,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,gulele,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,gulele,21,21:00-00:00,Thursday,1,1,3.19,3.19,1,windy,0,no,piazza side,0.6,1
+2026-04-23,kirkos,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kirkos,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kirkos,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kirkos,9,09:00-12:00,Thursday,1,0,1.0,1.0,0,cloudy,0,yes,kazanchis,0.66,1
+2026-04-23,kirkos,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kirkos,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kirkos,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kirkos,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,kolfe keranio,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lemi kura,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lemi kura,3,03:00-06:00,Thursday,1,0,1.0,1.0,0,cloudy,0,unknown,figa,0.52,1
+2026-04-23,lemi kura,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lemi kura,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lemi kura,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lemi kura,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lemi kura,18,18:00-21:00,Thursday,1,0,1.0,1.0,0,clear,0,unknown,ayat,0.58,1
+2026-04-23,lemi kura,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,lideta,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,12,12:00-15:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,nifas silk-lafto,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,yeka,0,00:00-03:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,yeka,3,03:00-06:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,yeka,6,06:00-09:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,yeka,9,09:00-12:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,yeka,12,12:00-15:00,Thursday,1,0,1.0,1.0,0,clear,0,yes,shola,0.75,1
+2026-04-23,yeka,15,15:00-18:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,yeka,18,18:00-21:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-23,yeka,21,21:00-00:00,Thursday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,addis ketema,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,akaki kality,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,akaki kality,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,akaki kality,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,akaki kality,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,akaki kality,12,12:00-15:00,Friday,1,1,3.84,3.84,1,clear,0,yes,kality,0.78,1
+2026-04-24,akaki kality,15,15:00-18:00,Friday,1,1,4.41,4.41,1,cloudy,0,no,kality,0.65,1
+2026-04-24,akaki kality,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,akaki kality,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,arada,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,bole,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,bole,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,bole,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,bole,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,bole,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,bole,15,15:00-18:00,Friday,1,1,2.19,2.19,0,rain,1,no,rwanda,0.69,1
+2026-04-24,bole,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,bole,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,gulele,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,gulele,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,gulele,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,gulele,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,gulele,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,gulele,15,15:00-18:00,Friday,1,0,1.0,1.0,0,cloudy,0,no,shiro meda,0.52,1
+2026-04-24,gulele,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,gulele,21,21:00-00:00,Friday,1,0,1.0,1.0,0,rain,1,unknown,addisu gebeya,0.53,1
+2026-04-24,kirkos,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kirkos,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kirkos,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kirkos,9,09:00-12:00,Friday,1,0,1.0,1.0,0,clear,0,yes,mexico,0.68,1
+2026-04-24,kirkos,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kirkos,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kirkos,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kirkos,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,kolfe keranio,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lemi kura,21,21:00-00:00,Friday,1,1,2.16,2.16,1,windy,0,unknown,goro,0.65,1
+2026-04-24,lideta,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lideta,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lideta,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lideta,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lideta,12,12:00-15:00,Friday,1,0,1.0,1.0,0,cloudy,0,no,mexico,0.52,1
+2026-04-24,lideta,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lideta,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,lideta,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,0,00:00-03:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,6,06:00-09:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,9,09:00-12:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,nifas silk-lafto,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,yeka,0,00:00-03:00,Friday,1,0,1.0,1.0,0,cloudy,0,no,hayahulet,0.61,1
+2026-04-24,yeka,3,03:00-06:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,yeka,6,06:00-09:00,Friday,1,1,2.71,2.71,1,rain,1,yes,megenagna,0.86,1
+2026-04-24,yeka,9,09:00-12:00,Friday,1,0,0.96,0.96,0,clear,0,no,kotebe,0.64,1
+2026-04-24,yeka,12,12:00-15:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,yeka,15,15:00-18:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,yeka,18,18:00-21:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-24,yeka,21,21:00-00:00,Friday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,addis ketema,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,akaki kality,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,akaki kality,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,akaki kality,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,akaki kality,9,09:00-12:00,Saturday,1,1,3.02,3.02,1,cloudy,0,no,saris abo side,0.64,1
+2026-04-25,akaki kality,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,akaki kality,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,akaki kality,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,akaki kality,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,arada,0,00:00-03:00,Saturday,1,0,1.0,1.0,0,clear,0,yes,piassa,0.73,1
+2026-04-25,arada,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,arada,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,arada,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,arada,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,arada,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,arada,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,arada,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,bole,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,gulele,21,21:00-00:00,Saturday,1,0,1.0,1.0,0,cloudy,0,unknown,entoto road,0.56,1
+2026-04-25,kirkos,0,00:00-03:00,Saturday,1,0,1.0,1.0,0,clear,0,yes,wollo sefer,0.8,1
+2026-04-25,kirkos,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kirkos,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kirkos,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kirkos,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kirkos,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kirkos,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kirkos,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kolfe keranio,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kolfe keranio,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kolfe keranio,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kolfe keranio,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kolfe keranio,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kolfe keranio,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,kolfe keranio,18,18:00-21:00,Saturday,1,0,1.0,1.0,0,clear,0,unknown,jemo michael,0.5,1
+2026-04-25,kolfe keranio,21,21:00-00:00,Saturday,1,0,1.0,1.0,0,clear,0,no,ayer tena,0.49,1
+2026-04-25,lemi kura,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lemi kura,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lemi kura,6,06:00-09:00,Saturday,1,1,2.07,2.07,1,clear,0,yes,goro,0.75,1
+2026-04-25,lemi kura,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lemi kura,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lemi kura,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lemi kura,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lemi kura,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,lideta,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,6,06:00-09:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,9,09:00-12:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,15,15:00-18:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,nifas silk-lafto,21,21:00-00:00,Saturday,1,1,4.3,4.3,1,clear,0,no,gotera,0.57,1
+2026-04-25,yeka,0,00:00-03:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,yeka,3,03:00-06:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,yeka,6,06:00-09:00,Saturday,1,1,2.3,2.3,1,windy,0,no,lamberet,0.6,1
+2026-04-25,yeka,9,09:00-12:00,Saturday,1,0,1.0,1.0,0,clear,0,yes,kotebe,0.67,1
+2026-04-25,yeka,12,12:00-15:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,yeka,15,15:00-18:00,Saturday,1,1,2.07,2.07,0,storm,1,yes,lamberet,0.89,1
+2026-04-25,yeka,18,18:00-21:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-25,yeka,21,21:00-00:00,Saturday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,addis ketema,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,addis ketema,3,03:00-06:00,Sunday,1,1,2.77,2.77,1,storm,1,no,teklehaimanot,0.69,1
+2026-04-26,addis ketema,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,addis ketema,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,addis ketema,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,addis ketema,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,addis ketema,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,addis ketema,21,21:00-00:00,Sunday,1,1,2.65,2.65,1,clear,0,no,addisu gebeya,0.6,1
+2026-04-26,akaki kality,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,akaki kality,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,akaki kality,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,akaki kality,9,09:00-12:00,Sunday,1,1,3.1,3.1,1,rain,1,no,kality,0.72,1
+2026-04-26,akaki kality,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,akaki kality,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,akaki kality,18,18:00-21:00,Sunday,1,1,2.43,2.43,1,clear,0,no,saris abo side,0.57,1
+2026-04-26,akaki kality,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,arada,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,arada,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,arada,6,06:00-09:00,Sunday,1,1,2.83,2.83,1,storm,1,no,sidist kilo,0.65,1
+2026-04-26,arada,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,arada,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,arada,15,15:00-18:00,Sunday,1,0,1.0,1.0,0,rain,1,no,sidist kilo,0.57,1
+2026-04-26,arada,18,18:00-21:00,Sunday,1,0,1.0,1.0,0,cloudy,0,yes,arat kilo,0.74,1
+2026-04-26,arada,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,bole,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,gulele,0,00:00-03:00,Sunday,1,0,1.0,1.0,0,clear,0,yes,addisu gebeya,0.74,1
+2026-04-26,gulele,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,gulele,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,gulele,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,gulele,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,gulele,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,gulele,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,gulele,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kirkos,21,21:00-00:00,Sunday,1,1,2.45,2.45,0,rain,1,no,meskel square,0.74,1
+2026-04-26,kolfe keranio,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kolfe keranio,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kolfe keranio,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kolfe keranio,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kolfe keranio,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kolfe keranio,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kolfe keranio,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,kolfe keranio,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lemi kura,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lideta,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lideta,3,03:00-06:00,Sunday,1,0,1.0,1.0,0,rain,1,unknown,lideta condominiums,0.55,1
+2026-04-26,lideta,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lideta,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lideta,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lideta,15,15:00-18:00,Sunday,1,0,0.32,0.32,0,cloudy,0,no,balcha area,0.63,1
+2026-04-26,lideta,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,lideta,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,nifas silk-lafto,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,0,00:00-03:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,3,03:00-06:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,6,06:00-09:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,9,09:00-12:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,12,12:00-15:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,15,15:00-18:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,18,18:00-21:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-26,yeka,21,21:00-00:00,Sunday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,addis ketema,0,00:00-03:00,Monday,1,1,2.18,2.18,0,clear,0,yes,sebategna,0.8,1
+2026-04-27,addis ketema,3,03:00-06:00,Monday,2,1,2.115,3.23,1,clear,1,no,autobus tera,0.605,2
+2026-04-27,addis ketema,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,addis ketema,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,addis ketema,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,addis ketema,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,addis ketema,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,addis ketema,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,akaki kality,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,arada,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,arada,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,arada,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,arada,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,arada,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,arada,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,arada,18,18:00-21:00,Monday,1,0,1.0,1.0,0,clear,0,no,sidist kilo,0.67,1
+2026-04-27,arada,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,bole,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,gulele,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kirkos,0,00:00-03:00,Monday,1,0,0.3,0.3,0,clear,0,yes,mexico,0.85,1
+2026-04-27,kirkos,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kirkos,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kirkos,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kirkos,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kirkos,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kirkos,18,18:00-21:00,Monday,1,1,3.08,3.08,1,rain,1,no,stadium,0.68,1
+2026-04-27,kirkos,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kolfe keranio,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kolfe keranio,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kolfe keranio,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kolfe keranio,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kolfe keranio,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kolfe keranio,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,kolfe keranio,18,18:00-21:00,Monday,1,1,2.13,2.13,1,clear,0,no,tor hailoch,0.68,1
+2026-04-27,kolfe keranio,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lemi kura,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lemi kura,3,03:00-06:00,Monday,1,0,1.0,1.0,0,cloudy,0,no,summit,0.6,1
+2026-04-27,lemi kura,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lemi kura,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lemi kura,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lemi kura,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lemi kura,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lemi kura,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,lideta,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,6,06:00-09:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,nifas silk-lafto,21,21:00-00:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,yeka,0,00:00-03:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,yeka,3,03:00-06:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,yeka,6,06:00-09:00,Monday,2,1,3.155,4.02,1,rain,1,no,megenagna,0.63,2
+2026-04-27,yeka,9,09:00-12:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,yeka,12,12:00-15:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,yeka,15,15:00-18:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,yeka,18,18:00-21:00,Monday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-27,yeka,21,21:00-00:00,Monday,1,0,1.0,1.0,0,cloudy,0,no,kotebe,0.61,1
+2026-04-28,addis ketema,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,addis ketema,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,addis ketema,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,addis ketema,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,addis ketema,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,addis ketema,15,15:00-18:00,Tuesday,1,0,1.0,1.0,0,clear,0,no,teklehaimanot,0.57,1
+2026-04-28,addis ketema,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,addis ketema,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,akaki kality,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,akaki kality,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,akaki kality,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,akaki kality,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,akaki kality,12,12:00-15:00,Tuesday,1,0,1.0,1.0,0,clear,0,unknown,saris abo side,0.55,1
+2026-04-28,akaki kality,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,akaki kality,18,18:00-21:00,Tuesday,1,1,2.49,2.49,1,clear,0,no,saris abo side,0.6,1
+2026-04-28,akaki kality,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,arada,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,arada,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,arada,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,arada,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,arada,12,12:00-15:00,Tuesday,1,0,1.0,1.0,0,rain,1,no,giorgis,0.62,1
+2026-04-28,arada,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,arada,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,arada,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,bole,21,21:00-00:00,Tuesday,1,1,3.44,3.44,1,rain,1,no,rwanda,0.68,1
+2026-04-28,gulele,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,gulele,3,03:00-06:00,Tuesday,1,1,2.15,2.15,0,clear,0,no,shiro meda,0.65,1
+2026-04-28,gulele,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,gulele,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,gulele,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,gulele,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,gulele,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,gulele,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kirkos,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kirkos,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kirkos,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kirkos,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kirkos,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kirkos,15,15:00-18:00,Tuesday,1,1,3.47,3.47,1,windy,0,no,wollo sefer,0.74,1
+2026-04-28,kirkos,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kirkos,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kolfe keranio,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kolfe keranio,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kolfe keranio,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kolfe keranio,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kolfe keranio,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kolfe keranio,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,kolfe keranio,18,18:00-21:00,Tuesday,2,1,2.39,3.68,1,clear,0,no,tor hailoch,0.585,2
+2026-04-28,kolfe keranio,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lemi kura,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,lideta,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,12,12:00-15:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,nifas silk-lafto,21,21:00-00:00,Tuesday,1,1,2.02,2.02,1,clear,0,no,saris,0.58,1
+2026-04-28,yeka,0,00:00-03:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,yeka,3,03:00-06:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,yeka,6,06:00-09:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,yeka,9,09:00-12:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,yeka,12,12:00-15:00,Tuesday,1,0,1.0,1.0,0,windy,0,unknown,kotebe,0.6,1
+2026-04-28,yeka,15,15:00-18:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,yeka,18,18:00-21:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-28,yeka,21,21:00-00:00,Tuesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,addis ketema,21,21:00-00:00,Wednesday,1,0,1.0,1.0,0,clear,0,yes,teklehaimanot,0.74,1
+2026-04-29,akaki kality,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,akaki kality,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,akaki kality,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,akaki kality,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,akaki kality,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,akaki kality,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,akaki kality,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,akaki kality,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,arada,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,bole,0,00:00-03:00,Wednesday,1,0,1.0,1.0,0,clear,0,yes,bole medhanialem,0.71,1
+2026-04-29,bole,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,bole,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,bole,9,09:00-12:00,Wednesday,1,1,1.78,1.78,0,clear,0,no,cmc,0.63,1
+2026-04-29,bole,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,bole,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,bole,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,bole,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,gulele,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,gulele,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,gulele,6,06:00-09:00,Wednesday,1,0,1.0,1.0,0,clear,0,unknown,piazza side,0.6,1
+2026-04-29,gulele,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,gulele,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,gulele,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,gulele,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,gulele,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kirkos,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kolfe keranio,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kolfe keranio,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kolfe keranio,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kolfe keranio,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kolfe keranio,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kolfe keranio,15,15:00-18:00,Wednesday,1,1,1.02,1.02,0,cloudy,0,yes,winget,0.83,1
+2026-04-29,kolfe keranio,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,kolfe keranio,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lemi kura,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lemi kura,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lemi kura,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lemi kura,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lemi kura,12,12:00-15:00,Wednesday,1,1,1.61,1.61,0,rain,1,unknown,goro,0.67,1
+2026-04-29,lemi kura,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lemi kura,18,18:00-21:00,Wednesday,1,1,1.71,1.71,0,cloudy,0,no,summit,0.64,1
+2026-04-29,lemi kura,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lideta,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lideta,3,03:00-06:00,Wednesday,1,1,1.24,1.24,0,clear,0,no,lideta condominiums,0.63,1
+2026-04-29,lideta,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lideta,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lideta,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lideta,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lideta,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,lideta,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,nifas silk-lafto,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,nifas silk-lafto,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,nifas silk-lafto,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,nifas silk-lafto,9,09:00-12:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,nifas silk-lafto,12,12:00-15:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,nifas silk-lafto,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,nifas silk-lafto,18,18:00-21:00,Wednesday,1,1,2.87,2.87,1,windy,0,no,gotera,0.68,1
+2026-04-29,nifas silk-lafto,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,yeka,0,00:00-03:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,yeka,3,03:00-06:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,yeka,6,06:00-09:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,yeka,9,09:00-12:00,Wednesday,1,0,1.0,1.0,0,clear,0,no,kotebe,0.51,1
+2026-04-29,yeka,12,12:00-15:00,Wednesday,1,1,1.17,1.17,0,clear,0,no,ayat zone 2,0.62,1
+2026-04-29,yeka,15,15:00-18:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,yeka,18,18:00-21:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
+2026-04-29,yeka,21,21:00-00:00,Wednesday,0,0,0.0,0.0,0,unknown,0,unknown,unknown,0.0,0
